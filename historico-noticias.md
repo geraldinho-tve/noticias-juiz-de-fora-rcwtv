@@ -930,3 +930,7 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Afastamentos por vício em jogos crescem cinco vezes no Brasil](<https://www.rcwtv.com.br/noticia/afastamentos-por-vicio-em-jogos-crescem-cinco-vezes-no-brasil>) - *28/10/2026*
 - [Justiça bloqueia R$ 327 milhões do Comando Vermelho por venda ilegal de gás](<https://www.rcwtv.com.br/noticia/justica-bloqueia-r-327-milhoes-do-comando-vermelho-por-venda-ilegal-de-gas>) - *28/10/2026*
 
+### Atualização de 28/10/2026
+- [Viagem de Flávio Bolsonaro aos EUA e reeleição de Lula geram debate no Plenário](<https://www.rcwtv.com.br/noticia/viagem-de-flavio-bolsonaro-aos-eua-e-reeleicao-de-lula-geram-debate-no-plenario>) - *28/10/2026*
+- [Flávio Bolsonaro divulga carta de agradecimento a Trump e Milei após fugir](<https://www.rcwtv.com.br/noticia/flavio-bolsonaro-divulga-carta-de-agradecimento-a-trump-e-milei-apos-fugir>) - *28/10/2026*
+

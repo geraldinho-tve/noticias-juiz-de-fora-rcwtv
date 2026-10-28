@@ -18,6 +18,8 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Viagem de Flávio Bolsonaro aos EUA e reeleição de Lula geram debate no Plenário](<https://www.rcwtv.com.br/noticia/viagem-de-flavio-bolsonaro-aos-eua-e-reeleicao-de-lula-geram-debate-no-plenario>)
+- 📰 [Flávio Bolsonaro divulga carta de agradecimento a Trump e Milei após fugir](<https://www.rcwtv.com.br/noticia/flavio-bolsonaro-divulga-carta-de-agradecimento-a-trump-e-milei-apos-fugir>)
 - 📰 [Afastamentos por vício em jogos crescem cinco vezes no Brasil](<https://www.rcwtv.com.br/noticia/afastamentos-por-vicio-em-jogos-crescem-cinco-vezes-no-brasil>)
 - 📰 [Justiça bloqueia R$ 327 milhões do Comando Vermelho por venda ilegal de gás](<https://www.rcwtv.com.br/noticia/justica-bloqueia-r-327-milhoes-do-comando-vermelho-por-venda-ilegal-de-gas>)
 - 📰 [As principais novidades para o MEI e pequenas empresas em 2026](<https://www.rcwtv.com.br/noticia/as-principais-novidades-para-o-mei-e-pequenas-empresas-em-2026>)
@@ -26,8 +28,6 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 - 📰 [PF apura a fuga de Flávio Bolsonaro do Brasil após ordem do STF](<https://www.rcwtv.com.br/noticia/pf-apura-a-fuga-de-flavio-bolsonaro-do-brasil-apos-ordem-do-stf>)
 - 📰 [Kassio Nunes Marques pede parecer da PGR sobre revisão criminal de Bolsonaro](<https://www.rcwtv.com.br/noticia/kassio-nunes-marques-pede-parecer-da-pgr-sobre-revisao-criminal-de-bolsonaro>)
 - 📰 [Enem 2026: mulheres e pardos lideram inscrições confirmadas pelo Inep](<https://www.rcwtv.com.br/noticia/enem-2026-mulheres-e-pardos-lideram-inscricoes-confirmadas-pelo-inep>)
-- 📰 [Câmara analisa acordo do Mercosul sobre proteção às mulheres em violência](<https://www.rcwtv.com.br/noticia/camara-analisa-acordo-do-mercosul-sobre-protecao-as-mulheres-em-violencia>)
-- 📰 [Juiz de Fora e Minas Gerais: Inscrições para Cadastro de Creches em 2027 Começam em Novembro](<https://www.rcwtv.com.br/noticia/juiz-de-fora-e-minas-gerais-inscricoes-para-cadastro-de-creches-em-2027-comecam-em-novembro>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
