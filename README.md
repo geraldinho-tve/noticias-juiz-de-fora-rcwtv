@@ -18,6 +18,8 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Afastamentos por vício em jogos crescem cinco vezes no Brasil](<https://www.rcwtv.com.br/noticia/afastamentos-por-vicio-em-jogos-crescem-cinco-vezes-no-brasil>)
+- 📰 [Justiça bloqueia R$ 327 milhões do Comando Vermelho por venda ilegal de gás](<https://www.rcwtv.com.br/noticia/justica-bloqueia-r-327-milhoes-do-comando-vermelho-por-venda-ilegal-de-gas>)
 - 📰 [As principais novidades para o MEI e pequenas empresas em 2026](<https://www.rcwtv.com.br/noticia/as-principais-novidades-para-o-mei-e-pequenas-empresas-em-2026>)
 - 📰 [Câmara aprova acordo do mercosul para proteção de mulheres](<https://www.rcwtv.com.br/noticia/camara-aprova-acordo-do-mercosul-para-protecao-de-mulheres>)
 - 📰 [Consumo de alimentos cresce com o avanço do mercado supermercadista no país](<https://www.rcwtv.com.br/noticia/consumo-de-alimentos-cresce-com-o-avanco-do-mercado-supermercadista-no-pais>)
@@ -26,8 +28,6 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 - 📰 [Enem 2026: mulheres e pardos lideram inscrições confirmadas pelo Inep](<https://www.rcwtv.com.br/noticia/enem-2026-mulheres-e-pardos-lideram-inscricoes-confirmadas-pelo-inep>)
 - 📰 [Câmara analisa acordo do Mercosul sobre proteção às mulheres em violência](<https://www.rcwtv.com.br/noticia/camara-analisa-acordo-do-mercosul-sobre-protecao-as-mulheres-em-violencia>)
 - 📰 [Juiz de Fora e Minas Gerais: Inscrições para Cadastro de Creches em 2027 Começam em Novembro](<https://www.rcwtv.com.br/noticia/juiz-de-fora-e-minas-gerais-inscricoes-para-cadastro-de-creches-em-2027-comecam-em-novembro>)
-- 📰 [Juiz de Fora e Minas Gerais: Visita Mediada Caminhos de Mariano Explora Roteiro da Igreja da Glória](<https://www.rcwtv.com.br/noticia/juiz-de-fora-e-minas-gerais-visita-mediada-caminhos-de-mariano-explora-roteiro-da-igreja-da-gloria>)
-- 📰 [Bombeiros realizam corte em calçada para libertar gato preso em tubulação no bairro Santa Cruz](<https://www.rcwtv.com.br/noticia/bombeiros-realizam-corte-em-calcada-para-libertar-gato-preso-em-tubulacao-no-bairro-santa-cruz>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

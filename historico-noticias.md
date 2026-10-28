@@ -926,3 +926,7 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Cesama executa reparo emergencial em tubulação de água e abastecimento pode oscilar em dois bairros da Zona Norte](<https://www.rcwtv.com.br/noticia/cesama-executa-reparo-emergencial-em-tubulacao-de-agua-e-abastecimento-pode-oscilar-em-dois-bairros-da-zona-norte>) - *28/10/2026*
 - [Marcha para Jesus Altera Trânsito em Juiz de Fora neste Sábado, 31/08](<https://www.rcwtv.com.br/noticia/marcha-para-jesus-altera-transito-em-juiz-de-fora-neste-sabado-31-08>) - *28/10/2026*
 
+### Atualização de 28/10/2026
+- [Afastamentos por vício em jogos crescem cinco vezes no Brasil](<https://www.rcwtv.com.br/noticia/afastamentos-por-vicio-em-jogos-crescem-cinco-vezes-no-brasil>) - *28/10/2026*
+- [Justiça bloqueia R$ 327 milhões do Comando Vermelho por venda ilegal de gás](<https://www.rcwtv.com.br/noticia/justica-bloqueia-r-327-milhoes-do-comando-vermelho-por-venda-ilegal-de-gas>) - *28/10/2026*
+
