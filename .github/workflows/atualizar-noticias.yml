@@ -1,0 +1,107 @@
+name: Atualizar Manchetes e Arquivo Permanente RCWTV
+
+on:
+  schedule:
+    - cron: '0 11,21 * * *' # Roda automaticamente 2 vezes ao dia
+  workflow_dispatch: # Permite rodar manualmente a qualquer momento
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Buscar RSS e Criar Histórico Permanente Cumulativo
+        run: |
+          node -e "
+          const https = require('https');
+          const fs = require('fs');
+
+          https.get('https://www.rcwtv.com.br/rss.xml', (res) => {
+            let xml = '';
+            res.on('data', chunk => xml += chunk);
+            res.on('end', () => {
+              try {
+                const items = [];
+                const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+                let match;
+                while ((match = itemRegex.exec(xml)) !== null) {
+                  const itemBlock = match[1];
+                  const titleMatch = /<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/title>/.exec(itemBlock);
+                  const linkMatch = /<link>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/link>/.exec(itemBlock);
+                  if (titleMatch && linkMatch) {
+                    items.push({
+                      title: titleMatch[1].trim(),
+                      link: linkMatch[1].trim()
+                    });
+                  }
+                }
+
+                if (items.length === 0) {
+                  console.log('Nenhuma matéria encontrada no RSS.');
+                  return;
+                }
+
+                // 1. Atualizar a capa com as 10 mais novas
+                let top10 = '\n';
+                items.slice(0, 10).forEach(item => {
+                  top10 += '- 📰 [' + item.title + '](<' + item.link + '>)\n';
+                });
+                
+                let readme = fs.readFileSync('README.md', 'utf8');
+                const startMarker = '<!-- RCWTV_FEED_START -->';
+                const endMarker = '<!-- RCWTV_FEED_END -->';
+                const regex = new RegExp(startMarker + '[\\s\\S]*?' + endMarker, 'm');
+                readme = readme.replace(regex, startMarker + top10 + endMarker);
+                
+                if (!readme.includes('historico-noticias.md')) {
+                  readme = readme.replace(endMarker, endMarker + '\n\n👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**');
+                }
+                fs.writeFileSync('README.md', readme);
+
+                // 2. Arquivo Histórico Cumulativo Permanente
+                const histFile = 'historico-noticias.md';
+                let histContent = '';
+                if (fs.existsSync(histFile)) {
+                  histContent = fs.readFileSync(histFile, 'utf8');
+                } else {
+                  histContent = '# 📚 Arquivo Histórico Permanente de Notícias - RCWTV\n\n' +
+                                'Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantido pela RCWTV Comunicação.\n\n' +
+                                '[Acesse o Portal Oficial RCWTV](https://www.rcwtv.com.br)\n\n---\n\n';
+                }
+
+                const today = new Date().toLocaleDateString('pt-BR');
+                let newEntries = '';
+                items.forEach(item => {
+                  if (!histContent.includes(item.link)) {
+                    newEntries += '- [' + item.title + '](<' + item.link + '>) - *' + today + '*\n';
+                  }
+                });
+
+                if (newEntries.length > 0) {
+                  histContent = histContent + '### Atualização de ' + today + '\n' + newEntries + '\n';
+                  fs.writeFileSync(histFile, histContent);
+                  console.log('Novas matérias arquivadas com sucesso!');
+                } else {
+                  console.log('Todas as matérias atuais já estavam no arquivo histórico.');
+                }
+              } catch(e) {
+                console.error('Erro ao processar RSS:', e);
+              }
+            });
+          }).on('error', (e) => console.error('Erro na requisição HTTPS:', e));
+          "
+
+      - name: Salvar alterações no repositório
+        run: |
+          git config --global user.name "RCWTV Bot"
+          git config --global user.email "bot@rcwtv.com.br"
+          git add README.md historico-noticias.md || true
+          git commit -m "Auto: atualização de manchetes e histórico permanente RCWTV" || echo "Sem novidades"
+          git push

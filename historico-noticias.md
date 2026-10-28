@@ -1,0 +1,928 @@
+# 📚 Arquivo Histórico Permanente de Notícias - RCWTV
+
+Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantido pela RCWTV Comunicação.
+
+[Acesse o Portal Oficial RCWTV](https://www.rcwtv.com.br)
+
+---
+
+### Atualização de 05/09/2026
+- [Programa ATeG completa 10 anos em MG e injeta R$ 6,5 bilhões no agronegócio](<https://www.rcwtv.com.br/noticia/programa-ateg-completa-10-anos-em-mg-e-injeta-r-6-5-bilhoes-no-agronegocio>) - *05/09/2026*
+- [Veja a rotina dos candidatos a presidente na sexta-feira de campanha](<https://www.rcwtv.com.br/noticia/veja-a-rotina-dos-candidatos-a-presidente-na-sexta-feira-de-campanha>) - *05/09/2026*
+- [Sérgio Cabral é condenado por esquema de regalias em presídios no Rio](<https://www.rcwtv.com.br/noticia/sergio-cabral-e-condenado-por-esquema-de-regalias-em-presidios-no-rio>) - *05/09/2026*
+- [CCJ aprova proposta que prorroga contrato de estágio após a formatura](<https://www.rcwtv.com.br/noticia/ccj-aprova-proposta-que-prorroga-contrato-de-estagio-apos-a-formatura>) - *05/09/2026*
+- [Polícia Federal combate fraude no registro de armas de CACs no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/policia-federal-combate-fraude-no-registro-de-armas-de-cacs-no-rio-de-janeiro>) - *05/09/2026*
+- [Comissão aprova prazo de 24 horas para buscar pessoas desaparecidas](<https://www.rcwtv.com.br/noticia/comissao-aprova-prazo-de-24-horas-para-buscar-pessoas-desaparecidas>) - *05/09/2026*
+- [Balança comercial registra superávit de US$ 7,4 bilhões em agosto](<https://www.rcwtv.com.br/noticia/balanca-comercial-registra-superavit-de-us-7-4-bilhoes-em-agosto>) - *05/09/2026*
+- [Fachin afirma que resposta à crise no STF seguirá estritamente a legalidade](<https://www.rcwtv.com.br/noticia/fachin-afirma-que-resposta-a-crise-no-stf-seguira-estritamente-a-legalidade>) - *05/09/2026*
+- [Brasil tem só 45,5% dos moradores com ao menos três árvores no entorno de casa](<https://www.rcwtv.com.br/noticia/brasil-tem-so-45-5-dos-moradores-com-ao-menos-tres-arvores-no-entorno-de-casa>) - *05/09/2026*
+- [Construtora do primeiro “edifício-árvore” do Brasil apoia maior feira da construção civil de SC](<https://www.rcwtv.com.br/noticia/construtora-do-primeiro-edificio-arvore-do-brasil-apoia-maior-feira-da-construcao-civil-de-sc>) - *05/09/2026*
+
+### Atualização de 05/09/2026
+- [Justiça condena pais em Santa Catarina por abandono afetivo após expulsão](<https://www.rcwtv.com.br/noticia/justica-condena-pais-em-santa-catarina-por-abandono-afetivo-apos-expulsao>) - *05/09/2026*
+- [Três Corações conclui compra da Yoki e Kitano no Brasil](<https://www.rcwtv.com.br/noticia/tres-coracoes-conclui-compra-da-yoki-e-kitano-no-brasil>) - *05/09/2026*
+- [Mega-Sena sorteia prêmio acumulado de R$ 48 milhões neste domingo](<https://www.rcwtv.com.br/noticia/mega-sena-sorteia-premio-acumulado-de-r-48-milhoes-neste-domingo>) - *05/09/2026*
+
+### Atualização de 06/09/2026
+- [Gilmar Mendes propõe proibir policiais como assessores de ministros do STF](<https://www.rcwtv.com.br/noticia/gilmar-mendes-propoe-proibir-policiais-como-assessores-de-ministros-do-stf>) - *06/09/2026*
+
+### Atualização de 06/09/2026
+- [Mega-Sena acumula e próximo sorteio pagará R$ 70 milhões](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-proximo-sorteio-pagara-r-70-milhoes>) - *06/09/2026*
+- [Desfile de 7 de Setembro em Brasília terá reforço na segurança e transporte grátis](<https://www.rcwtv.com.br/noticia/desfile-de-7-de-setembro-em-brasilia-tera-reforco-na-seguranca-e-transporte-gratis>) - *06/09/2026*
+
+### Atualização de 07/09/2026
+- [Candidatos a presidente intensificam campanha eleitoral pelo país](<https://www.rcwtv.com.br/noticia/candidatos-a-presidente-intensificam-campanha-eleitoral-pelo-pais>) - *07/09/2026*
+- [São Paulo registra mais de 58 mil casos de dengue em 2024](<https://www.rcwtv.com.br/noticia/sao-paulo-registra-mais-de-58-mil-casos-de-dengue-em-2024>) - *07/09/2026*
+
+### Atualização de 07/09/2026
+- [Manifestações do grito dos excluídos reúnem protestos por moradia no país](<https://www.rcwtv.com.br/noticia/manifestacoes-do-grito-dos-excluidos-reunem-protestos-por-moradia-no-pais>) - *07/09/2026*
+- [Vendedores ambulantes buscam sustento extra no desfile de 7 de Setembro](<https://www.rcwtv.com.br/noticia/vendedores-ambulantes-buscam-sustento-extra-no-desfile-de-7-de-setembro>) - *07/09/2026*
+- [Público madruga para acompanhar o desfile de 7 de setembro em Brasília](<https://www.rcwtv.com.br/noticia/publico-madruga-para-acompanhar-o-desfile-de-7-de-setembro-em-brasilia>) - *07/09/2026*
+- [Acusado de matar Thais a tiros em Juiz de Fora enfrentará júri popular](<https://www.rcwtv.com.br/noticia/acusado-de-matar-thais-a-tiros-em-juiz-de-fora-enfrentara-juri-popular>) - *07/09/2026*
+- [Prisão em massa por golpe de falsas vagas de modelo em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prisao-em-massa-por-golpe-de-falsas-vagas-de-modelo-em-juiz-de-fora>) - *07/09/2026*
+- [Multas aplicadas a empresas financiam melhorias na defesa do consumidor em Minas Gerais](<https://www.rcwtv.com.br/noticia/multas-aplicadas-a-empresas-financiam-melhorias-na-defesa-do-consumidor-em-minas-gerais>) - *07/09/2026*
+- [Desfile de Sete de Setembro destaca soberania, Copa e combate ao feminicídio](<https://www.rcwtv.com.br/noticia/desfile-de-sete-de-setembro-destaca-soberania-copa-e-combate-ao-feminicidio>) - *07/09/2026*
+
+### Atualização de 08/09/2026
+- [Presidenciáveis marcam feriado de 7 de setembro com atos políticos e propostas](<https://www.rcwtv.com.br/noticia/presidenciaveis-marcam-feriado-de-7-de-setembro-com-atos-politicos-e-propostas>) - *08/09/2026*
+
+### Atualização de 08/09/2026
+- [Comissão fixa prazo para repasse a candidaturas de mulheres negras e indígenas](<https://www.rcwtv.com.br/noticia/comissao-fixa-prazo-para-repasse-a-candidaturas-de-mulheres-negras-e-indigenas>) - *08/09/2026*
+- [Sistema Faemg Senar oferece cursos inéditos de manutenção e pulverização por drones agrícolas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/sistema-faemg-senar-oferece-cursos-ineditos-de-manutencao-e-pulverizacao-por-drones-agricolas-em-juiz-de-fora>) - *08/09/2026*
+- [CCJ aprova proposta que garante justiça gratuita a pessoas com câncer e deficiência](<https://www.rcwtv.com.br/noticia/ccj-aprova-proposta-que-garante-justica-gratuita-a-pessoas-com-cancer-e-deficiencia>) - *08/09/2026*
+- [Partido Novo pediu prisão preventiva de Andrei com base em mensagens de Vorcaro](<https://www.rcwtv.com.br/noticia/partido-novo-pediu-prisao-preventiva-de-andrei-com-base-em-mensagens-de-vorcaro>) - *08/09/2026*
+- [Anvisa aprova Aquipta, novo tratamento de enxaqueca no Brasil](<https://www.rcwtv.com.br/noticia/anvisa-aprova-aquipta-novo-tratamento-de-enxaqueca-no-brasil>) - *08/09/2026*
+- [CCJ aprova diretrizes de atenção à hipertensão pulmonar na Câmara](<https://www.rcwtv.com.br/noticia/ccj-aprova-diretrizes-de-atencao-a-hipertensao-pulmonar-na-camara>) - *08/09/2026*
+- [Com alta de 23,6% e R$ 421 milhões de receita líquida, Vetter é a única construtora catarinense a figurar em ranking nacional](<https://www.rcwtv.com.br/noticia/com-alta-de-23-6-e-r-421-milhoes-de-receita-liquida-vetter-e-a-unica-construtora-catarinense-a-figurar-em-ranking-nacional>) - *08/09/2026*
+- [Insetos de dia, anfíbios à noite: a rotina de uma expedição científica no alto da Amazônia](<https://www.rcwtv.com.br/noticia/insetos-de-dia-anfibios-a-noite-a-rotina-de-uma-expedicao-cientifica-no-alto-da-amazonia>) - *08/09/2026*
+- [SWEN.IA: portal brasileiro reúne notícias, benchmarks e análises sobre inteligência artificial](<https://www.rcwtv.com.br/noticia/swen-ia-portal-brasileiro-reune-noticias-benchmarks-e-analises-sobre-inteligencia-artificial>) - *08/09/2026*
+- [Derrapagem na rodovia MG-265, termina em tragédia familiar.](<https://www.rcwtv.com.br/noticia/derrapagem-na-rodovia-mg-265-termina-em-tragedia-familiar>) - *08/09/2026*
+
+### Atualização de 09/09/2026
+- [Parque Halfeld recebe 26ª edição da campanha de adoção responsável da Sebeal neste sábado em Juiz de Fora](<https://www.rcwtv.com.br/noticia/parque-halfeld-recebe-26-edicao-da-campanha-de-adocao-responsavel-da-sebeal-neste-sabado-em-juiz-de-fora>) - *09/09/2026*
+- [MPMG destina R$ 3,4 milhões para ajudar famílias atingidas pelas chuvas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/mpmg-destina-r-3-4-milhoes-para-ajudar-familias-atingidas-pelas-chuvas-em-juiz-de-fora>) - *09/09/2026*
+- [Oficina gratuita debate inteligência artificial e eleições em Juiz de Fora](<https://www.rcwtv.com.br/noticia/oficina-gratuita-debate-inteligencia-artificial-e-eleicoes-em-juiz-de-fora>) - *09/09/2026*
+- [Mega-Sena acumulada em R$ 76 milhões: veja dezenas do concurso 3.055](<https://www.rcwtv.com.br/noticia/mega-sena-acumulada-em-r-76-milhoes-veja-dezenas-do-concurso-3-055>) - *09/09/2026*
+- [Veja as agendas dos candidatos a presidente nesta terça-feira](<https://www.rcwtv.com.br/noticia/veja-as-agendas-dos-candidatos-a-presidente-nesta-terca-feira>) - *09/09/2026*
+- [Delegados da PF criticam afastamento monocrático da direção da corporação](<https://www.rcwtv.com.br/noticia/delegados-da-pf-criticam-afastamento-monocratico-da-direcao-da-corporacao>) - *09/09/2026*
+- [Gilmar Mendes critica afastamento de diretores da PF e pede vista no STF](<https://www.rcwtv.com.br/noticia/gilmar-mendes-critica-afastamento-de-diretores-da-pf-e-pede-vista-no-stf>) - *09/09/2026*
+- [Nova lei cria fundo de financiamento para ampliar o acesso à justiça gratuita](<https://www.rcwtv.com.br/noticia/nova-lei-cria-fundo-de-financiamento-para-ampliar-o-acesso-a-justica-gratuita>) - *09/09/2026*
+- [Comissão aprova Auxílio Mãe Atípica de R$ 600 para responsáveis por crianças com deficiência](<https://www.rcwtv.com.br/noticia/comissao-aprova-auxilio-mae-atipica-de-r-600-para-responsaveis-por-criancas-com-deficiencia>) - *09/09/2026*
+- [Lei em Juiz de Fora autoriza incentivo a denúncias de descarte irregular](<https://www.rcwtv.com.br/noticia/lei-juiz-de-fora-incentivo-denuncias-descarte-irregular-lixo>) - *09/09/2026*
+
+### Atualização de 09/09/2026
+- [Juiz de Fora integra rede internacional para adaptar espaços públicos às necessidades das crianças](<https://www.rcwtv.com.br/noticia/juiz-de-fora-integra-rede-internacional-para-adaptar-espacos-publicos-as-necessidades-das-criancas>) - *09/09/2026*
+- [Mutirão do Mercado Livre e Prefeitura de Juiz de Fora oferece salários de até R$ 2,4 mil](<https://www.rcwtv.com.br/noticia/mutirao-do-mercado-livre-e-prefeitura-de-juiz-de-fora-oferece-salarios-de-ate-r-2-4-mil>) - *09/09/2026*
+- [Circuito de Eventos Agropecuários de Juiz de Fora realiza rodada dupla em Pirapetinga e Filgueiras](<https://www.rcwtv.com.br/noticia/circuito-de-eventos-agropecuarios-de-juiz-de-fora-realiza-rodada-dupla-em-pirapetinga-e-filgueiras>) - *09/09/2026*
+- [FIEMG divulga manifesto por transparência no STF e cobra rigor na apuração de denúncias](<https://www.rcwtv.com.br/noticia/fiemg-divulga-manifesto-por-transparencia-no-stf-e-cobra-rigor-na-apuracao-de-denuncias>) - *09/09/2026*
+- [Entidades científicas exigem investigação rigorosa sobre crise institucional](<https://www.rcwtv.com.br/noticia/entidades-cientificas-exigem-investigacao-rigorosa-sobre-crise-institucional>) - *09/09/2026*
+- [CCJ aprova desembarque fora da parada para mulheres e idosos à noite](<https://www.rcwtv.com.br/noticia/ccj-aprova-desembarque-fora-da-parada-para-mulheres-e-idosos-a-noite>) - *09/09/2026*
+- [Juiz de Fora promulga leis de gratuidade para entidades sem fins lucrativos e novas regras para o transporte escolar](<https://www.rcwtv.com.br/noticia/juiz-de-fora-promulga-leis-de-gratuidade-para-entidades-sem-fins-lucrativos-e-novas-regras-para-o-transporte-escolar>) - *09/09/2026*
+- [Juiz de Fora avança na proteção neurodivergente com atendimento odontológico em domicílio e canal de denúncias](<https://www.rcwtv.com.br/noticia/juiz-de-fora-avanca-na-protecao-neurodivergente-com-atendimento-odontologico-em-domicilio-e-canal-de-denuncias>) - *09/09/2026*
+- [Juiz de Fora cria programas para combater o lixo com pagamento via Pix e premiação por denúncias](<https://www.rcwtv.com.br/noticia/juiz-de-fora-cria-programas-para-combater-o-lixo-com-pagamento-via-pix-e-premiacao-por-denuncias>) - *09/09/2026*
+- [Quadras de padel e beach tennis do Espaço Rioparque começam a operar em Tijucas (SC)](<https://www.rcwtv.com.br/noticia/quadras-de-padel-e-beach-tennis-do-espaco-rioparque-comecam-a-operar-em-tijucas-sc>) - *09/09/2026*
+
+### Atualização de 10/09/2026
+- [Confira como foi a quarta-feira dos presidenciáveis nas ruas](<https://www.rcwtv.com.br/noticia/confira-como-foi-a-quarta-feira-dos-presidenciaveis-nas-ruas>) - *10/09/2026*
+- [Governo anuncia R$ 7 bilhões mensais em medidas para combustíveis](<https://www.rcwtv.com.br/noticia/governo-anuncia-r-7-bilhoes-mensais-em-medidas-para-combustiveis>) - *10/09/2026*
+- [STF homologa delação que investiga verba para filme sobre Bolsonaro](<https://www.rcwtv.com.br/noticia/stf-homologa-delacao-que-investiga-verba-para-filme-sobre-bolsonaro>) - *10/09/2026*
+- [Violência doméstica: projeto garante atendimento acessível a mulheres com deficiência](<https://www.rcwtv.com.br/noticia/violencia-domestica-projeto-garante-atendimento-acessivel-a-mulheres-com-deficiencia>) - *10/09/2026*
+- [Comissão aprova projeto que amplia embarque armado para agentes de segurança pública](<https://www.rcwtv.com.br/noticia/comissao-aprova-projeto-que-amplia-embarque-armado-para-agentes-de-seguranca-publica>) - *10/09/2026*
+- [Edson Fachin decide retirar Alexandre de Moraes do inquérito das fake news](<https://www.rcwtv.com.br/noticia/edson-fachin-decide-retirar-alexandre-de-moraes-do-inquerito-das-fake-news>) - *10/09/2026*
+- [Edson Fachin suspende decisões sobre a cúpula da Polícia Federal](<https://www.rcwtv.com.br/noticia/edson-fachin-suspende-decisoes-sobre-a-cupula-da-policia-federal>) - *10/09/2026*
+- [Anac autoriza voos excepcionais após as 23h no Aeroporto de Congonhas](<https://www.rcwtv.com.br/noticia/anac-autoriza-voos-excepcionais-apos-as-23h-no-aeroporto-de-congonhas>) - *10/09/2026*
+- [Governo federal amplia subsídio aos combustíveis após alta do petróleo](<https://www.rcwtv.com.br/noticia/governo-federal-amplia-subsidio-aos-combustiveis-apos-alta-do-petroleo>) - *10/09/2026*
+- [ANPR cobra moderação de autoridades diante de forte crise institucional no STF](<https://www.rcwtv.com.br/noticia/anpr-cobra-moderacao-de-autoridades-diante-de-forte-crise-institucional-no-stf>) - *10/09/2026*
+
+### Atualização de 10/09/2026
+- [Locais de prova do Enare e Enamed 2026 já estão disponíveis para consulta dos candidatos](<https://www.rcwtv.com.br/noticia/locais-de-prova-do-enare-e-enamed-2026-ja-estao-disponiveis-para-consulta-dos-candidatos>) - *10/09/2026*
+- [Planos de saúde devem cobrir mamografia digital sem limite de idade](<https://www.rcwtv.com.br/noticia/planos-de-saude-devem-cobrir-mamografia-digital-sem-limite-de-idade>) - *10/09/2026*
+- [1ª Semaninha de História da UFJF movimenta Juiz de Fora com oficinas e debates gratuitos](<https://www.rcwtv.com.br/noticia/1-semaninha-de-historia-da-ufjf-movimenta-juiz-de-fora-com-oficinas-e-debates-gratuitos>) - *10/09/2026*
+- [Saques da poupança superam depósitos e atingem R$ 10,5 bilhões em agosto](<https://www.rcwtv.com.br/noticia/saques-da-poupanca-superam-depositos-e-atingem-r-10-5-bilhoes-em-agosto>) - *10/09/2026*
+- [Rio de Janeiro garante gratuidade no Enem para 150 mil estudantes](<https://www.rcwtv.com.br/noticia/rio-de-janeiro-garante-gratuidade-no-enem-para-150-mil-estudantes>) - *10/09/2026*
+- [Fótons gêmeos mantêm correlação mesmo após viagem de 7 km sobre a Baía de Guanabara](<https://www.rcwtv.com.br/noticia/fotons-gemeos-mantem-correlacao-mesmo-apos-viagem-de-7-km-sobre-a-baia-de-guanabara>) - *10/09/2026*
+- [Operação Make Up: Dino proíbe Mario Frias de deixar o Brasil](<https://www.rcwtv.com.br/noticia/operacao-make-up-dino-proibe-mario-frias-de-deixar-o-brasil>) - *10/09/2026*
+- [Escassez de avaliadores imobiliários pode influenciar o fluxo de capital no Brasil](<https://www.rcwtv.com.br/noticia/escassez-de-avaliadores-imobiliarios-pode-influenciar-o-fluxo-de-capital-no-brasil>) - *10/09/2026*
+- [Estudo investiga associação de clorexidina e fitoterápicos contra fungo causador de infecção hospitalar](<https://www.rcwtv.com.br/noticia/estudo-investiga-associacao-de-clorexidina-e-fitoterapicos-contra-fungo-causador-de-infeccao-hospitalar>) - *10/09/2026*
+- [Shopping Jardim Norte recebe a exposição “Natureza e Arte” com esculturas em papel machê reciclado](<https://www.rcwtv.com.br/noticia/shopping-jardim-norte-recebe-a-exposicao-natureza-e-arte-com-esculturas-em-papel-mache-reciclado>) - *10/09/2026*
+
+### Atualização de 11/09/2026
+- [PF deflagra Operação Make Up contra desvios de emendas de Mario Frias](<https://www.rcwtv.com.br/noticia/pf-deflagra-operacao-make-up-contra-desvios-de-emendas-de-mario-frias>) - *11/09/2026*
+- [Prêmio da Mega-Sena acumula e vai a R$ 85 milhões no domingo](<https://www.rcwtv.com.br/noticia/premio-da-mega-sena-acumula-e-vai-a-r-85-milhoes-no-domingo>) - *11/09/2026*
+- [Confira a movimentação dos candidatos à Presidência nesta quinta-feira](<https://www.rcwtv.com.br/noticia/confira-a-movimentacao-dos-candidatos-a-presidencia-nesta-quinta-feira>) - *11/09/2026*
+- [Seattle Seahawks vence Patriots na abertura da temporada 2026](<https://www.rcwtv.com.br/noticia/seattle-seahawks-vence-patriots-na-abertura-da-temporada-2026>) - *11/09/2026*
+- [Câmara de Juiz de Fora aprova mudanças na destinação de multas da proteção animal](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-aprova-mudancas-na-destinacao-de-multas-da-protecao-animal>) - *11/09/2026*
+- [Praça da Estação recebe feiras de diversidade religiosa e migrantes neste sábado em Juiz de Fora](<https://www.rcwtv.com.br/noticia/praca-da-estacao-recebe-feiras-de-diversidade-religiosa-e-migrantes-neste-sabado-em-juiz-de-fora>) - *11/09/2026*
+- [Prefeitura e Sebrae capacitam produtoras para a MAX Minas Audiovisual em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prefeitura-e-sebrae-capacitam-produtoras-para-a-max-minas-audiovisual-em-juiz-de-fora>) - *11/09/2026*
+- [Brigada de Montanha realiza treinamento de Atendimento Pré-Hospitalar Tático em Juiz de Fora](<https://www.rcwtv.com.br/noticia/brigada-de-montanha-realiza-treinamento-de-atendimento-pre-hospitalar-tatico-em-juiz-de-fora>) - *11/09/2026*
+- [Projeto da Guarda Municipal realiza conscientização sobre bullying e cyberbullying em escola de Juiz de Fora](<https://www.rcwtv.com.br/noticia/projeto-da-guarda-municipal-realiza-conscientizacao-sobre-bullying-e-cyberbullying-em-escola-de-juiz-de-fora>) - *11/09/2026*
+- [Guarda Municipal de Juiz de Fora passa por treinamento para padronização de armamento de fogo](<https://www.rcwtv.com.br/noticia/guarda-municipal-de-juiz-de-fora-passa-por-treinamento-para-padronizacao-de-armamento-de-fogo>) - *11/09/2026*
+
+### Atualização de 11/09/2026
+- [INPC de agosto registra taxa negativa e fica em -0,32%, aponta IBGE](<https://www.rcwtv.com.br/noticia/inpc-de-agosto-registra-taxa-negativa-e-fica-em-0-32-aponta-ibge>) - *11/09/2026*
+- [PF aponta que servidores do Banco Central recebiam propina de ex-banqueiro](<https://www.rcwtv.com.br/noticia/pf-aponta-que-servidores-do-banco-central-recebiam-propina-de-ex-banqueiro>) - *11/09/2026*
+- [Inep divulga a relação final dos aprovados no revalida 2025](<https://www.rcwtv.com.br/noticia/inep-divulga-a-relacao-final-dos-aprovados-no-revalida-2025>) - *11/09/2026*
+- [Ex-companheiro invade casa e atira quatro vezes contra jovem de 23 anos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/ex-companheiro-invade-casa-e-atira-quatro-vezes-contra-jovem-de-23-anos-em-juiz-de-fora>) - *11/09/2026*
+- [MPMG reúne gestores e debate medidas para reduzir riscos na administração pública](<https://www.rcwtv.com.br/noticia/mpmg-reune-gestores-e-debate-medidas-para-reduzir-riscos-na-administracao-publica>) - *11/09/2026*
+- [SAMU atende oito ocorrências graves em diferentes cidades da Zona da Mata e região](<https://www.rcwtv.com.br/noticia/samu-atende-oito-ocorrencias-graves-em-diferentes-cidades-da-zona-da-mata-e-regiao>) - *11/09/2026*
+- [Temperatura máxima na estação seca já aumentou mais de 3 °C em área preservada da Amazônia](<https://www.rcwtv.com.br/noticia/temperatura-maxima-na-estacao-seca-ja-aumentou-mais-de-3-c-em-area-preservada-da-amazonia>) - *11/09/2026*
+- [Bagaço de uva vira biofertilizante para o cultivo de flores comestíveis](<https://www.rcwtv.com.br/noticia/bagaco-de-uva-vira-biofertilizante-para-o-cultivo-de-flores-comestiveis>) - *11/09/2026*
+- [Novo suporte aeromédico será inaugurado em Juiz de Fora para atender 198 municípios](<https://www.rcwtv.com.br/noticia/novo-suporte-aeromedico-sera-inaugurado-em-juiz-de-fora-para-atender-198-municipios>) - *11/09/2026*
+- [Cachaça mineira movimenta R$ 624 milhões e busca espaço em novos mercados](<https://www.rcwtv.com.br/noticia/cachaca-mineira-movimenta-r-624-milhoes-e-busca-espaco-em-novos-mercados>) - *11/09/2026*
+
+### Atualização de 12/09/2026
+- [Mulher e bebê são resgatados de cárcere privado após violência doméstica em Juiz de Fora](<https://www.rcwtv.com.br/noticia/mulher-e-bebe-sao-resgatados-de-carcere-privado-apos-violencia-domestica-em-juiz-de-fora>) - *12/09/2026*
+- [Veja os destaques das agendas dos candidatos à Presidência nesta sexta-feira](<https://www.rcwtv.com.br/noticia/veja-os-destaques-das-agendas-dos-candidatos-a-presidencia-nesta-sexta-feira>) - *12/09/2026*
+- [André Mendonça retira o sigilo no STF de 39 processos envolvendo políticos](<https://www.rcwtv.com.br/noticia/andre-mendonca-retira-o-sigilo-no-stf-de-39-processos-envolvendo-politicos>) - *12/09/2026*
+- [Diretor da Polícia Federal nega ao STF monitoramento do ministro André Mendonça](<https://www.rcwtv.com.br/noticia/diretor-da-policia-federal-nega-ao-stf-monitoramento-do-ministro-andre-mendonca>) - *12/09/2026*
+- [Mendonça libera dados da Operação Compliance Zero e rebate críticas no STF](<https://www.rcwtv.com.br/noticia/mendonca-libera-dados-da-operacao-compliance-zero-e-rebate-criticas-no-stf>) - *12/09/2026*
+- [Enamed 2026: saiba tudo sobre a prova de medicina deste domingo](<https://www.rcwtv.com.br/noticia/enamed-2026-saiba-tudo-sobre-a-prova-de-medicina-deste-domingo>) - *12/09/2026*
+- [Obras na Ponte Preta afetam abastecimento de água em Juiz de Fora nesta segunda-feira](<https://www.rcwtv.com.br/noticia/obras-na-ponte-preta-afetam-abastecimento-de-agua-em-juiz-de-fora-nesta-segunda-feira>) - *12/09/2026*
+- [Câmara dos deputados sedia o 4º congresso brasileiro de comunicação pública](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-sedia-o-4-congresso-brasileiro-de-comunicacao-publica>) - *12/09/2026*
+- [Conselho de Comunicação debate regulação das redes sociais nesta segunda-feira](<https://www.rcwtv.com.br/noticia/conselho-de-comunicacao-debate-regulacao-das-redes-sociais-nesta-segunda-feira>) - *12/09/2026*
+- [GDF confirma suspensão de aulas no DF antes dos turnos das eleições](<https://www.rcwtv.com.br/noticia/gdf-confirma-suspensao-de-aulas-no-df-antes-dos-turnos-das-eleicoes>) - *12/09/2026*
+
+### Atualização de 12/09/2026
+- [Duas pessoas morrem em desabamento em São Paulo na Penha](<https://www.rcwtv.com.br/noticia/duas-pessoas-morrem-em-desabamento-em-sao-paulo-na-penha>) - *12/09/2026*
+- [Resumo com as principais notícias de minas destaca política e economia](<https://www.rcwtv.com.br/noticia/resumo-com-as-principais-noticias-de-minas-destaca-politica-e-economia>) - *12/09/2026*
+- [Defesa de Flávio Bolsonaro tenta mudar relator do caso Dark Horse no STF](<https://www.rcwtv.com.br/noticia/defesa-de-flavio-bolsonaro-tenta-mudar-relator-do-caso-dark-horse-no-stf>) - *12/09/2026*
+- [PF aponta cobranças de Flávio Bolsonaro por recursos para o filme Dark Horse](<https://www.rcwtv.com.br/noticia/pf-aponta-cobrancas-de-flavio-bolsonaro-por-recursos-para-o-filme-dark-horse>) - *12/09/2026*
+- [Bancários mantêm greve da Caixa após rejeitar proposta em assembleia](<https://www.rcwtv.com.br/noticia/bancarios-mantem-greve-da-caixa-apos-rejeitar-proposta-em-assembleia>) - *12/09/2026*
+- [Gilmar Mendes exige acesso a dados do celular de Vorcaro antes de julgamento](<https://www.rcwtv.com.br/noticia/gilmar-mendes-exige-acesso-a-dados-do-celular-de-vorcaro-antes-de-julgamento>) - *12/09/2026*
+- [AMM alerta sobre impactos da renúncia fiscal nos municípios de Minas](<https://www.rcwtv.com.br/noticia/amm-alerta-sobre-impactos-da-renuncia-fiscal-nos-municipios-de-minas>) - *12/09/2026*
+
+### Atualização de 13/09/2026
+- [Entidades lançam carta pela agroecologia nas eleições em SP](<https://www.rcwtv.com.br/noticia/entidades-lancam-carta-pela-agroecologia-nas-eleicoes-em-sp>) - *13/09/2026*
+- [Avião da GOL realiza pouso de emergência após decolar de Goiânia](<https://www.rcwtv.com.br/noticia/aviao-da-gol-realiza-pouso-de-emergencia-apos-decolar-de-goiania>) - *13/09/2026*
+- [PGR reitera pedido ao STF por acesso integral aos dados de Vorcaro](<https://www.rcwtv.com.br/noticia/pgr-reitera-pedido-ao-stf-por-acesso-integral-aos-dados-de-vorcaro>) - *13/09/2026*
+- [SUS já aplicou a vacina Pneumo 20 em mais de 1 milhão de crianças no país](<https://www.rcwtv.com.br/noticia/sus-ja-aplicou-a-vacina-pneumo-20-em-mais-de-1-milhao-de-criancas-no-pais>) - *13/09/2026*
+
+### Atualização de 13/09/2026
+- [Entidades alertam que crise institucional sufoca debate eleitoral de 2026](<https://www.rcwtv.com.br/noticia/entidades-alertam-que-crise-institucional-sufoca-debate-eleitoral-de-2026>) - *13/09/2026*
+
+### Atualização de 14/09/2026
+- [Veja a agenda dos candidatos à Presidência durante o fim de semana](<https://www.rcwtv.com.br/noticia/veja-a-agenda-dos-candidatos-a-presidencia-durante-o-fim-de-semana>) - *14/09/2026*
+- [Ex-ministros manifestam apoio a Edson Fachin diante da crise no STF](<https://www.rcwtv.com.br/noticia/ex-ministros-manifestam-apoio-a-edson-fachin-diante-da-crise-no-stf>) - *14/09/2026*
+- [Mega-Sena acumulada pode pagar R$ 95 milhões no próximo sorteio](<https://www.rcwtv.com.br/noticia/mega-sena-acumulada-pode-pagar-r-95-milhoes-no-proximo-sorteio>) - *14/09/2026*
+- [PF confirma guarda dos dados do celular de Vorcaro e pode enviar ao STF](<https://www.rcwtv.com.br/noticia/pf-confirma-guarda-dos-dados-do-celular-de-vorcaro-e-pode-enviar-ao-stf>) - *14/09/2026*
+- [Flávio Dino determina fim do sigilo em investigações sobre filme Dark Horse](<https://www.rcwtv.com.br/noticia/flavio-dino-determina-fim-do-sigilo-em-investigacoes-sobre-filme-dark-horse>) - *14/09/2026*
+
+### Atualização de 14/09/2026
+- [PM encontra laboratório de drogas e prende homem no Santa Rita, em Juiz de Fora](<https://www.rcwtv.com.br/noticia/pm-encontra-laboratorio-de-drogas-e-prende-homem-no-santa-rita-em-juiz-de-fora>) - *14/09/2026*
+- [Saúde mental de jornalistas é ameaçada por assédio e sobrecarga no trabalho](<https://www.rcwtv.com.br/noticia/saude-mental-de-jornalistas-e-ameacada-por-assedio-e-sobrecarga-no-trabalho>) - *14/09/2026*
+- [Guia da Chapada dos Veadeiros: tudo o que você precisa saber antes de viajar](<https://www.rcwtv.com.br/noticia/guia-da-chapada-dos-veadeiros-tudo-o-que-voce-precisa-saber-antes-de-viajar>) - *14/09/2026*
+- [Projeto de Lei 2574/26 garante ligações gratuitas para o INSS](<https://www.rcwtv.com.br/noticia/projeto-de-lei-2574-26-garante-ligacoes-gratuitas-para-o-inss>) - *14/09/2026*
+- [SBPC alerta para a falta de debates sobre ciência nas eleições deste ano](<https://www.rcwtv.com.br/noticia/sbpc-alerta-para-a-falta-de-debates-sobre-ciencia-nas-eleicoes-deste-ano>) - *14/09/2026*
+- [PJF divulga projetos selecionados para a última cessão de uso dos estúdios do Polo JF Cine em 2026](<https://www.rcwtv.com.br/noticia/pjf-divulga-projetos-selecionados-para-a-ultima-cessao-de-uso-dos-estudios-do-polo-jf-cine-em-2026>) - *14/09/2026*
+- [Juiz de Fora sedia 9ª Escola de Resiliência de Mercocidades com líderes da América do Sul](<https://www.rcwtv.com.br/noticia/juiz-de-fora-sedia-9-escola-de-resiliencia-de-mercocidades-com-lideres-da-america-do-sul>) - *14/09/2026*
+- [Homem é encontrado morto após facada e criança morre em acidente com brinquedo em Muriaé](<https://www.rcwtv.com.br/noticia/homem-e-encontrado-morto-apos-facada-e-crianca-morre-em-acidente-com-brinquedo-em-muriae>) - *14/09/2026*
+- [Seminário sobre educação inclusiva debate acessibilidade nas escolas de Juiz de Fora](<https://www.rcwtv.com.br/noticia/seminario-sobre-educacao-inclusiva-debate-acessibilidade-nas-escolas-de-juiz-de-fora>) - *14/09/2026*
+- [Semana 1 da NFL reúne recorde de pontos e confrontos equilibrados neste domingo](<https://www.rcwtv.com.br/noticia/semana-1-da-nfl-reune-recorde-de-pontos-e-confrontos-equilibrados-neste-domingo>) - *14/09/2026*
+
+### Atualização de 15/09/2026
+- [Juiz de fora promove evento de adoção responsável de animais neste sábado](<https://www.rcwtv.com.br/noticia/juiz-de-fora-promove-evento-de-adocao-responsavel-de-animais-neste-sabado>) - *15/09/2026*
+- [Mega-Sena pode pagar prêmio acumulado de R$ 95 milhões nesta terça-feira](<https://www.rcwtv.com.br/noticia/mega-sena-pode-pagar-premio-acumulado-de-r-95-milhoes-nesta-terca-feira>) - *15/09/2026*
+- [Caminhão carregado de MDF tomba após passar por buraco na MGC-265, em Mercês](<https://www.rcwtv.com.br/noticia/caminhao-carregado-de-mdf-tomba-apos-passar-por-buraco-na-mgc-265-em-merces>) - *15/09/2026*
+- [Alto Rio Doce reúne produtores para celebrar o Dia Nacional da Cachaça](<https://www.rcwtv.com.br/noticia/alto-rio-doce-reune-produtores-para-celebrar-o-dia-nacional-da-cachaca>) - *15/09/2026*
+- [Produtores de cachaça discutem inovação e valorização da produção em Alto Rio Doce](<https://www.rcwtv.com.br/noticia/produtores-de-cachaca-discutem-inovacao-e-valorizacao-da-producao-em-alto-rio-doce>) - *15/09/2026*
+- [Justiça manda empresa apresentar contas e manter ônibus em circulação em Barbacena](<https://www.rcwtv.com.br/noticia/justica-manda-empresa-apresentar-contas-e-manter-onibus-em-circulacao-em-barbacena>) - *15/09/2026*
+- [Cacique Raoni recebe cuidados paliativos após diagnóstico de câncer](<https://www.rcwtv.com.br/noticia/cacique-raoni-recebe-cuidados-paliativos-apos-diagnostico-de-cancer>) - *15/09/2026*
+- [Veja como foi a movimentação dos candidatos à Presidência nesta segunda-feira](<https://www.rcwtv.com.br/noticia/veja-como-foi-a-movimentacao-dos-candidatos-a-presidencia-nesta-segunda-feira>) - *15/09/2026*
+- [CMN altera normas do crédito para motoristas de aplicativo e taxistas](<https://www.rcwtv.com.br/noticia/cmn-altera-normas-do-credito-para-motoristas-de-aplicativo-e-taxistas>) - *15/09/2026*
+- [Pesquisa sobre saúde mental dos jornalistas revela altos índices de depressão](<https://www.rcwtv.com.br/noticia/pesquisa-sobre-saude-mental-dos-jornalistas-revela-altos-indices-de-depressao>) - *15/09/2026*
+
+### Atualização de 15/09/2026
+- [STF define se votará investigações de Moraes e Mendonça de forma conjunta](<https://www.rcwtv.com.br/noticia/stf-define-se-votara-investigacoes-de-moraes-e-mendonca-de-forma-conjunta>) - *15/09/2026*
+- [Apostas online reduzem atividade econômica e consumo no Brasil, revela USP](<https://www.rcwtv.com.br/noticia/apostas-online-reduzem-atividade-economica-e-consumo-no-brasil-revela-usp>) - *15/09/2026*
+- [PJF divulga resultado preliminar de edital para Pontos e Pontões de Cultura da Lei Aldir Blanc](<https://www.rcwtv.com.br/noticia/pjf-divulga-resultado-preliminar-de-edital-para-pontos-e-pontoes-de-cultura-da-lei-aldir-blanc>) - *15/09/2026*
+- [Moraes e Mendonça batem boca e inflamam conflito no STF](<https://www.rcwtv.com.br/noticia/moraes-e-mendonca-batem-boca-e-inflamam-conflito-no-stf>) - *15/09/2026*
+- [Prova Nacional Docente ocorre neste domingo em todo o país](<https://www.rcwtv.com.br/noticia/prova-nacional-docente-ocorre-neste-domingo-em-todo-o-pais>) - *15/09/2026*
+- [Gilmar acusa Mendonça de usar caso Master para interferir na eleição](<https://www.rcwtv.com.br/noticia/gilmar-acusa-mendonca-de-usar-caso-master-para-interferir-na-eleicao>) - *15/09/2026*
+- [Chiefs vencem Broncos por 31 a 10 em retorno de Mahomes no Monday Night Football](<https://www.rcwtv.com.br/noticia/chiefs-vencem-broncos-por-31-a-10-em-retorno-de-mahomes-no-monday-night-football>) - *15/09/2026*
+- [Lei de Yuri Fófano cria Ilhas de Desenvolvimento Econômico e Urbano em Juiz de Fora](<https://www.rcwtv.com.br/noticia/lei-de-yuri-fofano-cria-ilhas-de-desenvolvimento-economico-e-urbano-em-juiz-de-fora>) - *15/09/2026*
+- [Moléculas anticâncer mostram eficácia contra parasita causador da malária](<https://www.rcwtv.com.br/noticia/moleculas-anticancer-mostram-eficacia-contra-parasita-causador-da-malaria>) - *15/09/2026*
+- [Tesouro Nacional quita R$ 79,95 milhões em dívidas de estados e municípios](<https://www.rcwtv.com.br/noticia/tesouro-nacional-quita-r-79-95-milhoes-em-dividas-de-estados-e-municipios>) - *15/09/2026*
+
+### Atualização de 16/09/2026
+- [Justiça manda retirar vagas exclusivas para Prefeitura em praça de Alto Rio Doce](<https://www.rcwtv.com.br/noticia/justica-manda-retirar-vagas-exclusivas-para-prefeitura-em-praca-de-alto-rio-doce>) - *16/09/2026*
+- [Cinco são presos após tentativa de roubo a residência em Juiz de Fora](<https://www.rcwtv.com.br/noticia/cinco-sao-presos-apos-tentativa-de-roubo-a-residencia-em-juiz-de-fora>) - *16/09/2026*
+- [Mega-Sena acumulada atinge R$ 102 milhões após nenhum apostador acertar dezenas](<https://www.rcwtv.com.br/noticia/mega-sena-acumulada-atinge-r-102-milhoes-apos-nenhum-apostador-acertar-dezenas>) - *16/09/2026*
+- [Agenda dos candidatos à presidência movimenta a terça-feira](<https://www.rcwtv.com.br/noticia/agenda-dos-candidatos-a-presidencia-movimenta-a-terca-feira>) - *16/09/2026*
+- [STF encerra sessão sem definir investigações sobre Moraes e Mendonça](<https://www.rcwtv.com.br/noticia/stf-encerra-sessao-sem-definir-investigacoes-sobre-moraes-e-mendonca>) - *16/09/2026*
+- [Supremo tribunal federal gerou mal-estar cívico, afirma Cármen Lúcia](<https://www.rcwtv.com.br/noticia/supremo-tribunal-federal-gerou-mal-estar-civico-afirma-carmen-lucia>) - *16/09/2026*
+- [Fenaj defende a valorização dos jornalistas em carta a candidatos](<https://www.rcwtv.com.br/noticia/fenaj-defende-a-valorizacao-dos-jornalistas-em-carta-a-candidatos>) - *16/09/2026*
+- [Paulo Gonet nega qualquer proximidade com Daniel Vorcaro no STF](<https://www.rcwtv.com.br/noticia/paulo-gonet-nega-qualquer-proximidade-com-daniel-vorcaro-no-stf>) - *16/09/2026*
+- [Câmara Sênior promove ações sobre segurança na Semana Nacional de Trânsito em Juiz de Fora](<https://www.rcwtv.com.br/noticia/camara-senior-promove-acoes-sobre-seguranca-na-semana-nacional-de-transito-em-juiz-de-fora>) - *16/09/2026*
+- [Circuito de Eventos Agropecuários de Juiz de Fora encerra edição com recorde público](<https://www.rcwtv.com.br/noticia/circuito-de-eventos-agropecuarios-de-juiz-de-fora-encerra-edicao-com-recorde-publico>) - *16/09/2026*
+
+### Atualização de 16/09/2026
+- [Cesama avança na despoluição do Rio Paraibuna com nova elevatória de esgoto no bairro Ponte Preta](<https://www.rcwtv.com.br/noticia/cesama-avanca-na-despoluicao-do-rio-paraibuna-com-nova-elevatoria-de-esgoto-no-bairro-ponte-preta>) - *16/09/2026*
+- [Após crise interna, Corte retoma sessões do STF com pauta tributária](<https://www.rcwtv.com.br/noticia/apos-crise-interna-corte-retoma-sessoes-do-stf-com-pauta-tributaria>) - *16/09/2026*
+- [Obras do PAC avançam no Bairro Industrial e alteram trânsito na Avenida Lúcio Bittencourt em Juiz de Fora](<https://www.rcwtv.com.br/noticia/obras-do-pac-avancam-no-bairro-industrial-e-alteram-transito-na-avenida-lucio-bittencourt-em-juiz-de-fora>) - *16/09/2026*
+- [Opas amplia acesso ao lenacapavir para reforçar a prevenção do HIV na América Latina](<https://www.rcwtv.com.br/noticia/opas-amplia-acesso-ao-lenacapavir-para-reforcar-a-prevencao-do-hiv-na-america-latina>) - *16/09/2026*
+- [Aposta de Juiz de Fora acerta 15 dezenas da Lotofácil da Independência e fatura R$ 4,4 milhões](<https://www.rcwtv.com.br/noticia/aposta-de-juiz-de-fora-acerta-15-dezenas-da-lotofacil-da-independencia-e-fatura-r-4-4-milhoes>) - *16/09/2026*
+- [Estado de emergência decretado em cidades paulistas após temporais](<https://www.rcwtv.com.br/noticia/estado-de-emergencia-decretado-em-cidades-paulistas-apos-temporais>) - *16/09/2026*
+- [Atividade de genes virais incorporados ao genoma humano pode indicar piora do vitiligo](<https://www.rcwtv.com.br/noticia/atividade-de-genes-virais-incorporados-ao-genoma-humano-pode-indicar-piora-do-vitiligo>) - *16/09/2026*
+- [Cinco homens são presos em operação da Polícia após tentativa de roubo no Jardim dos Alfineiros em Juiz de Fora](<https://www.rcwtv.com.br/noticia/cinco-homens-sao-presos-em-operacao-da-policia-apos-tentativa-de-roubo-no-jardim-dos-alfineiros-em-juiz-de-fora>) - *16/09/2026*
+- [Procon Móvel realiza atendimento ao público e orienta lojistas no Dia do Cliente em Juiz de Fora](<https://www.rcwtv.com.br/noticia/procon-movel-realiza-atendimento-ao-publico-e-orienta-lojistas-no-dia-do-cliente-em-juiz-de-fora>) - *16/09/2026*
+- [Primeira quinzena de setembro registra o dobro de chuva esperado para o mês](<https://www.rcwtv.com.br/noticia/primeira-quinzena-de-setembro-registra-o-dobro-de-chuva-esperado-para-o-mes>) - *16/09/2026*
+
+### Atualização de 17/09/2026
+- [Veja os bastidores e os atos da campanha presidencial nesta quarta-feira](<https://www.rcwtv.com.br/noticia/veja-os-bastidores-e-os-atos-da-campanha-presidencial-nesta-quarta-feira>) - *17/09/2026*
+- [Entidades consideram tímido o novo corte na Selic feito pelo Banco Central](<https://www.rcwtv.com.br/noticia/entidades-consideram-timido-o-novo-corte-na-selic-feito-pelo-banco-central>) - *17/09/2026*
+- [TSE envia alertas pelo e-Título com orientações para as eleições](<https://www.rcwtv.com.br/noticia/tse-envia-alertas-pelo-e-titulo-com-orientacoes-para-as-eleicoes>) - *17/09/2026*
+- [Moraes vota para unificar prazos de licença-maternidade e de adoção](<https://www.rcwtv.com.br/noticia/moraes-vota-para-unificar-prazos-de-licenca-maternidade-e-de-adocao>) - *17/09/2026*
+- [Petrobras lidera margem de lucro entre petroleiras mundiais em 2026](<https://www.rcwtv.com.br/noticia/petrobras-lidera-margem-de-lucro-entre-petroleiras-mundiais-em-2026>) - *17/09/2026*
+- [CCJ da Câmara dos Deputados aprova novas datas comemorativas e homenagens](<https://www.rcwtv.com.br/noticia/ccj-da-camara-dos-deputados-aprova-novas-datas-comemorativas-e-homenagens>) - *17/09/2026*
+- [Seattle Seahawks descarta quarterback Sam Darnold para duelo contra o Arizona Cardinals](<https://www.rcwtv.com.br/noticia/seattle-seahawks-descarta-quarterback-sam-darnold-para-duelo-contra-o-arizona-cardinals>) - *17/09/2026*
+- [Fluminense e Vasco avançam às semifinais dos torneios continentais; São Paulo cai para o Boca Juniors](<https://www.rcwtv.com.br/noticia/fluminense-e-vasco-avancam-as-semifinais-dos-torneios-continentais-sao-paulo-cai-para-o-boca-juniors>) - *17/09/2026*
+
+### Atualização de 17/09/2026
+- [Tensão pré eleitoral: financiamento privado de Balneário Camboriú assume a infraestrutura para proteger o metro quadrado entre os mais caros do país](<https://www.rcwtv.com.br/noticia/tensao-pre-eleitoral-financiamento-privado-de-balneario-camboriu-assume-a-infraestrutura-para-proteger-o-metro-quadrado-entre-os-mais-caros-do-pais>) - *17/09/2026*
+- [Trabalhadores da Caixa avaliam greve da caixa e nova proposta do banco](<https://www.rcwtv.com.br/noticia/trabalhadores-da-caixa-avaliam-greve-da-caixa-e-nova-proposta-do-banco>) - *17/09/2026*
+- [Contran prorroga validade da CNH vencida no segundo semestre de 2026](<https://www.rcwtv.com.br/noticia/contran-prorroga-validade-da-cnh-vencida-no-segundo-semestre-de-2026>) - *17/09/2026*
+- [36% dos corretores autônomos apontam instabilidade de renda; avaliação de imóveis abre nova frente de atuação](<https://www.rcwtv.com.br/noticia/36-dos-corretores-autonomos-apontam-instabilidade-de-renda-avaliacao-de-imoveis-abre-nova-frente-de-atuacao>) - *17/09/2026*
+- [90% dos brasileiros mudam hábitos de compra para economizar, revela estudo](<https://www.rcwtv.com.br/noticia/90-dos-brasileiros-mudam-habitos-de-compra-para-economizar-revela-estudo>) - *17/09/2026*
+- [Procon-MPMG integra mobilização nacional contra riscos de apostas virtuais e cobra posicionamento de candidatos](<https://www.rcwtv.com.br/noticia/procon-mpmg-integra-mobilizacao-nacional-contra-riscos-de-apostas-virtuais-e-cobra-posicionamento-de-candidatos>) - *17/09/2026*
+- [Dino ordena que PF investigue o serviço funerário de São Paulo](<https://www.rcwtv.com.br/noticia/dino-ordena-que-pf-investigue-o-servico-funerario-de-sao-paulo>) - *17/09/2026*
+- [Segurança do paciente: saiba como prevenir riscos de doenças crônicas](<https://www.rcwtv.com.br/noticia/seguranca-do-paciente-saiba-como-prevenir-riscos-de-doencas-cronicas>) - *17/09/2026*
+- [Sedecon media audiência de renegociação para aposentado superendividado em Juiz de Fora](<https://www.rcwtv.com.br/noticia/sedecon-media-audiencia-de-renegociacao-para-aposentado-superendividado-em-juiz-de-fora>) - *17/09/2026*
+- [Jogadores do Atlético-MG repercutem provocações de Neymar após vaga na semifinal continental](<https://www.rcwtv.com.br/noticia/jogadores-do-atletico-mg-repercutem-provocacoes-de-neymar-apos-vaga-na-semifinal-continental>) - *17/09/2026*
+
+### Atualização de 18/09/2026
+- [Como medir corretamente a ração do cachorro: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-medir-corretamente-a-racao-do-cachorro-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Como estimular o gato a beber mais água: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-estimular-o-gato-a-beber-mais-agua-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Água fresca para cães: quantidade e cuidados: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/agua-fresca-para-caes-quantidade-e-cuidados-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Como montar uma cama confortável para o cachorro: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-montar-uma-cama-confortavel-para-o-cachorro-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Como escolher um arranhador para o gato: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-escolher-um-arranhador-para-o-gato-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Enriquecimento ambiental para cães dentro de casa: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/enriquecimento-ambiental-para-caes-dentro-de-casa-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Brincadeiras que estimulam o instinto do gato: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/brincadeiras-que-estimulam-o-instinto-do-gato-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Passeio responsável com cachorro: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/passeio-responsavel-com-cachorro-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Carteira de vacinação do pet: o que conferir: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/carteira-de-vacinacao-do-pet-o-que-conferir-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Vacinação de gatos: como organizar o calendário: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/vacinacao-de-gatos-como-organizar-o-calendario-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+
+### Atualização de 18/09/2026
+- [Por que o telefone de disco fazia tanta gente esperar: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/por-que-o-telefone-de-disco-fazia-tanta-gente-esperar-historia-lembrancas-e-curiosidades>) - *18/09/2026*
+- [Museu Mariano Procópio participa da 20ª Primavera dos Museus com programação gratuita e inclusiva](<https://www.rcwtv.com.br/noticia/museu-mariano-procopio-participa-da-20-primavera-dos-museus-com-programacao-gratuita-e-inclusiva>) - *18/09/2026*
+- [Projeto "Caminhando pela História" oferece quatro visitas guiadas gratuitas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/projeto-caminhando-pela-historia-oferece-quatro-visitas-guiadas-gratuitas-em-juiz-de-fora>) - *18/09/2026*
+- [Bolo de fubá cremoso: receita caseira com sabor de tradição](<https://www.rcwtv.com.br/noticia/bolo-de-fuba-cremoso-receita-caseira-com-sabor-de-tradicao>) - *18/09/2026*
+- [STJ mantém condenação de Flordelis a 50 anos de prisão](<https://www.rcwtv.com.br/noticia/stj-mantem-condenacao-de-flordelis-a-50-anos-de-prisao>) - *18/09/2026*
+- [A máquina de escrever antes dos computadores: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/a-maquina-de-escrever-antes-dos-computadores-historia-lembrancas-e-curiosidades>) - *18/09/2026*
+- [Contraturno vira novo negócio para franqueados e rede projeta 60 unidades até 2027](<https://www.rcwtv.com.br/noticia/contraturno-vira-novo-negocio-para-franqueados-e-rede-projeta-60-unidades-ate-2027>) - *18/09/2026*
+- [Em noite de cinco touchdowns de Josh Allen, Buffalo Bills vence Detroit Lions por 41 a 31 no Thursday Night Football](<https://www.rcwtv.com.br/noticia/em-noite-de-cinco-touchdowns-de-josh-allen-buffalo-bills-vence-detroit-lions-por-41-a-31-no-thursday-night-football>) - *18/09/2026*
+- [Cronos Logistics transforma embarques em solidariedade e arrecada 30 toneladas de alimentos para doação](<https://www.rcwtv.com.br/noticia/cronos-logistics-transforma-embarques-em-solidariedade-e-arrecada-30-toneladas-de-alimentos-para-doacao>) - *18/09/2026*
+- [Ministério da saúde qualifica o atendimento para doença renal crônica](<https://www.rcwtv.com.br/noticia/ministerio-da-saude-qualifica-o-atendimento-para-doenca-renal-cronica>) - *18/09/2026*
+
+### Atualização de 19/09/2026
+- [Confira como foi a agenda dos candidatos a presidente nesta sexta-feira](<https://www.rcwtv.com.br/noticia/confira-como-foi-a-agenda-dos-candidatos-a-presidente-nesta-sexta-feira>) - *19/09/2026*
+- [Primeiro turma do STF confirma condenação de Eduardo Bolsonaro](<https://www.rcwtv.com.br/noticia/primeiro-turma-do-stf-confirma-condenacao-de-eduardo-bolsonaro>) - *19/09/2026*
+- [Como limpar o microondas com vapor](<https://www.rcwtv.com.br/noticia/como-limpar-o-microondas-com-vapor>) - *19/09/2026*
+- [Como limpar a air freyer corretamente](<https://www.rcwtv.com.br/noticia/como-limpar-a-air-freyer-corretamente>) - *19/09/2026*
+- [Como remover gordura do fogão](<https://www.rcwtv.com.br/noticia/como-remover-gordura-do-fogao>) - *19/09/2026*
+- [Como limpar o box de vidro sem deixar mancha](<https://www.rcwtv.com.br/noticia/como-limpar-o-box-de-vidro-sem-deixar-mancha>) - *19/09/2026*
+- [AGU pede ao STF para confirmar a validade do reajuste do Bolsa Família](<https://www.rcwtv.com.br/noticia/agu-pede-ao-stf-para-confirmar-a-validade-do-reajuste-do-bolsa-familia>) - *19/09/2026*
+- [Como limpar rejunte encardido com segurança](<https://www.rcwtv.com.br/noticia/como-limpar-rejunte-encardido-com-seguranca>) - *19/09/2026*
+- [Kombi pega fogo e mobiliza bombeiros após incêndio em veículo na BR-040](<https://www.rcwtv.com.br/noticia/kombi-pega-fogo-e-mobiliza-bombeiros-apos-incendio-em-veiculo-na-br-040>) - *19/09/2026*
+- [Inep publica cartilha oficial com instruções para a redação do Enem 2026](<https://www.rcwtv.com.br/noticia/inep-publica-cartilha-oficial-com-instrucoes-para-a-redacao-do-enem-2026>) - *19/09/2026*
+
+### Atualização de 19/09/2026
+- [Inep altera locais de prova da PND em União da Vitória](<https://www.rcwtv.com.br/noticia/inep-altera-locais-de-prova-da-pnd-em-uniao-da-vitoria>) - *19/09/2026*
+- [Petrobras batiza navio pioneiro operado por tripulação feminina](<https://www.rcwtv.com.br/noticia/petrobras-batiza-navio-pioneiro-operado-por-tripulacao-feminina>) - *19/09/2026*
+- [Coluna MG destaca novidades em Pouso Alegre e notícias do estado](<https://www.rcwtv.com.br/noticia/coluna-mg-destaca-novidades-em-pouso-alegre-e-noticias-do-estado>) - *19/09/2026*
+- [Mega-Sena sorteia prêmio estimado em R$ 28 milhões neste domingo](<https://www.rcwtv.com.br/noticia/mega-sena-sorteia-premio-estimado-em-r-28-milhoes-neste-domingo>) - *19/09/2026*
+- [STJ obriga condenados por violência doméstica a frequentar reabilitação](<https://www.rcwtv.com.br/noticia/stj-obriga-condenados-por-violencia-domestica-a-frequentar-reabilitacao>) - *19/09/2026*
+- [OAB-MG reúne entidades em manifesto por reforma do Judiciário e garantias](<https://www.rcwtv.com.br/noticia/oab-mg-reune-entidades-em-manifesto-por-reforma-do-judiciario-e-garantias>) - *19/09/2026*
+- [Candidato Renan Santos apresenta plano de governo com corte de gastos](<https://www.rcwtv.com.br/noticia/candidato-renan-santos-apresenta-plano-de-governo-com-corte-de-gastos>) - *19/09/2026*
+
+### Atualização de 20/09/2026
+- [São Paulo vence o Internacional por 1 a 0 no MorumBIS com gol de pênalti de Calleri](<https://www.rcwtv.com.br/noticia/sao-paulo-vence-o-internacional-por-1-a-0-no-morumbis-com-gol-de-penalti-de-calleri>) - *20/09/2026*
+- [Vasco goleia por 5 a 0 em São Januário com atuação dominante e embala na temporada](<https://www.rcwtv.com.br/noticia/vasco-goleia-por-5-a-0-em-sao-januario-com-atuacao-dominante-e-embala-na-temporada>) - *20/09/2026*
+- [A televisão de tubo e a sala como ponto de encontro](<https://www.rcwtv.com.br/noticia/a-televisao-de-tubo-e-a-sala-como-ponto-de-encontro>) - *20/09/2026*
+
+### Atualização de 20/09/2026
+- [Fragmentação de dados dificulta prevenção de feminicídio no país](<https://www.rcwtv.com.br/noticia/fragmentacao-de-dados-dificulta-prevencao-de-feminicidio-no-pais>) - *20/09/2026*
+- [Prêmio do sorteio da Mega-Sena acumula e vai a R$ 32 milhões](<https://www.rcwtv.com.br/noticia/premio-do-sorteio-da-mega-sena-acumula-e-vai-a-r-32-milhoes>) - *20/09/2026*
+- [TSE suspende campanha de Deltan Dallagnol ao Senado pelo Paraná](<https://www.rcwtv.com.br/noticia/tse-suspende-campanha-de-deltan-dallagnol-ao-senado-pelo-parana>) - *20/09/2026*
+- [Sigma Lithium é escolhida pela Nasdaq para tocar o sino em Nova York](<https://www.rcwtv.com.br/noticia/sigma-lithium-e-escolhida-pela-nasdaq-para-tocar-o-sino-em-nova-york>) - *20/09/2026*
+- [Plano de governo da UP de Samara Martins propõe dobrar salário mínimo](<https://www.rcwtv.com.br/noticia/plano-de-governo-da-up-de-samara-martins-propoe-dobrar-salario-minimo>) - *20/09/2026*
+- [Mais de 625 mil candidatos realizam a Prova Nacional Docente neste domingo](<https://www.rcwtv.com.br/noticia/mais-de-625-mil-candidatos-realizam-a-prova-nacional-docente-neste-domingo>) - *20/09/2026*
+
+### Atualização de 21/09/2026
+- [Como tirar poeira do ventilador de teto: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-tirar-poeira-do-ventilador-de-teto-passo-a-passo-seguro-e-pratico>) - *21/09/2026*
+- [Como limpar sofá de tecido sem estragar: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-limpar-sofa-de-tecido-sem-estragar-passo-a-passo-seguro-e-pratico>) - *21/09/2026*
+- [Como higienizar o colchão: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-higienizar-o-colchao>) - *21/09/2026*
+- [Como eliminar odores da geladeira: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-eliminar-odores-da-geladeira>) - *21/09/2026*
+- [Como plantar manjericão em vaso de barro: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-plantar-manjericao-em-vaso-de-barro-guia-pratico-e-cuidados-essenciais>) - *21/09/2026*
+- [Como escolher brinquedos resistentes para cães: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-escolher-brinquedos-resistentes-para-caes-guia-pratico-e-cuidados-essenciais>) - *21/09/2026*
+- [Como melhorar a convivência entre cães e gatos: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-melhorar-a-convivencia-entre-caes-e-gatos-guia-pratico-e-cuidados-essenciais>) - *21/09/2026*
+- [Como apresentar dois cães com segurança: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-apresentar-dois-caes-com-seguranca-guia-pratico-e-cuidados-essenciais>) - *21/09/2026*
+- [Como acostumar o gato a entrar na caixa: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-acostumar-o-gato-a-entrar-na-caixa-guia-pratico-e-cuidados-essenciais>) - *21/09/2026*
+- [Treino de chamada positiva para cães: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/treino-de-chamada-positiva-para-caes-guia-pratico-e-cuidados-essenciais>) - *21/09/2026*
+
+### Atualização de 21/09/2026
+- [Drew Lock e Jaxon Smith-Njigba comandam ataque, defesa sufoca e Seahawks atropelam Cardinals por 31 a 7](<https://www.rcwtv.com.br/noticia/drew-lock-e-jaxon-smith-njigba-comandam-ataque-defesa-sufoca-e-seahawks-atropelam-cardinals-por-31-a-7>) - *21/09/2026*
+- [Dak Prescott quebra recorde histórico dos Cowboys em rodada marcada por drama com Jayden Daniels e triunfo dos Chiefs](<https://www.rcwtv.com.br/noticia/dak-prescott-quebra-recorde-historico-dos-cowboys-em-rodada-marcada-por-drama-com-jayden-daniels-e-triunfo-dos-chiefs>) - *21/09/2026*
+- [‘Silêncio dos neurônios’ pode ajudar a prever e evitar crises epilépticas](<https://www.rcwtv.com.br/noticia/silencio-dos-neuronios-pode-ajudar-a-prever-e-evitar-crises-epilepticas>) - *21/09/2026*
+- [MPMG acompanha decisão que proíbe contratação irregular de advogados pela Câmara de Simonésia](<https://www.rcwtv.com.br/noticia/mpmg-acompanha-decisao-que-proibe-contratacao-irregular-de-advogados-pela-camara-de-simonesia>) - *21/09/2026*
+- [Galo empata em casa, Botafogo tropeça na estreia de Tite e Santos engata quarta vitória seguida](<https://www.rcwtv.com.br/noticia/galo-empata-em-casa-botafogo-tropeca-na-estreia-de-tite-e-santos-engata-quarta-vitoria-seguida>) - *21/09/2026*
+- [MPMG promove seminário sobre segurança alimentar e combate à fome em Muriaé](<https://www.rcwtv.com.br/noticia/mpmg-promove-seminario-sobre-seguranca-alimentar-e-combate-a-fome-em-muriae>) - *21/09/2026*
+- [Prefeitura lança projeto “Caminhos da Produção” para fortalecer o turismo rural](<https://www.rcwtv.com.br/noticia/prefeitura-lanca-projeto-caminhos-da-producao-para-fortalecer-o-turismo-rural>) - *21/09/2026*
+- [Museu Mariano Procópio e Shopping Jardim Norte distribuem mudas nesta terça](<https://www.rcwtv.com.br/noticia/museu-mariano-procopio-e-shopping-jardim-norte-distribuem-mudas-nesta-terca>) - *21/09/2026*
+- [Flamengo vence Bragantino e abre vantagem após tropeço do Palmeiras no Brasileirão](<https://www.rcwtv.com.br/noticia/flamengo-vence-bragantino-e-abre-vantagem-apos-tropeco-do-palmeiras-no-brasileirao>) - *21/09/2026*
+- [Prazo da lista de espera do Fies no segundo semestre encerra nesta quinta](<https://www.rcwtv.com.br/noticia/prazo-da-lista-de-espera-do-fies-no-segundo-semestre-encerra-nesta-quinta>) - *21/09/2026*
+
+### Atualização de 22/09/2026
+- [Como prevenir mofo dentro de casa: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-prevenir-mofo-dentro-de-casa-passo-a-passo-seguro-e-pratico>) - *22/09/2026*
+- [Aprenda como retirar pelos de animais da casa com método seguro, materiais, passo a passo, erros comuns e dicas de organização doméstica.](<https://www.rcwtv.com.br/noticia/aprenda-como-retirar-pelos-de-animais-da-casa-com-metodo-seguro-materiais-passo-a-passo-erros-comuns-e-dicas-de-organizacao-domestica>) - *22/09/2026*
+- [Sorteio da Mega-Sena pode pagar R$ 32 milhões nesta terça-feira](<https://www.rcwtv.com.br/noticia/sorteio-da-mega-sena-pode-pagar-r-32-milhoes-nesta-terca-feira>) - *22/09/2026*
+- [Rotina rápida para limpar o banheiro: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/rotina-rapida-para-limpar-o-banheiro-passo-a-passo-seguro-e-pratico>) - *22/09/2026*
+- [Check-up anual do gato: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/check-up-anual-do-gato-guia-pratico-e-cuidados-essenciais>) - *22/09/2026*
+- [Como proteger o cachorro durante fogos de artifício: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-proteger-o-cachorro-durante-fogos-de-artificio-guia-pratico-e-cuidados-essenciais>) - *22/09/2026*
+- [Como receber um cachorro resgatado: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-receber-um-cachorro-resgatado-guia-pratico-e-cuidados-essenciais>) - *22/09/2026*
+- [Kit de primeiros socorros para pets: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/kit-de-primeiros-socorros-para-pets-guia-pratico-e-cuidados-essenciais>) - *22/09/2026*
+- [Adoção de gatos: preparação da família: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/adocao-de-gatos-preparacao-da-familia-guia-pratico-e-cuidados-essenciais>) - *22/09/2026*
+- [Castração responsável: dúvidas frequentes: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/castracao-responsavel-duvidas-frequentes-guia-pratico-e-cuidados-essenciais>) - *22/09/2026*
+
+### Atualização de 22/09/2026
+- [Cesama avança na remodelação de redes de esgoto em Filgueiras e Bom Jardim, em Juiz de Fora](<https://www.rcwtv.com.br/noticia/cesama-avanca-na-remodelacao-de-redes-de-esgoto-em-filgueiras-e-bom-jardim-em-juiz-de-fora>) - *22/09/2026*
+- [Além da poupança: novos fundings e imóveis compactos impulsionam alta de 12% no crédito imobiliário no semestre](<https://www.rcwtv.com.br/noticia/alem-da-poupanca-novos-fundings-e-imoveis-compactos-impulsionam-alta-de-12-no-credito-imobiliario-no-semestre>) - *22/09/2026*
+- [Ministro André Mendonça acusa Alexandre de Moraes de direcionar investigação no STF](<https://www.rcwtv.com.br/noticia/ministro-andre-mendonca-acusa-alexandre-de-moraes-de-direcionar-investigacao-no-stf>) - *22/09/2026*
+- [Governo reduz projeção do PIB para 2026 e ajusta estimativas econômicas](<https://www.rcwtv.com.br/noticia/governo-reduz-projecao-do-pib-para-2026-e-ajusta-estimativas-economicas>) - *22/09/2026*
+- [Baús de fotografias e a memória familiar: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/baus-de-fotografias-e-a-memoria-familiar-historia-lembrancas-e-curiosidades>) - *22/09/2026*
+- [TJMG acolhe recurso do Ministério Público e exige plano de acessibilidade em Viçosa](<https://www.rcwtv.com.br/noticia/tjmg-acolhe-recurso-do-ministerio-publico-e-exige-plano-de-acessibilidade-em-vicosa>) - *22/09/2026*
+- [O relógio de parede e a organização do dia: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/o-relogio-de-parede-e-a-organizacao-do-dia-historia-lembrancas-e-curiosidades>) - *22/09/2026*
+- [Musculação faz células de gordura encolherem antes mesmo da perda de peso](<https://www.rcwtv.com.br/noticia/musculacao-faz-celulas-de-gordura-encolherem-antes-mesmo-da-perda-de-peso>) - *22/09/2026*
+- [Guia do Enem lançado pelo MEC centraliza orientações para as provas](<https://www.rcwtv.com.br/noticia/guia-do-enem-lancado-pelo-mec-centraliza-orientacoes-para-as-provas>) - *22/09/2026*
+- [Luiz Fux vai relatar ação sobre idas de Viviane Barci ao Senado](<https://www.rcwtv.com.br/noticia/luiz-fux-vai-relatar-acao-sobre-idas-de-viviane-barci-ao-senado>) - *22/09/2026*
+
+### Atualização de 23/09/2026
+- [Como organizar a despensa: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-organizar-a-despensa-passo-a-passo-seguro-e-pratico>) - *23/09/2026*
+- [Como guardar panelas e tampas: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-guardar-panelas-e-tampas-passo-a-passo-seguro-e-pratico>) - *23/09/2026*
+- [Como organizar uma cozinha pequena: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-organizar-uma-cozinha-pequena-passo-a-passo-seguro-e-pratico>) - *23/09/2026*
+- [Seis integrantes ligados ao Comando Vermelho são condenados após Operação Mecanismo em Muriaé](<https://www.rcwtv.com.br/noticia/seis-integrantes-ligados-ao-comando-vermelho-sao-condenados-apos-operacao-mecanismo-em-muriae>) - *23/09/2026*
+- [Mega-Sena acumula e prêmio vai a R$ 38 milhões para o próximo sorteio](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-premio-vai-a-r-38-milhoes-para-o-proximo-sorteio>) - *23/09/2026*
+- [Violência política de gênero cresce expressivamente no Brasil nos últimos anos](<https://www.rcwtv.com.br/noticia/violencia-politica-de-genero-cresce-expressivamente-no-brasil-nos-ultimos-anos>) - *23/09/2026*
+- [Confira como foi a agenda dos candidatos à presidência nesta terça-feira](<https://www.rcwtv.com.br/noticia/confira-como-foi-a-agenda-dos-candidatos-a-presidencia-nesta-terca-feira>) - *23/09/2026*
+- [Inteligência artificial e vídeos falsos ameaçam a democracia](<https://www.rcwtv.com.br/noticia/inteligencia-artificial-e-videos-falsos-ameacam-a-democracia>) - *23/09/2026*
+- [Nova lei amplia cargos e altera estrutura da diretoria da OAB](<https://www.rcwtv.com.br/noticia/nova-lei-amplia-cargos-e-altera-estrutura-da-diretoria-da-oab>) - *23/09/2026*
+
+### Atualização de 23/09/2026
+- [Banco Master: CNJ cancela R$ 4,7 bilhões em precatórios de usinas](<https://www.rcwtv.com.br/noticia/banco-master-cnj-cancela-r-4-7-bilhoes-em-precatorios-de-usinas>) - *23/09/2026*
+- [Nova lei regulamenta a psicopedagogia no Brasil com veto a exigências de formação](<https://www.rcwtv.com.br/noticia/nova-lei-regulamenta-a-psicopedagogia-no-brasil-com-veto-a-exigencias-de-formacao>) - *23/09/2026*
+- [Comunidade científica alerta para risco de interferência nas eleições do Brasil](<https://www.rcwtv.com.br/noticia/comunidade-cientifica-alerta-para-risco-de-interferencia-nas-eleicoes-do-brasil>) - *23/09/2026*
+- [PJF, UniAcademia e Comsea-JF abrem edital para o 4º Desafio Gastronômico pelo Dia Mundial da Alimentação](<https://www.rcwtv.com.br/noticia/pjf-uniacademia-e-comsea-jf-abrem-edital-para-o-4-desafio-gastronomico-pelo-dia-mundial-da-alimentacao>) - *23/09/2026*
+- [STF iguala por unanimidade o tempo de licença-maternidade e para adotantes](<https://www.rcwtv.com.br/noticia/stf-iguala-por-unanimidade-o-tempo-de-licenca-maternidade-e-para-adotantes>) - *23/09/2026*
+- [A febre dos álbuns de figurinhas: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/a-febre-dos-albuns-de-figurinhas-historia-lembrancas-e-curiosidades>) - *23/09/2026*
+- [Guarda Municipal capacita motoristas da Secretaria de Assistência Social em Juiz de Fora](<https://www.rcwtv.com.br/noticia/guarda-municipal-capacita-motoristas-da-secretaria-de-assistencia-social-em-juiz-de-fora>) - *23/09/2026*
+- [Luiz Fux cobra o Senado sobre registros de Viviane Barci e Daniel Vorcaro](<https://www.rcwtv.com.br/noticia/luiz-fux-cobra-o-senado-sobre-registros-de-viviane-barci-e-daniel-vorcaro>) - *23/09/2026*
+- [Coluna MG destaca impactos da guerra no Irã e notícias de municípios mineiros](<https://www.rcwtv.com.br/noticia/coluna-mg-destaca-impactos-da-guerra-no-ira-e-noticias-de-municipios-mineiros>) - *23/09/2026*
+- [Operação Déjà Vú cumpre mandados contra o tráfico de drogas na Zona da Mata e na Capital](<https://www.rcwtv.com.br/noticia/operacao-deja-vu-cumpre-mandados-contra-o-trafico-de-drogas-na-zona-da-mata-e-na-capital>) - *23/09/2026*
+
+### Atualização de 24/09/2026
+- [SAMU registra acidentes e ocorrências policiais em municípios da Zona da Mata e Campo das Vertentes](<https://www.rcwtv.com.br/noticia/samu-registra-acidentes-e-ocorrencias-policiais-em-municipios-da-zona-da-mata-e-campo-das-vertentes>) - *24/09/2026*
+- [TCDF bloqueia R$ 2,7 bilhões de ex-dirigentes do BRB em caso envolvendo o Banco Master](<https://www.rcwtv.com.br/noticia/tcdf-bloqueia-r-2-7-bilhoes-de-ex-dirigentes-do-brb-em-caso-envolvendo-o-banco-master>) - *24/09/2026*
+- [Projeto de lei endurece punição para motorista que matar pedestre ou ciclista](<https://www.rcwtv.com.br/noticia/projeto-de-lei-endurece-punicao-para-motorista-que-matar-pedestre-ou-ciclista>) - *24/09/2026*
+- [Polícia e MP realizam nova fase da Operação Carbono Oculto em São Paulo](<https://www.rcwtv.com.br/noticia/policia-e-mp-realizam-nova-fase-da-operacao-carbono-oculto-em-sao-paulo>) - *24/09/2026*
+- [Comissão de Meio Ambiente debate os impactos do El Niño nesta quinta-feira](<https://www.rcwtv.com.br/noticia/comissao-de-meio-ambiente-debate-os-impactos-do-el-nino-nesta-quinta-feira>) - *24/09/2026*
+- [Nadim Donato é eleito vice-presidente da CNC para o mandato até 2030](<https://www.rcwtv.com.br/noticia/nadim-donato-e-eleito-vice-presidente-da-cnc-para-o-mandato-ate-2030>) - *24/09/2026*
+- [Eleições de 2026: saiba quem são os candidatos a governador no Pará](<https://www.rcwtv.com.br/noticia/eleicoes-de-2026-saiba-quem-sao-os-candidatos-a-governador-no-para>) - *24/09/2026*
+- [Jovem denuncia tortura ordenada por facção em apartamento de Juiz de Fora](<https://www.rcwtv.com.br/noticia/jovem-denuncia-tortura-ordenada-por-faccao-em-apartamento-de-juiz-de-fora>) - *24/09/2026*
+- [Eleições amapá: conheça os candidatos ao governo estadual](<https://www.rcwtv.com.br/noticia/eleicoes-amapa-conheca-os-candidatos-ao-governo-estadual>) - *24/09/2026*
+- [Mega-Sena pode pagar prêmio acumulado de R$ 38 milhões nesta quinta-feira](<https://www.rcwtv.com.br/noticia/mega-sena-pode-pagar-premio-acumulado-de-r-38-milhoes-nesta-quinta-feira>) - *24/09/2026*
+
+### Atualização de 24/09/2026
+- [Especialista alerta sobre impactos do El Niño e cobra ação urgente do governo](<https://www.rcwtv.com.br/noticia/especialista-alerta-sobre-impactos-do-el-nino-e-cobra-acao-urgente-do-governo>) - *24/09/2026*
+- [Projeto de lei amplia vagas para mulheres em contratos públicos](<https://www.rcwtv.com.br/noticia/projeto-de-lei-amplia-vagas-para-mulheres-em-contratos-publicos>) - *24/09/2026*
+- [Pesquisa revela que saúde do brasileiro tem distorção entre percepção e hábitos](<https://www.rcwtv.com.br/noticia/pesquisa-revela-que-saude-do-brasileiro-tem-distorcao-entre-percepcao-e-habitos>) - *24/09/2026*
+- [Como montar um cronograma de limpeza: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-montar-um-cronograma-de-limpeza-passo-a-passo-seguro-e-pratico>) - *24/09/2026*
+- [Desafio de 30 dias para colocar a casa em ordem: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/desafio-de-30-dias-para-colocar-a-casa-em-ordem-passo-a-passo-seguro-e-pratico>) - *24/09/2026*
+- [Rotina de organização em 15 minutos: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/rotina-de-organizacao-em-15-minutos-passo-a-passo-seguro-e-pratico>) - *24/09/2026*
+- [Como fazer o descarte do que não é usado: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-fazer-o-descarte-do-que-nao-e-usado-passo-a-passo-seguro-e-pratico>) - *24/09/2026*
+- [Como organizar brinquedos das crianças: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-organizar-brinquedos-das-criancas-passo-a-passo-seguro-e-pratico>) - *24/09/2026*
+- [Como eram as aulas na época da lousa e do giz](<https://www.rcwtv.com.br/noticia/como-eram-as-aulas-na-epoca-da-lousa-e-do-giz>) - *24/09/2026*
+- [A bicicleta como símbolo de liberdade](<https://www.rcwtv.com.br/noticia/a-bicicleta-como-simbolo-de-liberdade>) - *24/09/2026*
+
+### Atualização de 25/09/2026
+- [Mercado de multipropriedade atinge R$ 100 bilhões no Brasil; nos EUA, jovens respondem por 76% das novas compras](<https://www.rcwtv.com.br/noticia/mercado-de-multipropriedade-atinge-r-100-bilhoes-no-brasil-nos-eua-jovens-respondem-por-76-das-novas-compras>) - *25/09/2026*
+- [Prévia da inflação oficial de setembro atinge 0,70% segundo o IBGE](<https://www.rcwtv.com.br/noticia/previa-da-inflacao-oficial-de-setembro-atinge-0-70-segundo-o-ibge>) - *25/09/2026*
+- [Saúde mental no trabalho: André Mendonça suspende multas da NR-1 por 90 dias](<https://www.rcwtv.com.br/noticia/saude-mental-no-trabalho-andre-mendonca-suspende-multas-da-nr-1-por-90-dias>) - *25/09/2026*
+- [Projeto de lei busca garantir direitos e proteção para mulheres ribeirinhas](<https://www.rcwtv.com.br/noticia/projeto-de-lei-busca-garantir-direitos-e-protecao-para-mulheres-ribeirinhas>) - *25/09/2026*
+- [Anvisa proíbe lotes de remédio para esclerose múltipla](<https://www.rcwtv.com.br/noticia/anvisa-proibe-lotes-de-remedio-para-esclerose-multipla>) - *25/09/2026*
+- [José Sarney é internado no Hospital Sírio-Libanês com pneumonia](<https://www.rcwtv.com.br/noticia/jose-sarney-e-internado-no-hospital-sirio-libanes-com-pneumonia>) - *25/09/2026*
+- [Quem disputa as eleições no Rio Grande do Norte? Conheça os candidatos](<https://www.rcwtv.com.br/noticia/quem-disputa-as-eleicoes-no-rio-grande-do-norte-conheca-os-candidatos>) - *25/09/2026*
+- [Conselho do MPF vota nesta sexta investigação sobre Paulo Gonet](<https://www.rcwtv.com.br/noticia/conselho-do-mpf-vota-nesta-sexta-investigacao-sobre-paulo-gonet>) - *25/09/2026*
+- [Conheça os seis candidatos que disputam o governo da Bahia nestas eleições](<https://www.rcwtv.com.br/noticia/conheca-os-seis-candidatos-que-disputam-o-governo-da-bahia-nestas-eleicoes>) - *25/09/2026*
+- [Pão de queijo mineiro: receita caseira com sabor de tradição](<https://www.rcwtv.com.br/noticia/pao-de-queijo-mineiro-receita-caseira-com-sabor-de-tradicao>) - *25/09/2026*
+
+### Atualização de 25/09/2026
+- [Conselho do MPF rejeita investigação contra Paulo Gonet](<https://www.rcwtv.com.br/noticia/conselho-do-mpf-rejeita-investigacao-contra-paulo-gonet>) - *25/09/2026*
+- [Conta de luz volta a ter bandeira verde em outubro após cinco meses](<https://www.rcwtv.com.br/noticia/conta-de-luz-volta-a-ter-bandeira-verde-em-outubro-apos-cinco-meses>) - *25/09/2026*
+- [Projeto garante vaga em escola integral para aluno com deficiência](<https://www.rcwtv.com.br/noticia/projeto-garante-vaga-em-escola-integral-para-aluno-com-deficiencia>) - *25/09/2026*
+- [CSMPF forma maioria para manter Paulo Gonet no caso Banco Master](<https://www.rcwtv.com.br/noticia/csmpf-forma-maioria-para-manter-paulo-gonet-no-caso-banco-master>) - *25/09/2026*
+- [Caixa libera novo lote do saque do PIS/Pasep para trabalhadores](<https://www.rcwtv.com.br/noticia/caixa-libera-novo-lote-do-saque-do-pis-pasep-para-trabalhadores>) - *25/09/2026*
+- [Carteiras escolares feitas para durar décadas](<https://www.rcwtv.com.br/noticia/carteiras-escolares-feitas-para-durar-decadas>) - *25/09/2026*
+- [Atropelamentos por trem deixam um morto e um ferido em Juiz de Fora](<https://www.rcwtv.com.br/noticia/bombeiros-atendem-dois-atropelamentos-por-trem-em-menos-de-uma-hora-em-juiz-de-fora-mulher-morre-na-vila-ideal>) - *25/09/2026*
+- [Como fazer uma lista de compras que evita desperdício: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-fazer-uma-lista-de-compras-que-evita-desperdicio-passo-a-passo-seguro-e-pratico>) - *25/09/2026*
+- [Como economizar gás de cozinha: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-economizar-gas-de-cozinha-passo-a-passo-seguro-e-pratico>) - *25/09/2026*
+- [Caso Master: conselho do MPF tem três votos para manter Paulo Gonet](<https://www.rcwtv.com.br/noticia/caso-master-conselho-do-mpf-tem-tres-votos-para-manter-paulo-gonet>) - *25/09/2026*
+
+### Atualização de 26/09/2026
+- [Governo federal promete bloqueio rigoroso para bets ilegais a partir de outubro](<https://www.rcwtv.com.br/noticia/governo-federal-promete-bloqueio-rigoroso-para-bets-ilegais-a-partir-de-outubro>) - *26/09/2026*
+- [Agenda dos presidenciáveis destaca propostas e encontros nesta sexta-feira](<https://www.rcwtv.com.br/noticia/agenda-dos-presidenciaveis-destaca-propostas-e-encontros-nesta-sexta-feira>) - *26/09/2026*
+- [Governo lança nova fase do Desenrola Brasil com compra de dívidas pela União](<https://www.rcwtv.com.br/noticia/governo-lanca-nova-fase-do-desenrola-brasil-com-compra-de-dividas-pela-uniao>) - *26/09/2026*
+- [Governo fará busca ativa de jogadores após proibição de apostas on-line](<https://www.rcwtv.com.br/noticia/governo-fara-busca-ativa-de-jogadores-apos-proibicao-de-apostas-on-line>) - *26/09/2026*
+- [Zanin determina investigação de fraude com inteligência artificial no STF](<https://www.rcwtv.com.br/noticia/zanin-determina-investigacao-de-fraude-com-inteligencia-artificial-no-stf>) - *26/09/2026*
+- [Como conservar frutas e verduras por mais tempo](<https://www.rcwtv.com.br/noticia/como-conservar-frutas-e-verduras-por-mais-tempo>) - *26/09/2026*
+
+### Atualização de 26/09/2026
+- [Saiba como utilizar o e-Título para votar nas eleições de 2026](<https://www.rcwtv.com.br/noticia/saiba-como-utilizar-o-e-titulo-para-votar-nas-eleicoes-de-2026>) - *26/09/2026*
+- [Quebra de caixa, uniforme, avaria: o que a empresa pode descontar do salário](<https://www.rcwtv.com.br/noticia/quebra-de-caixa-uniforme-avaria-o-que-a-empresa-pode-descontar-do-salario>) - *26/09/2026*
+- [Anatel alerta STF que liberar internet móvel na eleição pode colapsar redes](<https://www.rcwtv.com.br/noticia/anatel-alerta-stf-que-liberar-internet-movel-na-eleicao-pode-colapsar-redes>) - *26/09/2026*
+- [NFL no Brasil: Cowboys e Ravens se enfrentam neste domingo no Maracanã pela Semana 3 da liga](<https://www.rcwtv.com.br/noticia/nfl-no-brasil-cowboys-e-ravens-se-enfrentam-neste-domingo-no-maracana-pela-semana-3-da-liga>) - *26/09/2026*
+- [Como aproveitar sobras de comida com segurança: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-aproveitar-sobras-de-comida-com-seguranca-passo-a-passo-seguro-e-pratico>) - *26/09/2026*
+- [Corrida dos Supermercados BH altera tráfego na Zona Norte de Juiz de Fora neste domingo](<https://www.rcwtv.com.br/noticia/corrida-dos-supermercados-bh-altera-trafego-na-zona-norte-de-juiz-de-fora-neste-domingo>) - *26/09/2026*
+- [Eleições 2026: saiba a ordem de votação e em quantos candidatos votar](<https://www.rcwtv.com.br/noticia/eleicoes-2026-saiba-a-ordem-de-votacao-e-em-quantos-candidatos-votar>) - *26/09/2026*
+- [Ministério da Fazenda garante subsídio ao óleo diesel em portaria](<https://www.rcwtv.com.br/noticia/ministerio-da-fazenda-garante-subsidio-ao-oleo-diesel-em-portaria>) - *26/09/2026*
+- [STF condena Eduardo Bolsonaro por difamação contra Tabata Amaral](<https://www.rcwtv.com.br/noticia/stf-condena-eduardo-bolsonaro-por-difamacao-contra-tabata-amaral>) - *26/09/2026*
+- [Rede Sindijori MG destaca propostas da Fecomércio e novidades no estado](<https://www.rcwtv.com.br/noticia/rede-sindijori-mg-destaca-propostas-da-fecomercio-e-novidades-no-estado>) - *26/09/2026*
+
+### Atualização de 27/09/2026
+- [Eleições 2026: conheça os candidatos ao governo do Rio de Janeiro](<https://www.rcwtv.com.br/noticia/eleicoes-2026-conheca-os-candidatos-ao-governo-do-rio-de-janeiro>) - *27/09/2026*
+- [Eleições em Minas Gerais: conheça os 11 candidatos ao governo do estado](<https://www.rcwtv.com.br/noticia/eleicoes-em-minas-gerais-conheca-os-11-candidatos-ao-governo-do-estado>) - *27/09/2026*
+- [Roupa Nova leva sucessos de mais de quatro décadas ao palco do Terrazzo, em Juiz de Fora](<https://www.rcwtv.com.br/noticia/roupa-nova-leva-sucessos-de-mais-de-quatro-decadas-ao-palco-do-terrazzo-em-juiz-de-fora>) - *27/09/2026*
+- [TSE alerta eleitores para consultar o local de votação com antecedência](<https://www.rcwtv.com.br/noticia/tse-alerta-eleitores-para-consultar-o-local-de-votacao-com-antecedencia>) - *27/09/2026*
+
+### Atualização de 27/09/2026
+- [Veja como foi a agenda de rua dos candidatos à presidência no fim de semana](<https://www.rcwtv.com.br/noticia/veja-como-foi-a-agenda-de-rua-dos-candidatos-a-presidencia-no-fim-de-semana>) - *27/09/2026*
+- [Flávio Dino anula decisão de André Mendonça e libera post sobre Nossa Senhora](<https://www.rcwtv.com.br/noticia/flavio-dino-anula-decisao-de-andre-mendonca-e-libera-post-sobre-nossa-senhora>) - *27/09/2026*
+- [Como as bets causaram endividamento e crise de saúde pública no Brasil](<https://www.rcwtv.com.br/noticia/como-as-bets-causaram-endividamento-e-crise-de-saude-publica-no-brasil>) - *27/09/2026*
+- [Mega-Sena acumulada chega a R$ 52 milhões; confira as dezenas sorteadas](<https://www.rcwtv.com.br/noticia/mega-sena-acumulada-chega-a-r-52-milhoes-confira-as-dezenas-sorteadas>) - *27/09/2026*
+
+### Atualização de 28/09/2026
+- [Câmara promove roda de conversa gratuita sobre envelhecimento ativo em Juiz de Fora](<https://www.rcwtv.com.br/noticia/camara-promove-roda-de-conversa-gratuita-sobre-envelhecimento-ativo-em-juiz-de-fora>) - *28/09/2026*
+- [Cataguases recebe fórum sobre formação e mercado de trabalho para artistas](<https://www.rcwtv.com.br/noticia/cataguases-recebe-forum-sobre-formacao-e-mercado-de-trabalho-para-artistas>) - *28/09/2026*
+- [Museu Mariano Procópio promove nova edição de visitação noturna guiada com lanternas](<https://www.rcwtv.com.br/noticia/museu-mariano-procopio-promove-nova-edicao-de-visitacao-noturna-guiada-com-lanternas>) - *28/09/2026*
+- [Cesama realiza obra na terça-feira e pode afetar abastecimento nas regiões Leste e Centro](<https://www.rcwtv.com.br/noticia/cesama-realiza-obra-na-terca-feira-e-pode-afetar-abastecimento-nas-regioes-leste-e-centro>) - *28/09/2026*
+- [Juiz de Fora lança projeto "Caminhos da Produção" para impulsionar turismo no campo](<https://www.rcwtv.com.br/noticia/juiz-de-fora-lanca-projeto-caminhos-da-producao-para-impulsionar-turismo-no-campo>) - *28/09/2026*
+- [Associações de bets acionam o STF contra medida provisória que proíbe apostas](<https://www.rcwtv.com.br/noticia/associacoes-de-bets-acionam-o-stf-contra-medida-provisoria-que-proibe-apostas>) - *28/09/2026*
+- [Déficit em transações correntes atinge US$ 5,1 bilhões em agosto](<https://www.rcwtv.com.br/noticia/deficit-em-transacoes-correntes-atinge-us-5-1-bilhoes-em-agosto>) - *28/09/2026*
+- [Polícia Federal prende candidato após depredação de patrimônio na UnB](<https://www.rcwtv.com.br/noticia/policia-federal-prende-candidato-apos-depredacao-de-patrimonio-na-unb>) - *28/09/2026*
+- [Demanda global impulsiona biodiesel em Montes Claros com novos investimentos](<https://www.rcwtv.com.br/noticia/demanda-global-impulsiona-biodiesel-em-montes-claros-com-novos-investimentos>) - *28/09/2026*
+- [FIEMG Regional oferece curso de planejamento da produção em Juiz de Fora](<https://www.rcwtv.com.br/noticia/fiemg-regional-oferece-curso-de-planejamento-da-producao-em-juiz-de-fora>) - *28/09/2026*
+
+### Atualização de 29/09/2026
+- [FIEMG Regional Zona da Mata realiza seminário sobre NR-1 e saúde mental nas empresas em Barbacena](<https://www.rcwtv.com.br/noticia/fiemg-regional-zona-da-mata-realiza-seminario-sobre-nr-1-e-saude-mental-nas-empresas-em-barbacena>) - *29/09/2026*
+- [CNBB nega envolvimento em fake news sobre Nossa Senhora Aparecida](<https://www.rcwtv.com.br/noticia/cnbb-nega-envolvimento-em-fake-news-sobre-nossa-senhora-aparecida>) - *29/09/2026*
+- [AGU pede prazo de 72 horas ao STF para se manifestar sobre liberação de bets](<https://www.rcwtv.com.br/noticia/agu-pede-prazo-de-72-horas-ao-stf-para-se-manifestar-sobre-liberacao-de-bets>) - *29/09/2026*
+- [Feira da Construção Civil da Zona da Mata reúne inovação, tecnologia e negócios em Juiz de Fora](<https://www.rcwtv.com.br/noticia/feira-da-construcao-civil-da-zona-da-mata-reune-inovacao-tecnologia-e-negocios-em-juiz-de-fora>) - *29/09/2026*
+- [Como eram os uniformes escolares antigos](<https://www.rcwtv.com.br/noticia/como-eram-os-uniformes-escolares-antigos>) - *29/09/2026*
+- [Projetos de lei propõem abrigo seguro em emergências e selo de acessibilidade em Juiz de Fora](<https://www.rcwtv.com.br/noticia/projetos-de-lei-propoem-abrigo-seguro-em-emergencias-e-selo-de-acessibilidade-em-juiz-de-fora>) - *29/09/2026*
+- [Campanha de Popularização do Teatro e da Dança vira Patrimônio Imaterial de Juiz de Fora](<https://www.rcwtv.com.br/noticia/campanha-de-popularizacao-do-teatro-e-da-danca-vira-patrimonio-imaterial-de-juiz-de-fora>) - *29/09/2026*
+- [Lancheiras antigas e o recreio de outros tempos: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/lancheiras-antigas-e-o-recreio-de-outros-tempos-historia-lembrancas-e-curiosidades>) - *29/09/2026*
+- [A história da merenda escolar no Brasil: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/a-historia-da-merenda-escolar-no-brasil-historia-lembrancas-e-curiosidades>) - *29/09/2026*
+- [Supremo Tribunal Federal deve identificar magistrados citados no caso Banco Master](<https://www.rcwtv.com.br/noticia/supremo-tribunal-federal-deve-identificar-magistrados-citados-no-caso-banco-master>) - *29/09/2026*
+
+### Atualização de 29/09/2026
+- [Com 94,5% dos galpões logísticos de alto padrão ocupados, complexo logístico em SC avança para segunda etapa](<https://www.rcwtv.com.br/noticia/com-94-5-dos-galpoes-logisticos-de-alto-padrao-ocupados-complexo-logistico-em-sc-avanca-para-segunda-etapa>) - *29/09/2026*
+- [Nunes Marques cobra tribunais para garantir transporte gratuito nas eleições](<https://www.rcwtv.com.br/noticia/nunes-marques-cobra-tribunais-para-garantir-transporte-gratuito-nas-eleicoes>) - *29/09/2026*
+- [Guia completo sobre voto em trânsito e justificativa para as eleições 2026](<https://www.rcwtv.com.br/noticia/guia-completo-sobre-voto-em-transito-e-justificativa-para-as-eleicoes-2026>) - *29/09/2026*
+- [Destaques nas notícias de Minas Gerais incluem infraestrutura e saúde municipal](<https://www.rcwtv.com.br/noticia/destaques-nas-noticias-de-minas-gerais-incluem-infraestrutura-e-saude-municipal>) - *29/09/2026*
+- [Juros para famílias avançam em agosto e taxa de inadimplência atinge 6%](<https://www.rcwtv.com.br/noticia/juros-para-familias-avancam-em-agosto-e-taxa-de-inadimplencia-atinge-6>) - *29/09/2026*
+- [Taxa de desemprego atinge menor patamar para o trimestre encerrado em agosto](<https://www.rcwtv.com.br/noticia/taxa-de-desemprego-atinge-menor-patamar-para-o-trimestre-encerrado-em-agosto>) - *29/09/2026*
+- [Luiz Fux suspende despacho de Dino sobre posts contra Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/luiz-fux-suspende-despacho-de-dino-sobre-posts-contra-flavio-bolsonaro>) - *29/09/2026*
+- [Tribunal Superior do Trabalho julga dissídio da caixa nesta terça-feira](<https://www.rcwtv.com.br/noticia/tribunal-superior-do-trabalho-julga-dissidio-da-caixa-nesta-terca-feira>) - *29/09/2026*
+- [Mega-Sena realiza sorteio de prêmio estimado em R$ 52 milhões nesta terça-feira](<https://www.rcwtv.com.br/noticia/mega-sena-realiza-sorteio-de-premio-estimado-em-r-52-milhoes-nesta-terca-feira>) - *29/09/2026*
+- [MPMG processa prefeito de Santa Bárbara do Tugúrio por supostas irregularidades em contratos](<https://www.rcwtv.com.br/noticia/mpmg-processa-prefeito-de-santa-barbara-do-tugurio-por-supostas-irregularidades-em-contratos>) - *29/09/2026*
+
+### Atualização de 30/09/2026
+- [Transações com Pix recuam 10% após restrição a apostas esportivas](<https://www.rcwtv.com.br/noticia/transacoes-com-pix-recuam-10-apos-restricao-a-apostas-esportivas>) - *30/09/2026*
+- [Baixa vacinação em gestantes aumenta riscos para mães e bebês no Brasil](<https://www.rcwtv.com.br/noticia/baixa-vacinacao-em-gestantes-aumenta-riscos-para-maes-e-bebes-no-brasil>) - *30/09/2026*
+- [Governo federal pede a derrubada de milhares de sites de apostas ilegais](<https://www.rcwtv.com.br/noticia/governo-federal-pede-a-derrubada-de-milhares-de-sites-de-apostas-ilegais>) - *30/09/2026*
+- [Investimento por aluno no Brasil atinge apenas um terço da média da OCDE](<https://www.rcwtv.com.br/noticia/investimento-por-aluno-no-brasil-atinge-apenas-um-terco-da-media-da-ocde>) - *30/09/2026*
+- [Rede Legislativa realiza cobertura completa das eleições em tempo integral](<https://www.rcwtv.com.br/noticia/rede-legislativa-realiza-cobertura-completa-das-eleicoes-em-tempo-integral>) - *30/09/2026*
+- [Ato político-eleitoral altera trânsito e itinerários de ônibus no Centro de Juiz de Fora nesta quarta-feira](<https://www.rcwtv.com.br/noticia/ato-politico-eleitoral-altera-transito-e-itinerarios-de-onibus-no-centro-de-juiz-de-fora-nesta-quarta-feira>) - *30/09/2026*
+- [O pilão e o preparo dos alimentos](<https://www.rcwtv.com.br/noticia/o-pilao-e-o-preparo-dos-alimentos>) - *30/09/2026*
+- [Como funcionava o forno de barro](<https://www.rcwtv.com.br/noticia/como-funcionava-o-forno-de-barro>) - *30/09/2026*
+- [Sapo do litoral do Espírito Santo entra para a ciência como criticamente ameaçado](<https://www.rcwtv.com.br/noticia/sapo-do-litoral-do-espirito-santo-entra-para-a-ciencia-como-criticamente-ameacado>) - *30/09/2026*
+- [Vírus capaz de destruir a bactéria do cancro cítrico é identificado no interior de São Paulo](<https://www.rcwtv.com.br/noticia/virus-capaz-de-destruir-a-bacteria-do-cancro-citrico-e-identificado-no-interior-de-sao-paulo>) - *30/09/2026*
+
+### Atualização de 30/09/2026
+- [Obras da Cesama e manutenção elétrica podem afetar abastecimento em bairros de Juiz de Fora nesta quinta](<https://www.rcwtv.com.br/noticia/obras-da-cesama-e-manutencao-eletrica-podem-afetar-abastecimento-em-bairros-de-juiz-de-fora-nesta-quinta>) - *30/09/2026*
+- [Usiminas confirma novo investimento em Ipatinga](<https://www.rcwtv.com.br/noticia/usiminas-confirma-novo-investimento-em-ipatinga>) - *30/09/2026*
+- [Plenário do TSE inicia julgamento sobre fake news envolvendo Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/plenario-do-tse-inicia-julgamento-sobre-fake-news-envolvendo-flavio-bolsonaro>) - *30/09/2026*
+- [Frente de prefeitos cobra nova relação federativa de presidenciáveis](<https://www.rcwtv.com.br/noticia/frente-de-prefeitos-cobra-nova-relacao-federativa-de-presidenciaveis>) - *30/09/2026*
+- [Corrida pelos carros elétricos pressiona redes prediais e traz novo padrão à engenharia preventiva](<https://www.rcwtv.com.br/noticia/corrida-pelos-carros-eletricos-pressiona-redes-prediais-e-traz-novo-padrao-a-engenharia-preventiva>) - *30/09/2026*
+- [Contas públicas registram déficit primário de R$ 10 bilhões em agosto](<https://www.rcwtv.com.br/noticia/contas-publicas-registram-deficit-primario-de-r-10-bilhoes-em-agosto>) - *30/09/2026*
+- [Anvisa aprova novo remédio para esquistossomose em crianças](<https://www.rcwtv.com.br/noticia/anvisa-aprova-novo-remedio-para-esquistossomose-em-criancas>) - *30/09/2026*
+- [Produção de leite bate recorde no Brasil mesmo com menos vacas ordenhadas](<https://www.rcwtv.com.br/noticia/producao-de-leite-bate-recorde-no-brasil-mesmo-com-menos-vacas-ordenhadas>) - *30/09/2026*
+- [Três homens são atendidos pelo SAMU após tiros e acidente na Zona da Mata](<https://www.rcwtv.com.br/noticia/tres-homens-sao-atendidos-pelo-samu-apos-tiros-e-acidente-na-zona-da-mata>) - *30/09/2026*
+- [Produção de café em Minas deve crescer 32,5% e abrir espaço para novos consumidores](<https://www.rcwtv.com.br/noticia/producao-de-cafe-em-minas-deve-crescer-32-5-e-abrir-espaco-para-novos-consumidores>) - *30/09/2026*
+
+### Atualização de 01/10/2026
+- [Projeto amplia a dedução do Imposto de Renda para gastos com educação de autistas](<https://www.rcwtv.com.br/noticia/projeto-amplia-a-deducao-do-imposto-de-renda-para-gastos-com-educacao-de-autistas>) - *01/10/2026*
+- [Projeto de lei propõe incluir provas do ensino técnico no Enem](<https://www.rcwtv.com.br/noticia/projeto-de-lei-propoe-incluir-provas-do-ensino-tecnico-no-enem>) - *01/10/2026*
+- [Projeto de lei propõe fim do vestibular e acesso universal ao ensino superior](<https://www.rcwtv.com.br/noticia/projeto-de-lei-propoe-fim-do-vestibular-e-acesso-universal-ao-ensino-superior>) - *01/10/2026*
+- [Gilmar Mendes critica vazamentos seletivos no STF durante sessão](<https://www.rcwtv.com.br/noticia/gilmar-mendes-critica-vazamentos-seletivos-no-stf-durante-sessao>) - *01/10/2026*
+- [Rodrigo Pacheco assume como ministro do Tribunal de Contas da União](<https://www.rcwtv.com.br/noticia/rodrigo-pacheco-assume-como-ministro-do-tribunal-de-contas-da-uniao>) - *01/10/2026*
+- [Termina nesta quarta o prazo para pedir saque do fundo pis pasep](<https://www.rcwtv.com.br/noticia/termina-nesta-quarta-o-prazo-para-pedir-saque-do-fundo-pis-pasep>) - *01/10/2026*
+- [Anvisa inicia novo sistema para emissão de receitas médicas eletrônicas](<https://www.rcwtv.com.br/noticia/anvisa-inicia-novo-sistema-para-emissao-de-receitas-medicas-eletronicas>) - *01/10/2026*
+- [4ª Semana de Artes Marciais reúne seis modalidades no Ginásio Municipal em Juiz de Fora](<https://www.rcwtv.com.br/noticia/4-semana-de-artes-marciais-reune-seis-modalidades-no-ginasio-municipal-em-juiz-de-fora>) - *01/10/2026*
+- [Juiz de Fora sanciona lei que regulamenta serviços e terapias assistidas por animais](<https://www.rcwtv.com.br/noticia/juiz-de-fora-sanciona-lei-que-regulamenta-servicos-e-terapias-assistidas-por-animais>) - *01/10/2026*
+- [Leandro Dias recebe homenagem da Liga de Malha de Juiz de Fora por divulgação do esporte regional](<https://www.rcwtv.com.br/noticia/leandro-dias-recebeu-homenagem-da-liga-de-malha-de-juiz-de-fora-por-divulgacao-do-esporte-regional>) - *01/10/2026*
+
+### Atualização de 01/10/2026
+- [Expansão urbana causa colapso ecológico em riachos da Região Metropolitana de São Paulo](<https://www.rcwtv.com.br/noticia/expansao-urbana-causa-colapso-ecologico-em-riachos-da-regiao-metropolitana-de-sao-paulo>) - *01/10/2026*
+- [Nova ferramenta de IA prevê rota e intensidade de tempestades em curtíssimo prazo](<https://www.rcwtv.com.br/noticia/nova-ferramenta-de-ia-preve-rota-e-intensidade-de-tempestades-em-curtissimo-prazo>) - *01/10/2026*
+- [Coluna MG traz destaques e novidades dos municípios mineiros](<https://www.rcwtv.com.br/noticia/coluna-mg-traz-destaques-e-novidades-dos-municipios-mineiros>) - *01/10/2026*
+- [Capotamento deixa mulher em estado gravíssimo e outras quatro pessoas são socorridas pelo SAMU na Zona da Mata](<https://www.rcwtv.com.br/noticia/capotamento-deixa-mulher-em-estado-gravissimo-e-outras-quatro-pessoas-sao-socorridas-pelo-samu-na-zona-da-mata>) - *01/10/2026*
+- [Lei Seca nas eleições: saiba quais estados terão restrição de bebidas](<https://www.rcwtv.com.br/noticia/lei-seca-nas-eleicoes-saiba-quais-estados-terao-restricao-de-bebidas>) - *01/10/2026*
+- [Anvisa aprova novas regras para venda de cosméticos artesanais no Brasil](<https://www.rcwtv.com.br/noticia/anvisa-aprova-novas-regras-para-venda-de-cosmeticos-artesanais-no-brasil>) - *01/10/2026*
+- [Guia prático para as eleições 2026: o que é permitido na votação](<https://www.rcwtv.com.br/noticia/guia-pratico-para-as-eleicoes-2026-o-que-e-permitido-na-votacao>) - *01/10/2026*
+- [Voto em candidato irregular pode ser anulado mesmo com nome na urna](<https://www.rcwtv.com.br/noticia/voto-em-candidato-irregular-pode-ser-anulado-mesmo-com-nome-na-urna>) - *01/10/2026*
+- [Calendário de outubro de 2026: descubra datas, fatos históricos e feriados](<https://www.rcwtv.com.br/noticia/calendario-de-outubro-de-2026-descubra-datas-fatos-historicos-e-feriados>) - *01/10/2026*
+- [Orçamento de 2026 tem liberação de R$ 1,88 bi para ministérios](<https://www.rcwtv.com.br/noticia/orcamento-de-2026-tem-liberacao-de-r-1-88-bi-para-ministerios>) - *01/10/2026*
+
+### Atualização de 02/10/2026
+- [Ligue 180 registra mais de 1,5 mil denúncias de violência política contra a mulher](<https://www.rcwtv.com.br/noticia/ligue-180-registra-mais-de-1-5-mil-denuncias-de-violencia-politica-contra-a-mulher>) - *02/10/2026*
+- [Agenda 227 entrega propostas de proteção para crianças e adolescentes](<https://www.rcwtv.com.br/noticia/agenda-227-entrega-propostas-de-protecao-para-criancas-e-adolescentes>) - *02/10/2026*
+- [Demlurb apresenta ações de suporte psicológico a servidores no 1º Encontro Mineiro de Psicologia](<https://www.rcwtv.com.br/noticia/demlurb-apresenta-acoes-de-suporte-psicologico-a-servidores-no-1-encontro-mineiro-de-psicologia>) - *02/10/2026*
+- [Oficina do Educatur reúne idosos para resgatar memórias e valorizar o patrimônio em Juiz de Fora](<https://www.rcwtv.com.br/noticia/oficina-do-educatur-reune-idosos-para-resgatar-memorias-e-valorizar-o-patrimonio-em-juiz-de-fora>) - *02/10/2026*
+- [Museu Mariano Procópio estará fechado neste domingo de eleições em Juiz de Fora](<https://www.rcwtv.com.br/noticia/museu-mariano-procopio-estara-fechado-neste-domingo-de-eleicoes-em-juiz-de-fora>) - *02/10/2026*
+- [Tarifa de carne bovina brasileira para a China sobe para 67% nesta quinta-feira](<https://www.rcwtv.com.br/noticia/tarifa-de-carne-bovina-brasileira-para-a-china-sobe-para-67-nesta-quinta-feira>) - *02/10/2026*
+- [Entenda as regras e proibições da justiça eleitoral para as eleições 2026](<https://www.rcwtv.com.br/noticia/entenda-as-regras-e-proibicoes-da-justica-eleitoral-para-as-eleicoes-2026>) - *02/10/2026*
+- [Fim da propaganda eleitoral gratuita marca reta final do primeiro turno](<https://www.rcwtv.com.br/noticia/fim-da-propaganda-eleitoral-gratuita-marca-reta-final-do-primeiro-turno>) - *02/10/2026*
+- [Polícia Rodoviária Federal recupera carro roubado em fiscalização na BR-116 em Leopoldina](<https://www.rcwtv.com.br/noticia/policia-rodoviaria-federal-recupera-carro-roubado-em-fiscalizacao-na-br-116-em-leopoldina>) - *02/10/2026*
+- [Ônibus de Juiz de Fora terão frota de dia útil e passe livre neste domingo de eleições](<https://www.rcwtv.com.br/noticia/onibus-de-juiz-de-fora-terao-frota-de-dia-util-e-passe-livre-neste-domingo-de-eleicoes>) - *02/10/2026*
+
+### Atualização de 02/10/2026
+- [Novo instrumento no acelerador Sirius permite observar células solares em funcionamento](<https://www.rcwtv.com.br/noticia/novo-instrumento-no-acelerador-sirius-permite-observar-celulas-solares-em-funcionamento>) - *02/10/2026*
+- [Nova lei de saneamento básico pode facilitar uso de poços artesianos domésticos](<https://www.rcwtv.com.br/noticia/nova-lei-de-saneamento-basico-pode-facilitar-uso-de-pocos-artesianos-domesticos>) - *02/10/2026*
+- [Petrobras realiza segunda descoberta de petróleo na Margem Equatorial](<https://www.rcwtv.com.br/noticia/petrobras-realiza-segunda-descoberta-de-petroleo-na-margem-equatorial>) - *02/10/2026*
+- [Confira os principais destaques de Minas Gerais no mercado e cultura](<https://www.rcwtv.com.br/noticia/confira-os-principais-destaques-de-minas-gerais-no-mercado-e-cultura>) - *02/10/2026*
+- [Produção industrial recua 0,6% em agosto e consolida perdas, aponta IBGE](<https://www.rcwtv.com.br/noticia/producao-industrial-recua-0-6-em-agosto-e-consolida-perdas-aponta-ibge>) - *02/10/2026*
+- [SAMU atende sete vítimas de acidentes e agressão em cidades da Zona da Mata](<https://www.rcwtv.com.br/noticia/samu-atende-sete-vitimas-de-acidentes-e-agressao-em-cidades-da-zona-da-mata>) - *02/10/2026*
+- [Eleitores de Juiz de Fora terão oito mudanças nos locais de votação](<https://www.rcwtv.com.br/noticia/eleitores-de-juiz-de-fora-terao-oito-mudancas-nos-locais-de-votacao>) - *02/10/2026*
+- [Ceará e cidades de Rondônia adotam Lei Seca nas eleições; veja lista](<https://www.rcwtv.com.br/noticia/ceara-e-cidades-de-rondonia-adotam-lei-seca-nas-eleicoes-veja-lista>) - *02/10/2026*
+- [Agro em Ação mobiliza produtores e fortalece a agropecuária mineira](<https://www.rcwtv.com.br/noticia/agro-em-acao-mobiliza-produtores-e-fortalece-a-agropecuaria-mineira>) - *02/10/2026*
+- [Como o lobby estrangeiro e os jabutis viabilizaram as bets no Brasil](<https://www.rcwtv.com.br/noticia/como-o-lobby-estrangeiro-e-os-jabutis-viabilizaram-as-bets-no-brasil>) - *02/10/2026*
+
+### Atualização de 03/10/2026
+- [Como as distribuidoras de energia garantem o fornecimento no dia da eleição](<https://www.rcwtv.com.br/noticia/como-as-distribuidoras-de-energia-garantem-o-fornecimento-no-dia-da-eleicao>) - *03/10/2026*
+- [Bloqueio das bets faz movimentação diária despencar R$ 652 milhões](<https://www.rcwtv.com.br/noticia/bloqueio-das-bets-faz-movimentacao-diaria-despencar-r-652-milhoes>) - *03/10/2026*
+- [Previsão indica chuvas em São Paulo durante o fim de semana de eleição](<https://www.rcwtv.com.br/noticia/previsao-indica-chuvas-em-sao-paulo-durante-o-fim-de-semana-de-eleicao>) - *03/10/2026*
+- [Projeto prevê abono de faltas para estudantes com deficiência no período menstrual](<https://www.rcwtv.com.br/noticia/projeto-preve-abono-de-faltas-para-estudantes-com-deficiencia-no-periodo-menstrual>) - *03/10/2026*
+- [Locais para a reaplicação do Encceja já podem ser consultados no site do Inep](<https://www.rcwtv.com.br/noticia/locais-para-a-reaplicacao-do-encceja-ja-podem-ser-consultados-no-site-do-inep>) - *03/10/2026*
+- [O moinho manual e o café feito na hora](<https://www.rcwtv.com.br/noticia/o-moinho-manual-e-o-cafe-feito-na-hora>) - *03/10/2026*
+- [Eleições 2026: Guia prático para votar sem complicação neste domingo em Minas Gerais](<https://www.rcwtv.com.br/noticia/eleicoes-2026-guia-pratico-para-votar-sem-complicacao-neste-domingo-em-minas-gerais>) - *03/10/2026*
+- [Santa Catarina recebe 555 mil turistas estrangeiros e Penha amplia oferta para público internacional](<https://www.rcwtv.com.br/noticia/santa-catarina-recebe-555-mil-turistas-estrangeiros-e-penha-amplia-oferta-para-publico-internacional>) - *03/10/2026*
+- [ONS prepara operação especial para garantir energia elétrica nas eleições](<https://www.rcwtv.com.br/noticia/ons-prepara-operacao-especial-para-garantir-energia-eletrica-nas-eleicoes>) - *03/10/2026*
+- [Fachin reunirá Polícia Federal para apurar citações a ministros no caso Master](<https://www.rcwtv.com.br/noticia/fachin-reunira-policia-federal-para-apurar-citacoes-a-ministros-no-caso-master>) - *03/10/2026*
+
+### Atualização de 03/10/2026
+- [Sorteio da Mega-Sena deste sábado pode pagar R$ 82 milhões](<https://www.rcwtv.com.br/noticia/sorteio-da-mega-sena-deste-sabado-pode-pagar-r-82-milhoes>) - *03/10/2026*
+- [Preço do limão dispara no país após fortes chuvas afetarem a produção](<https://www.rcwtv.com.br/noticia/preco-do-limao-dispara-no-pais-apos-fortes-chuvas-afetarem-a-producao>) - *03/10/2026*
+- [Urna eletrônica completa 30 anos de segurança e inovação nas eleições](<https://www.rcwtv.com.br/noticia/urna-eletronica-completa-30-anos-de-seguranca-e-inovacao-nas-eleicoes>) - *03/10/2026*
+- [Confira a movimentação dos candidatos nas eleições 2026 nesta sexta-feira](<https://www.rcwtv.com.br/noticia/confira-a-movimentacao-dos-candidatos-nas-eleicoes-2026-nesta-sexta-feira>) - *03/10/2026*
+- [Presidente do TSE fará pronunciamento na TV e no rádio neste sábado](<https://www.rcwtv.com.br/noticia/presidente-do-tse-fara-pronunciamento-na-tv-e-no-radio-neste-sabado>) - *03/10/2026*
+- [TSE determina a anulação dos votos destinados a Garotinho no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/tse-determina-a-anulacao-dos-votos-destinados-a-garotinho-no-rio-de-janeiro>) - *03/10/2026*
+- [Nova descoberta no poço Morpho eleva expectativas da Petrobras na Foz do Amazonas](<https://www.rcwtv.com.br/noticia/nova-descoberta-no-poco-morpho-eleva-expectativas-da-petrobras-na-foz-do-amazonas>) - *03/10/2026*
+- [Senado define votação do fim da escala 6x1 para a próxima semana](<https://www.rcwtv.com.br/noticia/senado-define-votacao-do-fim-da-escala-6x1-para-a-proxima-semana>) - *03/10/2026*
+
+### Atualização de 03/10/2026
+- [Tribunais distribuem urnas eletrônicas na véspera da votação](<https://www.rcwtv.com.br/noticia/tribunais-distribuem-urnas-eletronicas-na-vespera-da-votacao>) - *03/10/2026*
+- [Quanto custa um funeral sem plano funerário? Conheça as principais despesas](<https://www.rcwtv.com.br/noticia/quanto-custa-um-funeral-sem-plano-funerario-conheca-as-principais-despesas>) - *03/10/2026*
+- [Choque térmico pode trincar o para-brisa? Pode jogar água fria no vidro quente?](<https://www.rcwtv.com.br/noticia/choque-termico-pode-trincar-o-para-brisa-pode-jogar-agua-fria-no-vidro-quente>) - *03/10/2026*
+- [Como a tecnologia está transformando o mercado imobiliário de alto padrão em São Paulo?](<https://www.rcwtv.com.br/noticia/como-a-tecnologia-esta-transformando-o-mercado-imobiliario-de-alto-padrao-em-sao-paulo>) - *03/10/2026*
+- [Tipos de dor mais comuns: como identificar características e quando procurar atendimento?](<https://www.rcwtv.com.br/noticia/tipos-de-dor-mais-comuns-como-identificar-caracteristicas-e-quando-procurar-atendimento>) - *03/10/2026*
+- [Gamificação no varejo: como tornar o ponto de venda mais atrativo para os clientes?](<https://www.rcwtv.com.br/noticia/gamificacao-no-varejo-como-tornar-o-ponto-de-venda-mais-atrativo-para-os-clientes>) - *03/10/2026*
+- [O que é uma plataforma de e-commerce e como escolher a melhor para sua loja?](<https://www.rcwtv.com.br/noticia/o-que-e-uma-plataforma-de-e-commerce-e-como-escolher-a-melhor-para-sua-loja>) - *03/10/2026*
+- [Eleições 2026: entenda o que é proibido e evite o crime de boca de urna](<https://www.rcwtv.com.br/noticia/eleicoes-2026-entenda-o-que-e-proibido-e-evite-o-crime-de-boca-de-urna>) - *03/10/2026*
+- [TSE valida sistemas eleitorais e emite relatório de zerézima](<https://www.rcwtv.com.br/noticia/tse-valida-sistemas-eleitorais-e-emite-relatorio-de-zerezima>) - *03/10/2026*
+- [Novo recorde no valor de mercado da Petrobras após descoberta no Amapá](<https://www.rcwtv.com.br/noticia/novo-recorde-no-valor-de-mercado-da-petrobras-apos-descoberta-no-amapa>) - *03/10/2026*
+
+### Atualização de 04/10/2026
+- [Eleições 2026: aplicativo e-Título permite justificar ausência pelo celular](<https://www.rcwtv.com.br/noticia/eleicoes-2026-aplicativo-e-titulo-permite-justificar-ausencia-pelo-celular>) - *04/10/2026*
+- [Preparativos para as eleições de 2026: mais de 158 milhões vão às urnas](<https://www.rcwtv.com.br/noticia/preparativos-para-as-eleicoes-de-2026-mais-de-158-milhoes-vao-as-urnas>) - *04/10/2026*
+- [Candidatos à Presidência encerram campanha política com atos na véspera do pleito](<https://www.rcwtv.com.br/noticia/candidatos-a-presidencia-encerram-campanha-politica-com-atos-na-vespera-do-pleito>) - *04/10/2026*
+- [Saiba quem pode levar acompanhante na cabine de votação durante as eleições](<https://www.rcwtv.com.br/noticia/saiba-quem-pode-levar-acompanhante-na-cabine-de-votacao-durante-as-eleicoes>) - *04/10/2026*
+
+### Atualização de 04/10/2026
+- [PF apreende mais de R$ 30 milhões em combate a crimes eleitorais em 2026](<https://www.rcwtv.com.br/noticia/pf-apreende-mais-de-r-30-milhoes-em-combate-a-crimes-eleitorais-em-2026>) - *04/10/2026*
+- [TRE-MG investiga se Romeu Zema cometeu crime eleitoral ao usar celular na votação](<https://www.rcwtv.com.br/noticia/tre-mg-investiga-se-romeu-zema-cometeu-crime-eleitoral-ao-usar-celular-na-votacao>) - *04/10/2026*
+- [Votação das Eleições Gerais termina às 17h deste domingo em todo o país](<https://www.rcwtv.com.br/noticia/votacao-das-eleicoes-gerais-termina-as-17h-deste-domingo-em-todo-o-pais>) - *04/10/2026*
+- [Justificativa de voto: saiba como regularizar o título e evitar multas](<https://www.rcwtv.com.br/noticia/justificativa-de-voto-saiba-como-regularizar-o-titulo-e-evitar-multas>) - *04/10/2026*
+- [Romeu Zema é flagrado com celular na cabina de voto e episódio gera contestação sobre regras eleitorais](<https://www.rcwtv.com.br/noticia/romeu-zema-e-flagrado-com-celular-na-cabina-de-voto-e-episodio-gera-contestacao-sobre-regras-eleitorais>) - *04/10/2026*
+- [Juiz de Fora é a 3ª cidade de Minas com mais queixas no Pardal e amanhece com materiais de campanha nas ruas](<https://www.rcwtv.com.br/noticia/juiz-de-fora-e-a-3-cidade-de-minas-com-mais-queixas-no-pardal-e-amanhece-com-materiais-de-campanha-nas-ruas>) - *04/10/2026*
+- [Presidente do TSE afirma que Justiça Eleitoral assegura votação pacífica](<https://www.rcwtv.com.br/noticia/presidente-do-tse-afirma-que-justica-eleitoral-assegura-votacao-pacifica>) - *04/10/2026*
+- [Votação na zona sul de SP tem ritmo rápido e pouca fila no Paraíso](<https://www.rcwtv.com.br/noticia/votacao-na-zona-sul-de-sp-tem-ritmo-rapido-e-pouca-fila-no-paraiso>) - *04/10/2026*
+- [TRE-SP substitui 32 urnas eletrônicas nas primeiras horas de votação](<https://www.rcwtv.com.br/noticia/tre-sp-substitui-32-urnas-eletronicas-nas-primeiras-horas-de-votacao>) - *04/10/2026*
+- [Após emissão da "zerésima", seções eleitorais registram filas e movimentação intensa em Juiz de Fora](<https://www.rcwtv.com.br/noticia/apos-emissao-da-zeresima-secoes-eleitorais-registram-filas-e-movimentacao-intensa-em-juiz-de-fora>) - *04/10/2026*
+
+### Atualização de 05/10/2026
+- [Marcelina do Nascimento se destaca no Parajiu-Jitsu e leva o nome de Juiz de Fora ao circuito ADCC](<https://www.rcwtv.com.br/noticia/marcelina-do-nascimento-se-destaca-no-parajiu-jitsu-e-leva-o-nome-de-juiz-de-fora-ao-circuito-adcc>) - *05/10/2026*
+- [PL elege 19 senadores em 2026 e lidera nova composição da Casa](<https://www.rcwtv.com.br/noticia/pl-elege-19-senadores-em-2026-e-lidera-nova-composicao-da-casa>) - *05/10/2026*
+- [Eleições 2026: conheça quem garantiu vaga como deputado federal em São Paulo](<https://www.rcwtv.com.br/noticia/eleicoes-2026-conheca-quem-garantiu-vaga-como-deputado-federal-em-sao-paulo>) - *05/10/2026*
+- [Coluna MG destaca Divinópolis como fenômeno político e economia estadual](<https://www.rcwtv.com.br/noticia/coluna-mg-destaca-divinopolis-como-fenomeno-politico-e-economia-estadual>) - *05/10/2026*
+- [Vendas financiadas de casas crescem 11,8% no Brasil e superam avanço dos apartamentos em 2026](<https://www.rcwtv.com.br/noticia/vendas-financiadas-de-casas-crescem-11-8-no-brasil-e-superam-avanco-dos-apartamentos-em-2026>) - *05/10/2026*
+- [Acidentes deixam mortos e feridos em cidades da Zona da Mata e região](<https://www.rcwtv.com.br/noticia/acidentes-deixam-mortos-e-feridos-em-cidades-da-zona-da-mata-e-regiao>) - *05/10/2026*
+- [Governadores eleitos e senadores: confira o panorama completo do pleito](<https://www.rcwtv.com.br/noticia/governadores-eleitos-e-senadores-confira-o-panorama-completo-do-pleito>) - *05/10/2026*
+- [Conheça o deputado federal mais votado em cada estado nas eleições](<https://www.rcwtv.com.br/noticia/conheca-o-deputado-federal-mais-votado-em-cada-estado-nas-eleicoes>) - *05/10/2026*
+- [Vereadores de Juiz de Fora são eleitos para ALMG e Câmara dos Deputados](<https://www.rcwtv.com.br/noticia/vereadores-de-juiz-de-fora-sao-eleitos-para-almg-e-camara-dos-deputados>) - *05/10/2026*
+- [CeMEAI encerra trajetória com legado de aplicação da matemática a problemas concretos](<https://www.rcwtv.com.br/noticia/cemeai-encerra-trajetoria-com-legado-de-aplicacao-da-matematica-a-problemas-concretos>) - *05/10/2026*
+
+### Atualização de 06/10/2026
+- [Gráfica em BH: soluções gráficas no Mercado Novo](<https://www.rcwtv.com.br/noticia/grafica-em-bh-solucoes-graficas-no-mercado-novo>) - *06/10/2026*
+- [Bancada feminina bate recorde histórico no Congresso Nacional](<https://www.rcwtv.com.br/noticia/bancada-feminina-bate-recorde-historico-no-congresso-nacional>) - *06/10/2026*
+- [TSE analisa recurso de Garotinho que pode definir eleição no Rio](<https://www.rcwtv.com.br/noticia/tse-analisa-recurso-de-garotinho-que-pode-definir-eleicao-no-rio>) - *06/10/2026*
+- [Nova composição da Câmara dos Deputados tem recorde feminino e renovação de 35%](<https://www.rcwtv.com.br/noticia/nova-composicao-da-camara-dos-deputados-tem-recorde-feminino-e-renovacao-de-35>) - *06/10/2026*
+- [Polícia federal apreende milhões no primeiro turno das eleições](<https://www.rcwtv.com.br/noticia/policia-federal-apreende-milhoes-no-primeiro-turno-das-eleicoes>) - *06/10/2026*
+- [Como abrir uma empresa de serviços em 2026 e quanto pagar de impostos](<https://www.rcwtv.com.br/noticia/como-abrir-uma-empresa-de-servicos-em-2026-e-quanto-pagar-de-impostos>) - *06/10/2026*
+- [Demlurb abre inscrições infantis para projeto que apresenta a rotina da limpeza urbana em Juiz de Fora](<https://www.rcwtv.com.br/noticia/demlurb-abre-inscricoes-infantis-para-projeto-que-apresenta-a-rotina-da-limpeza-urbana-em-juiz-de-fora>) - *06/10/2026*
+- [Juiz de Fora inicia vacinação contra pneumonia e meningite para idosos de 85 anos ou mais nesta terça-feira](<https://www.rcwtv.com.br/noticia/juiz-de-fora-inicia-vacinacao-contra-pneumonia-e-meningite-para-idosos-de-85-anos-ou-mais-nesta-terca-feira>) - *06/10/2026*
+- [Avenida Presidente Itamar Franco tem interdição parcial a partir desta terça para demolição de imóveis em área de risco](<https://www.rcwtv.com.br/noticia/avenida-presidente-itamar-franco-tem-interdicao-parcial-a-partir-desta-terca-para-demolicao-de-imoveis-em-area-de-risco>) - *06/10/2026*
+- [PL lidera número de deputados federais reeleitos e novos na Câmara](<https://www.rcwtv.com.br/noticia/pl-lidera-numero-de-deputados-federais-reeleitos-e-novos-na-camara>) - *06/10/2026*
+
+### Atualização de 06/10/2026
+- [Contabilidade em Minas Gerais com atendimento nacional](<https://www.rcwtv.com.br/noticia/contabilidade-em-minas-gerais-com-atendimento-nacional>) - *06/10/2026*
+- [Ascomóvel oferece triagem e encaminhamento para mamografias gratuitas nesta terça-feira em Juiz de Fora](<https://www.rcwtv.com.br/noticia/ascomovel-oferece-triagem-e-encaminhamento-para-mamografias-gratuitas-nesta-terca-feira-em-juiz-de-fora>) - *06/10/2026*
+- [Guarda Municipal de Juiz de Fora promove capacitação para corporações de Minas Gerais](<https://www.rcwtv.com.br/noticia/guarda-municipal-de-juiz-de-fora-promove-capacitacao-para-corporacoes-de-minas-gerais>) - *06/10/2026*
+- [AGU pede ao STF que mantenha a proibição das bets no Brasil](<https://www.rcwtv.com.br/noticia/agu-pede-ao-stf-que-mantenha-a-proibicao-das-bets-no-brasil>) - *06/10/2026*
+- [Banco Central cria indicador para acompanhar reajustes salariais](<https://www.rcwtv.com.br/noticia/banco-central-cria-indicador-para-acompanhar-reajustes-salariais>) - *06/10/2026*
+- [André Mendonça multa Flávio Bolsonaro por propaganda negativa contra Lula](<https://www.rcwtv.com.br/noticia/andre-mendonca-multa-flavio-bolsonaro-por-propaganda-negativa-contra-lula>) - *06/10/2026*
+- [Supermercados de Minas Gerais registram alta de 3,12% no consumo](<https://www.rcwtv.com.br/noticia/supermercados-de-minas-gerais-registram-alta-de-3-12-no-consumo>) - *06/10/2026*
+- [Início do bloqueio de bets e cronograma de devolução de saldos no Brasil](<https://www.rcwtv.com.br/noticia/inicio-do-bloqueio-de-bets-e-cronograma-de-devolucao-de-saldos-no-brasil>) - *06/10/2026*
+- [Big techs descumprem regras eleitorais no dia da votação, aponta estudo](<https://www.rcwtv.com.br/noticia/big-techs-descumprem-regras-eleitorais-no-dia-da-votacao-aponta-estudo>) - *06/10/2026*
+- [Alexandre de Moraes concede regime semiaberto a Débora do Batom](<https://www.rcwtv.com.br/noticia/alexandre-de-moraes-concede-regime-semiaberto-a-debora-do-batom>) - *06/10/2026*
+
+### Atualização de 07/10/2026
+- [TSE esclarece que dados de comparecimento de eleitores estão em processamento](<https://www.rcwtv.com.br/noticia/tse-esclarece-que-dados-de-comparecimento-de-eleitores-estao-em-processamento>) - *07/10/2026*
+- [TSE desmente boato e esclarece pausa na apuração dos votos](<https://www.rcwtv.com.br/noticia/tse-desmente-boato-e-esclarece-pausa-na-apuracao-dos-votos>) - *07/10/2026*
+- [Projeto combate divulgação de crueldade contra animais na internet](<https://www.rcwtv.com.br/noticia/projeto-combate-divulgacao-de-crueldade-contra-animais-na-internet>) - *07/10/2026*
+- [Davi Alcolumbre define cronograma para votar o fim da escala 6x1 no Senado](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-define-cronograma-para-votar-o-fim-da-escala-6x1-no-senado>) - *07/10/2026*
+- [Novo perfil do Congresso Nacional deve alterar pautas prioritárias](<https://www.rcwtv.com.br/noticia/novo-perfil-do-congresso-nacional-deve-alterar-pautas-prioritarias>) - *07/10/2026*
+- [Câmara analisa projeto que regulamenta o registro digital de imóveis no Brasil](<https://www.rcwtv.com.br/noticia/camara-analisa-projeto-que-regulamenta-o-registro-digital-de-imoveis-no-brasil>) - *07/10/2026*
+- [Balança comercial registra superávit de US$ 7,74 bilhões em setembro](<https://www.rcwtv.com.br/noticia/balanca-comercial-registra-superavit-de-us-7-74-bilhoes-em-setembro>) - *07/10/2026*
+- [Operação Comércio Legal recolhe mais de 2,5 mil produtos irregulares nas ruas de Juiz de Fora em setembro](<https://www.rcwtv.com.br/noticia/operacao-comercio-legal-recolhe-mais-de-2-5-mil-produtos-irregulares-nas-ruas-de-juiz-de-fora-em-setembro>) - *07/10/2026*
+- [Seleção Brasileira Feminina defende ampla hegemonia diante da Argentina em amistosos preparatórios para a Copa de 2027](<https://www.rcwtv.com.br/noticia/selecao-brasileira-feminina-defende-ampla-hegemonia-diante-da-argentina-em-amistosos-preparatorios-para-a-copa-de-2027>) - *07/10/2026*
+- [Projeto prevê uso de prêmios de bets para quitar pensão alimentícia](<https://www.rcwtv.com.br/noticia/projeto-preve-uso-de-premios-de-bets-para-quitar-pensao-alimenticia>) - *07/10/2026*
+
+### Atualização de 07/10/2026
+- [anp realiza nesta quarta-feira o maior leilão de blocos de petróleo da história](<https://www.rcwtv.com.br/noticia/anp-realiza-nesta-quarta-feira-o-maior-leilao-de-blocos-de-petroleo-da-historia>) - *07/10/2026*
+- [Inmet divulga previsão do tempo com calor extremo e alertas de tempestades](<https://www.rcwtv.com.br/noticia/inmet-divulga-previsao-do-tempo-com-calor-extremo-e-alertas-de-tempestades>) - *07/10/2026*
+- [SAMU atende cinco vítimas de acidentes em cidades da Zona da Mata](<https://www.rcwtv.com.br/noticia/samu-atende-tres-mulheres-apos-acidentes-em-cataguases-e-juiz-de-fora>) - *07/10/2026*
+- [Fies 2026/2: faculdades particulares podem cadastrar vagas até quarta](<https://www.rcwtv.com.br/noticia/fies-2026-2-faculdades-particulares-podem-cadastrar-vagas-ate-quarta>) - *07/10/2026*
+- [IEL MG aposta em inovação e gestão para preparar indústrias para o futuro](<https://www.rcwtv.com.br/noticia/iel-mg-aposta-em-inovacao-e-gestao-para-preparar-industrias-para-o-futuro>) - *07/10/2026*
+- [JF Saborzinho reúne sete crianças na grande final nesta quinta-feira em Juiz de Fora](<https://www.rcwtv.com.br/noticia/jf-saborzinho-reune-sete-criancas-na-grande-final-nesta-quinta-feira-em-juiz-de-fora>) - *07/10/2026*
+- [Julgamento no TSE pode definir vitória de Douglas Ruas no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/julgamento-no-tse-pode-definir-vitoria-de-douglas-ruas-no-rio-de-janeiro>) - *07/10/2026*
+- [Mega-Sena acumula e prêmio vai a R$ 100 milhões para o próximo sorteio](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-premio-vai-a-r-100-milhoes-para-o-proximo-sorteio>) - *07/10/2026*
+- [OAB-RJ cobra rápida decisão do TSE sobre a eleição no estado](<https://www.rcwtv.com.br/noticia/oab-rj-cobra-rapida-decisao-do-tse-sobre-a-eleicao-no-estado>) - *07/10/2026*
+- [Projeto prevê isenção de licenciamento para igrejas e sindicatos](<https://www.rcwtv.com.br/noticia/projeto-preve-isencao-de-licenciamento-para-igrejas-e-sindicatos>) - *07/10/2026*
+
+### Atualização de 08/10/2026
+- [Estudantes protestam no Rio de Janeiro de olho nas eleições de 2026](<https://www.rcwtv.com.br/noticia/estudantes-protestam-no-rio-de-janeiro-de-olho-nas-eleicoes-de-2026>) - *08/10/2026*
+- [Ceagesp cria área provisória após incêndio na Ceagesp](<https://www.rcwtv.com.br/noticia/ceagesp-cria-area-provisoria-apos-incendio-na-ceagesp>) - *08/10/2026*
+- [Câmara avalia incentivo fiscal para empresas que compram de catadores](<https://www.rcwtv.com.br/noticia/camara-avalia-incentivo-fiscal-para-empresas-que-compram-de-catadores>) - *08/10/2026*
+- [Proposta de tolerância zero contra vandalismo urbano prevê multas pesadas](<https://www.rcwtv.com.br/noticia/proposta-de-tolerancia-zero-contra-vandalismo-urbano-preve-multas-pesadas>) - *08/10/2026*
+- [Veto sobre casas de apostas retiram R$ 6,5 bilhões de circulação em 10 dias e abre debate sobre finanças e futebol](<https://www.rcwtv.com.br/noticia/veto-sobre-casas-de-apostas-retiram-r-6-5-bilhoes-de-circulacao-em-10-dias-e-abre-debate-sobre-financas-e-futebol>) - *08/10/2026*
+- [Investimento em saúde inteligente pode poupar 739 mil vidas no Brasil](<https://www.rcwtv.com.br/noticia/investimento-em-saude-inteligente-pode-poupar-739-mil-vidas-no-brasil>) - *08/10/2026*
+- [STF adia julgamento de Bolsonaro para depois do segundo turno das eleições](<https://www.rcwtv.com.br/noticia/stf-adia-julgamento-de-bolsonaro-para-depois-do-segundo-turno-das-eleicoes>) - *08/10/2026*
+- [Desconto em multas de trânsito para motoristas de aplicativo avança na Câmara](<https://www.rcwtv.com.br/noticia/desconto-em-multas-de-transito-para-motoristas-de-aplicativo-avanca-na-camara>) - *08/10/2026*
+- [Lula cobra Flávio Bolsonaro sobre apoio ao fim da escala 6x1 em discurso](<https://www.rcwtv.com.br/noticia/lula-cobra-flavio-bolsonaro-sobre-apoio-ao-fim-da-escala-6x1-em-discurso>) - *08/10/2026*
+- [Governo de Minas divulga 400 pré-selecionados para programa de intercâmbio internacional](<https://www.rcwtv.com.br/noticia/governo-de-minas-divulga-400-pre-selecionados-para-programa-de-intercambio-internacional>) - *08/10/2026*
+
+### Atualização de 08/10/2026
+- [Prefeitura de Juiz de Fora Autua Responsável por Remoção Irregular de Mureta em Minas Gerais](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-autua-responsavel-por-remocao-irregular-de-mureta-em-minas-gerais>) - *08/10/2026*
+- [Trânsito é normalizado na Avenida Presidente Itamar Franco após demolições](<https://www.rcwtv.com.br/noticia/transito-e-normalizado-na-avenida-presidente-itamar-franco-apos-demolicoes>) - *08/10/2026*
+- [Juiz de Fora realiza evento de adoção de cães e gatos neste sábado](<https://www.rcwtv.com.br/noticia/juiz-de-fora-realiza-evento-de-adocao-de-caes-e-gatos-neste-sabado>) - *08/10/2026*
+- [Denúncia anônima leva PM a apreender revólver municiado em Conselheiro Lafaiete](<https://www.rcwtv.com.br/noticia/denuncia-anonima-leva-pm-a-apreender-revolver-municiado-em-conselheiro-lafaiete>) - *08/10/2026*
+- [SAMU atende três vítimas de acidentes em cidades da Zona da Mata](<https://www.rcwtv.com.br/noticia/samu-atende-tres-vitimas-de-acidentes-em-cidades-da-zona-da-mata>) - *08/10/2026*
+- [TSE anula votos de Anthony Garotinho e define vitória no Rio](<https://www.rcwtv.com.br/noticia/tse-anula-votos-de-anthony-garotinho-e-define-vitoria-no-rio>) - *08/10/2026*
+- [Procon-MPMG multa Claro em cerca de R$ 1 milhão em Minas Gerais por alterações unilaterais em planos de telefonia](<https://www.rcwtv.com.br/noticia/procon-mpmg-multa-claro-em-cerca-de-r-1-milhao-em-minas-gerais-por-alteracoes-unilaterais-em-planos-de-telefonia>) - *08/10/2026*
+- [Concurso de cafés de Minas Gerais bate recorde com quase 2 mil amostras](<https://www.rcwtv.com.br/noticia/concurso-de-cafes-de-minas-gerais-bate-recorde-com-quase-2-mil-amostras>) - *08/10/2026*
+- [Inscritos no Enem 2026 devem escolher idioma da prova até 18 de outubro](<https://www.rcwtv.com.br/noticia/inscritos-no-enem-2026-devem-escolher-idioma-da-prova-ate-18-de-outubro>) - *08/10/2026*
+- [Câmara Mirim de Juiz de Fora elege Mesa Diretora de 2026](<https://www.rcwtv.com.br/noticia/camara-mirim-de-juiz-de-fora-elege-mesa-diretora-de-2026>) - *08/10/2026*
+
+### Atualização de 09/10/2026
+- [Aplicativo MEC Enem ganha reforço com novas questões para reta final](<https://www.rcwtv.com.br/noticia/aplicativo-mec-enem-ganha-reforco-com-novas-questoes-para-reta-final>) - *09/10/2026*
+- [Governo enviará MP do Imposto Seletivo ao Congresso após as eleições](<https://www.rcwtv.com.br/noticia/governo-enviara-mp-do-imposto-seletivo-ao-congresso-apos-as-eleicoes>) - *09/10/2026*
+- [Violência política cresce no Brasil e atinge principalmente as mulheres](<https://www.rcwtv.com.br/noticia/violencia-politica-cresce-no-brasil-e-atinge-principalmente-as-mulheres>) - *09/10/2026*
+- [Veleiro Kat, da Família Schurmann, que já deu duas voltas ao mundo, abre para visitação gratuita em SC](<https://www.rcwtv.com.br/noticia/veleiro-kat-da-familia-schurmann-que-ja-deu-duas-voltas-ao-mundo-abre-para-visitacao-gratuita-em-sc>) - *09/10/2026*
+- [Projeto define regras para combater a exploração sexual infantil no turismo](<https://www.rcwtv.com.br/noticia/projeto-define-regras-para-combater-a-exploracao-sexual-infantil-no-turismo>) - *09/10/2026*
+- [Correios firmam acordo com AliExpress para acelerar entregas](<https://www.rcwtv.com.br/noticia/correios-firmam-acordo-com-aliexpress-para-acelerar-entregas>) - *09/10/2026*
+- [Projeto autoriza Santas Casas a usarem licitações do governo para insumos](<https://www.rcwtv.com.br/noticia/projeto-autoriza-santas-casas-a-usarem-licitacoes-do-governo-para-insumos>) - *09/10/2026*
+- [Polícia Civil apreende cerca de três quilos de cocaína no Bairro Nossa Senhora de Lourdes em Juiz de Fora](<https://www.rcwtv.com.br/noticia/policia-civil-apreende-cerca-de-tres-quilos-de-cocaina-no-bairro-nossa-senhora-de-lourdes-em-juiz-de-fora>) - *09/10/2026*
+- [Operação Ponto Ômega prende cinco suspeitos de ligação com facção criminosa em Juiz de Fora](<https://www.rcwtv.com.br/noticia/operacao-ponto-omega-prende-cinco-suspeitos-de-ligacao-com-faccao-criminosa-em-juiz-de-fora>) - *09/10/2026*
+- [PCMG Conclui Inquérito de Acidente Fatal na Avenida JK em Juiz de Fora, Minas Gerais](<https://www.rcwtv.com.br/noticia/pcmg-conclui-inquerito-de-acidente-fatal-na-avenida-jk-em-juiz-de-fora-minas-gerais>) - *09/10/2026*
+
+### Atualização de 09/10/2026
+- [Tampa Bay Buccaneers supera o Dallas Cowboys por 24 a 16 no AT&amp;T Stadium pela Semana 5 da NFL](<https://www.rcwtv.com.br/noticia/tampa-bay-buccaneers-supera-o-dallas-cowboys-por-24-a-16-no-at-t-stadium-pela-semana-5-da-nfl>) - *09/10/2026*
+- [Polícia Civil prende quatro líderes de grupo criminoso em Conselheiro Lafaiete](<https://www.rcwtv.com.br/noticia/policia-civil-prende-quatro-lideres-de-grupo-criminoso-em-conselheiro-lafaiete>) - *09/10/2026*
+- [Homem é preso em Juiz de Fora suspeito de praticar estupro contra a esposa e três filhos](<https://www.rcwtv.com.br/noticia/homem-e-preso-em-juiz-de-fora-suspeito-de-praticar-estupro-contra-a-esposa-e-tres-filhos>) - *09/10/2026*
+- [Operações da Polícia Militar resultam em prisões, apreensões de drogas e incêndio criminoso na região](<https://www.rcwtv.com.br/noticia/operacoes-da-policia-militar-resultam-em-prisoes-apreensoes-de-drogas-e-incendio-criminoso-na-regiao>) - *09/10/2026*
+- [Flamengo cede empate ao Santos com dois pênaltis de Neymar e Palmeiras bate o Bahia para colar na liderança](<https://www.rcwtv.com.br/noticia/flamengo-cede-empate-ao-santos-com-dois-penaltis-de-neymar-e-palmeiras-bate-o-bahia-para-colar-na-lideranca>) - *09/10/2026*
+- [Lula defende fim da escala 6x1 e critica Banco Master em comício no DF](<https://www.rcwtv.com.br/noticia/lula-defende-fim-da-escala-6x1-e-critica-banco-master-em-comicio-no-df>) - *09/10/2026*
+- [Fluminense goleia Coritiba com hat-trick de Savarino e Atlético-MG busca empate heroico com dez em Curitiba](<https://www.rcwtv.com.br/noticia/fluminense-goleia-coritiba-com-hat-trick-de-savarino-e-atletico-mg-busca-empate-heroico-com-dez-em-curitiba>) - *09/10/2026*
+- [Confira as principais notícias de Minas Gerais com investimentos e novas leis](<https://www.rcwtv.com.br/noticia/confira-as-principais-noticias-de-minas-gerais-com-investimentos-e-novas-leis>) - *09/10/2026*
+- [TSE ordena que Lula e Janja removam vídeos contra Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/tse-ordena-que-lula-e-janja-removam-videos-contra-flavio-bolsonaro>) - *09/10/2026*
+- [Projeto propõe nova classificação etária para desenhos animados na Câmara](<https://www.rcwtv.com.br/noticia/projeto-propoe-nova-classificacao-etaria-para-desenhos-animados-na-camara>) - *09/10/2026*
+
+### Atualização de 10/10/2026
+- [Projeto de lei na câmara pune empresas que atrasarem pagamento de médicos](<https://www.rcwtv.com.br/noticia/projeto-de-lei-na-camara-pune-empresas-que-atrasarem-pagamento-de-medicos>) - *10/10/2026*
+- [Polícia Federal nega depoimento de Daniel Vorcaro sobre suposto financiamento a Lula](<https://www.rcwtv.com.br/noticia/policia-federal-nega-depoimento-de-daniel-vorcaro-sobre-suposto-financiamento-a-lula>) - *10/10/2026*
+- [TSE aciona a Polícia Federal após servidores sofrerem ameaças virtuais](<https://www.rcwtv.com.br/noticia/tse-aciona-a-policia-federal-apos-servidores-sofrerem-ameacas-virtuais>) - *10/10/2026*
+- [Reforma tributária: 86% das notas fiscais já destacam a CBS no país](<https://www.rcwtv.com.br/noticia/reforma-tributaria-86-das-notas-fiscais-ja-destacam-a-cbs-no-pais>) - *10/10/2026*
+- [MPRJ denuncia mais oito policiais militares envolvidos na Operação Contenção](<https://www.rcwtv.com.br/noticia/mprj-denuncia-mais-oito-policiais-militares-envolvidos-na-operacao-contencao>) - *10/10/2026*
+- [Projeto de lei regulamenta uso de luz de cortesia entre motoristas](<https://www.rcwtv.com.br/noticia/projeto-de-lei-regulamenta-uso-de-luz-de-cortesia-entre-motoristas>) - *10/10/2026*
+- [Eduardo Bolsonaro entra em lista de prisão pendente após ordem do STF](<https://www.rcwtv.com.br/noticia/eduardo-bolsonaro-entra-em-lista-de-prisao-pendente-apos-ordem-do-stf>) - *10/10/2026*
+- [Projeto cria programa nacional de proteção animal em análise na Câmara](<https://www.rcwtv.com.br/noticia/projeto-cria-programa-nacional-de-protecao-animal-em-analise-na-camara>) - *10/10/2026*
+- [Bancos iniciam devolução de R$ 1,3 bilhão para apostadores de bets](<https://www.rcwtv.com.br/noticia/bancos-iniciam-devolucao-de-r-1-3-bilhao-para-apostadores-de-bets>) - *10/10/2026*
+- [Vagou JF: novas oportunidades de emprego são divulgadas em Juiz de Fora, Minas Gerais](<https://www.rcwtv.com.br/noticia/vagou-jf-novas-oportunidades-de-emprego-sao-divulgadas-em-juiz-de-fora-minas-gerais>) - *10/10/2026*
+
+### Atualização de 10/10/2026
+- [Internação de José Sarney ocorre em UTI após cirurgia abdominal no Maranhão](<https://www.rcwtv.com.br/noticia/internacao-de-jose-sarney-ocorre-em-uti-apos-cirurgia-abdominal-no-maranhao>) - *10/10/2026*
+- [Crescimento alarmante da violência política de gênero marca o país em 2026](<https://www.rcwtv.com.br/noticia/crescimento-alarmante-da-violencia-politica-de-genero-marca-o-pais-em-2026>) - *10/10/2026*
+- [Polícia militar reforça patrulhamento no Rio de Janeiro para o feriado](<https://www.rcwtv.com.br/noticia/policia-militar-reforca-patrulhamento-no-rio-de-janeiro-para-o-feriado>) - *10/10/2026*
+- [Mega-sena sorteia prêmio acumulado estimado em r$ 112 milhões](<https://www.rcwtv.com.br/noticia/mega-sena-sorteia-premio-acumulado-estimado-em-r-112-milhoes>) - *10/10/2026*
+- [Anel de noivado: o que observar antes de escolher a joia do pedido META DESCRIPTION (145 caracteres) Metal, pedra, laudo e medida do dedo pesam mais na decisão do que o tamanho do diamante.](<https://www.rcwtv.com.br/noticia/anel-de-noivado-o-que-observar-antes-de-escolher-a-joia-do-pedido-meta-description-145-caracteres-metal-pedra-laudo-e-medida-do-dedo-pesam-mais-na-decisao-do-que-o-tamanho-do-diamante>) - *10/10/2026*
+- [Davi Alcolumbre agenda votação da PEC 6x1 no Senado para a próxima quarta-feira](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-agenda-votacao-da-pec-6x1-no-senado-para-a-proxima-quarta-feira>) - *10/10/2026*
+- [TSE determina suspensão de site com criptomoedas por apoio a Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/tse-determina-suspensao-de-site-com-criptomoedas-por-apoio-a-flavio-bolsonaro>) - *10/10/2026*
+- [TRF3 cassa liminar que liberava plataforma de apostas no país](<https://www.rcwtv.com.br/noticia/trf3-cassa-liminar-que-liberava-plataforma-de-apostas-no-pais>) - *10/10/2026*
+- [Governo do RJ aponta desvios de R$ 400 milhões na Cedae Saúde](<https://www.rcwtv.com.br/noticia/governo-do-rj-aponta-desvios-de-r-400-milhoes-na-cedae-saude>) - *10/10/2026*
+- [Estudantes realizam atos pelo país em defesa de Lula no segundo turno](<https://www.rcwtv.com.br/noticia/estudantes-realizam-atos-pelo-pais-em-defesa-de-lula-no-segundo-turno>) - *10/10/2026*
+
+### Atualização de 11/10/2026
+- [Douglas Ruas atinge 50,88% após retotalização no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/douglas-ruas-atinge-50-88-apos-retotalizacao-no-rio-de-janeiro>) - *11/10/2026*
+- [Vida acadêmica e facilidades para estudantes perto das universidades](<https://www.rcwtv.com.br/noticia/vida-academica-e-facilidades-para-estudantes-perto-das-universidades>) - *11/10/2026*
+- [Padilha aciona Justiça contra notícia falsa publicada sobre Lula](<https://www.rcwtv.com.br/noticia/padilha-aciona-justica-contra-noticia-falsa-publicada-sobre-lula>) - *11/10/2026*
+- [Piscicultura ornamental busca fortalecer cadeia produtiva na Zona da Mata](<https://www.rcwtv.com.br/noticia/piscicultura-ornamental-busca-fortalecer-cadeia-produtiva-na-zona-da-mata>) - *11/10/2026*
+- [Triângulo Mineiro amplia a exportação de sorgo para a China e aquece a economia](<https://www.rcwtv.com.br/noticia/triangulo-mineiro-amplia-a-exportacao-de-sorgo-para-a-china-e-aquece-a-economia>) - *11/10/2026*
+
+### Atualização de 11/10/2026
+- [Senar e-Tec abre vagas em cursos técnicos gratuitos para o agronegócio](<https://www.rcwtv.com.br/noticia/senar-e-tec-abre-vagas-em-cursos-tecnicos-gratuitos-para-o-agronegocio>) - *11/10/2026*
+- [PL apaga arte de Flávio Bolsonaro por repercussão sobre semelhança com propaganda italiana](<https://www.rcwtv.com.br/noticia/pl-apaga-arte-de-flavio-bolsonaro-por-repercussao-sobre-semelhanca-com-propaganda-italiana-84910>) - *11/10/2026*
+- [Lula e Flávio Bolsonaro movimentam campanha eleitoral em Natal e no Rio](<https://www.rcwtv.com.br/noticia/lula-e-flavio-bolsonaro-movimentam-campanha-eleitoral-em-natal-e-no-rio>) - *11/10/2026*
+
+### Atualização de 12/10/2026
+- [Especialistas criticam bloqueio no WhatsApp de grupo de eleitores](<https://www.rcwtv.com.br/noticia/especialistas-criticam-bloqueio-no-whatsapp-de-grupo-de-eleitores>) - *12/10/2026*
+- [Corregedor reverte suspensão do canal Exército do Lula no TSE](<https://www.rcwtv.com.br/noticia/corregedor-reverte-suspensao-do-canal-exercito-do-lula-no-tse>) - *12/10/2026*
+- [Privilège Home&amp;Decor chega à 3ª edição com quatro dias de experiências, negócios e conteúdo](<https://www.rcwtv.com.br/noticia/privilege-home-decor-chega-a-3-edicao-com-quatro-dias-de-experiencias-negocios-e-conteudo>) - *12/10/2026*
+- [Lula anuncia que PT vai recorrer na Justiça contra suspensão de canal](<https://www.rcwtv.com.br/noticia/lula-anuncia-que-pt-vai-recorrer-na-justica-contra-suspensao-de-canal>) - *12/10/2026*
+- [Mega-sena acumula e prêmio dispara para r$ 150 milhões no próximo concurso](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-premio-dispara-para-r-150-milhoes-no-proximo-concurso>) - *12/10/2026*
+- [TSE determina suspensão do canal de WhatsApp Exército do Lula](<https://www.rcwtv.com.br/noticia/tse-determina-suspensao-do-canal-de-whatsapp-exercito-do-lula>) - *12/10/2026*
+
+### Atualização de 12/10/2026
+- [28º Encontro de Panificadores e Fornecedores homenageará destaques do setor em Juiz de Fora](<https://www.rcwtv.com.br/noticia/28-encontro-de-panificadores-e-fornecedores-homenageara-destaques-do-setor-em-juiz-de-fora>) - *12/10/2026*
+- [TSE não acha conteúdo falso no canal Exército do Lula](<https://www.rcwtv.com.br/noticia/tse-nao-acha-conteudo-falso-no-canal-exercito-do-lula>) - *12/10/2026*
+- [Alexandre de Moraes autoriza Flávio Bolsonaro a visitar o pai em casa](<https://www.rcwtv.com.br/noticia/alexandre-de-moraes-autoriza-flavio-bolsonaro-a-visitar-o-pai-em-casa>) - *12/10/2026*
+- [AMM apoia 5º seminário de turismo em Poços de Caldas](<https://www.rcwtv.com.br/noticia/amm-apoia-5-seminario-de-turismo-em-pocos-de-caldas>) - *12/10/2026*
+- [Nossa Senhora Aparecida: a história e os 95 anos como padroeira do Brasil](<https://www.rcwtv.com.br/noticia/nossa-senhora-aparecida-a-historia-e-os-95-anos-como-padroeira-do-brasil>) - *12/10/2026*
+- [Como melhorar o canteiro com composto orgânico: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-melhorar-o-canteiro-com-composto-organico-guia-pratico-e-cuidados-essenciais-palavra-chave-como-melhorar-o-canteiro-com-composto-organico>) - *12/10/2026*
+
+### Atualização de 13/10/2026
+- [Ato em Copacabana reúne milhares em defesa da democracia e de Lula](<https://www.rcwtv.com.br/noticia/ato-em-copacabana-reune-milhares-em-defesa-da-democracia-e-de-lula>) - *13/10/2026*
+- [Kassio Nunes Marques atende Flávio e suspende jornal de sindicato](<https://www.rcwtv.com.br/noticia/kassio-nunes-marques-atende-flavio-e-suspende-jornal-de-sindicato>) - *13/10/2026*
+- [Flávio Bolsonaro participa de missa e fala sobre visitas ao pai em Brasília](<https://www.rcwtv.com.br/noticia/flavio-bolsonaro-participa-de-missa-e-fala-sobre-visitas-ao-pai-em-brasilia>) - *13/10/2026*
+- [Lula defende o respeito às religiões em missa no Palácio da Alvorada](<https://www.rcwtv.com.br/noticia/lula-defende-o-respeito-as-religioes-em-missa-no-palacio-da-alvorada>) - *13/10/2026*
+- [Propostas para a cultura marcam os planos de governo de Lula e Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/propostas-para-a-cultura-marcam-os-planos-de-governo-de-lula-e-flavio-bolsonaro>) - *13/10/2026*
+- [Arcebispo de Aparecida clama por paz e foco no combate à fome e à pobreza](<https://www.rcwtv.com.br/noticia/arcebispo-de-aparecida-clama-por-paz-e-foco-no-combate-a-fome-e-a-pobreza>) - *13/10/2026*
+
+### Atualização de 14/10/2026
+- [Câmara dos Deputados acelera votação para oito novos projetos de lei](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-acelera-votacao-para-oito-novos-projetos-de-lei>) - *14/10/2026*
+- [Líder do PT defende votação para ampliar limite de faturamento do MEI](<https://www.rcwtv.com.br/noticia/lider-do-pt-defende-votacao-para-ampliar-limite-de-faturamento-do-mei>) - *14/10/2026*
+- [Dinheiro esquecido em bancos atinge R$ 5,8 bilhões e gera alerta](<https://www.rcwtv.com.br/noticia/dinheiro-esquecido-em-bancos-atinge-r-5-8-bilhoes-e-gera-alerta>) - *14/10/2026*
+- [MPMG denuncia prefeito de Rio Preto por sonegação de documentos em investigação sobre monitores escolares](<https://www.rcwtv.com.br/noticia/mpmg-denuncia-prefeito-de-rio-preto-por-sonegacao-de-documentos-em-investigacao-sobre-monitores-escolares>) - *14/10/2026*
+- [Ministério Público de Minas Gerais cobra ressarcimento de quase R$ 400 mil em ações contra irregularidades em Pedra Azul e Guapé](<https://www.rcwtv.com.br/noticia/ministerio-publico-de-minas-gerais-cobra-ressarcimento-de-quase-r-400-mil-em-acoes-contra-irregularidades-em-pedra-azul-e-guape>) - *14/10/2026*
+- [Inteligência Artificial impõe desafios inéditos para as eleições e exige maior fiscalização do eleitorado](<https://www.rcwtv.com.br/noticia/inteligencia-artificial-impoe-desafios-ineditos-para-as-eleicoes-e-exige-maior-fiscalizacao-do-eleitorado>) - *14/10/2026*
+- [Prefeitura de Juiz de Fora estipula prazo até 19 de outubro para esvaziamento de 19 imóveis que passarão por demolição na Zona Norte](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-estipula-prazo-ate-19-de-outubro-para-esvaziamento-de-19-imoveis-que-passarao-por-demolicao-na-zona-norte>) - *14/10/2026*
+- [Obras do Córrego São Pedro interditam trecho da Avenida Brasil por dois meses em Juiz de Fora](<https://www.rcwtv.com.br/noticia/obras-do-corrego-sao-pedro-interditam-trecho-da-avenida-brasil-por-dois-meses-em-juiz-de-fora>) - *14/10/2026*
+- [MDB do Norte e Nordeste anuncia apoio a Lula nas eleições](<https://www.rcwtv.com.br/noticia/mdb-do-norte-e-nordeste-anuncia-apoio-a-lula-nas-eleicoes>) - *14/10/2026*
+- [Polícia Militar prende homens armados com moto roubada e apreende adolescentes no tráfico em Ubá](<https://www.rcwtv.com.br/noticia/policia-militar-prende-homens-armados-com-moto-roubada-e-apreende-adolescentes-no-trafico-em-uba>) - *14/10/2026*
+
+### Atualização de 14/10/2026
+- [Atropelamentos, queda em rio e acidentes com motos mobilizam o SAMU na Zona da Mata](<https://www.rcwtv.com.br/noticia/atropelamentos-queda-em-rio-e-acidentes-com-motos-mobilizam-o-samu-na-zona-da-mata>) - *14/10/2026*
+- [Operação em Barbacena identifica 12 veículos de luxo ligados a crimes e prende dois suspeitos](<https://www.rcwtv.com.br/noticia/operacao-em-barbacena-identifica-12-veiculos-de-luxo-ligados-a-crimes-e-prende-dois-suspeitos>) - *14/10/2026*
+- [Colisão entre dois caminhões provoca incêndio e mata motorista na BR-116, em Muriaé](<https://www.rcwtv.com.br/noticia/colisao-entre-dois-caminhoes-provoca-incendio-e-mata-motorista-na-br-116-em-muriae>) - *14/10/2026*
+- [Caminhoneiro de 41 anos morre após passar mal durante refeição em posto na BR-116, em Além Paraíba](<https://www.rcwtv.com.br/noticia/caminhoneiro-de-41-anos-morre-apos-passar-mal-durante-refeicao-em-posto-na-br-116-em-alem-paraiba>) - *14/10/2026*
+- [Apoio contínuo à pesquisa básica sustenta inovação e respostas a crises, destacam especialistas](<https://www.rcwtv.com.br/noticia/apoio-continuo-a-pesquisa-basica-sustenta-inovacao-e-respostas-a-crises-destacam-especialistas>) - *14/10/2026*
+- [Homem é preso após roubo com faca a comércio em Ouro Branco; celular e arma são recuperados](<https://www.rcwtv.com.br/noticia/homem-e-preso-apos-roubo-com-faca-a-comercio-em-ouro-branco-celular-e-arma-sao-recuperados>) - *14/10/2026*
+- [Anvisa proíbe venda na internet de canetas emagrecedoras sem registro](<https://www.rcwtv.com.br/noticia/anvisa-proibe-venda-na-internet-de-canetas-emagrecedoras-sem-registro>) - *14/10/2026*
+- [CCJ do Senado conclui votação da PEC da Segurança Pública](<https://www.rcwtv.com.br/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica>) - *14/10/2026*
+- [HU-UFJF participa de homenagem nacional a professores em Juiz de Fora](<https://www.rcwtv.com.br/noticia/hu-ufjf-participa-de-homenagem-nacional-a-professores-em-juiz-de-fora>) - *14/10/2026*
+- [Câmara dos Deputados lança livro infantil sobre meio ambiente](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-lanca-livro-infantil-sobre-meio-ambiente>) - *14/10/2026*
+
+### Atualização de 15/10/2026
+- [Minas Gerais reduz recusa familiar para doação de órgãos e pode bater recorde de transplantes](<https://www.rcwtv.com.br/noticia/minas-gerais-reduz-recusa-familiar-para-doacao-de-orgaos-e-pode-bater-recorde-de-transplantes>) - *15/10/2026*
+- [Marcadores no sangue podem prever eficácia de imunoterapia contra melanoma avançado](<https://www.rcwtv.com.br/noticia/marcadores-no-sangue-podem-prever-eficacia-de-imunoterapia-contra-melanoma-avancado>) - *15/10/2026*
+- [Governo detalha regras do marco legal de jogos eletrônicos no Brasil](<https://www.rcwtv.com.br/noticia/governo-detalha-regras-do-marco-legal-de-jogos-eletronicos-no-brasil>) - *15/10/2026*
+- [Câmara dos Deputados analisa proposta para o SUS aceitar exames da rede privada](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-analisa-proposta-para-o-sus-aceitar-exames-da-rede-privada>) - *15/10/2026*
+- [Propostas para a educação dividem planos de Flávio Bolsonaro e Lula](<https://www.rcwtv.com.br/noticia/propostas-para-a-educacao-dividem-planos-de-flavio-bolsonaro-e-lula>) - *15/10/2026*
+- [Polícia Federal deflagra nova fase contra lavagem de dinheiro em postos](<https://www.rcwtv.com.br/noticia/policia-federal-deflagra-nova-fase-contra-lavagem-de-dinheiro-em-postos>) - *15/10/2026*
+- [Hugo Motta comemora aval do Senado para o fim da escala 6x1](<https://www.rcwtv.com.br/noticia/hugo-motta-comemora-aval-do-senado-para-o-fim-da-escala-6x1>) - *15/10/2026*
+- [Prazo para empresas optarem pelo Simples Nacional termina nesta quinta-feira](<https://www.rcwtv.com.br/noticia/prazo-para-empresas-optarem-pelo-simples-nacional-termina-nesta-quinta-feira>) - *15/10/2026*
+- [Polícia Militar Rodoviária prende homem de 51 anos com mandado por homicídio em Cristiano Otoni](<https://www.rcwtv.com.br/noticia/policia-militar-rodoviaria-prende-homem-de-51-anos-com-mandado-por-homicidio-em-cristiano-otoni>) - *15/10/2026*
+- [Outubro Rosa: mastologista alerta para importância do diagnóstico precoce e do acolhimento a pacientes com câncer de mama](<https://www.rcwtv.com.br/noticia/outubro-rosa-mastologista-alerta-para-importancia-do-diagnostico-precoce-e-do-acolhimento-a-pacientes-com-cancer-de-mama>) - *15/10/2026*
+
+### Atualização de 15/10/2026
+- [Eternizando o cordão: ensaios fotográficos que marcam o momento especial da gestação](<https://www.rcwtv.com.br/noticia/eternizando-o-cordao-ensaios-fotograficos-que-marcam-o-momento-especial-da-gestacao>) - *15/10/2026*
+- [Comissão aprova plano de saúde sem licitação para servidores públicos](<https://www.rcwtv.com.br/noticia/comissao-aprova-plano-de-saude-sem-licitacao-para-servidores-publicos>) - *15/10/2026*
+- [TRE-RJ pede tropas federais para garantir segurança no segundo turno](<https://www.rcwtv.com.br/noticia/tre-rj-pede-tropas-federais-para-garantir-seguranca-no-segundo-turno>) - *15/10/2026*
+- [Dia do Professor: entre telas, inteligência artificial e violência, educadores buscam novos caminhos em sala de aula](<https://www.rcwtv.com.br/noticia/dia-do-professor-entre-telas-inteligencia-artificial-e-violencia-educadores-buscam-novos-caminhos-em-sala-de-aula>) - *15/10/2026*
+- [TRE-RJ oficializa Douglas Ruas eleito para o governo do Rio de Janeiro](<https://www.rcwtv.com.br/noticia/tre-rj-oficializa-douglas-ruas-eleito-para-o-governo-do-rio-de-janeiro>) - *15/10/2026*
+- [Comissão aprova direito de quitação de dívidas com desconto](<https://www.rcwtv.com.br/noticia/comissao-aprova-direito-de-quitacao-de-dividas-com-desconto>) - *15/10/2026*
+- [MPMG exige cumprimento de sentença para limitar lotação em presídio de Minas Gerais](<https://www.rcwtv.com.br/noticia/mpmg-exige-cumprimento-de-sentenca-para-limitar-lotacao-em-presidio-de-minas-gerais>) - *15/10/2026*
+- [Fim da escala 6x1 avança no Brasil e abre nova etapa nas relações de trabalho](<https://www.rcwtv.com.br/noticia/fim-da-escala-6x1-avanca-no-brasil-e-abre-nova-etapa-nas-relacoes-de-trabalho>) - *15/10/2026*
+- [MPMG reforça o cuidado humanizado e a saúde mental em Minas Gerais](<https://www.rcwtv.com.br/noticia/mpmg-reforca-o-cuidado-humanizado-e-a-saude-mental-em-minas-gerais>) - *15/10/2026*
+- [13ª Corrida Solidária Outubro Rosa altera circulação de veículos e itinerários de dez linhas de ônibus na Cidade Alta neste domingo (18)](<https://www.rcwtv.com.br/noticia/13-corrida-solidaria-outubro-rosa-altera-circulacao-de-veiculos-e-itinerarios-de-dez-linhas-de-onibus-na-cidade-alta-neste-domingo-18>) - *15/10/2026*
+
+### Atualização de 16/10/2026
+- [Operação conjunta prende dois homens procurados pela Justiça do Rio de Janeiro em Leopoldina](<https://www.rcwtv.com.br/noticia/operacao-conjunta-prende-dois-homens-procurados-pela-justica-do-rio-de-janeiro-em-leopoldina>) - *16/10/2026*
+- [Lula defende alteração na maioridade penal para crimes hediondos em sabatina](<https://www.rcwtv.com.br/noticia/lula-defende-alteracao-na-maioridade-penal-para-crimes-hediondos-em-sabatina>) - *16/10/2026*
+- [Congresso nacional aprova exame nacional de medicina obrigatório](<https://www.rcwtv.com.br/noticia/congresso-nacional-aprova-exame-nacional-de-medicina-obrigatorio>) - *16/10/2026*
+- [Congresso promulga o fim da escala 6x1 e aposentadoria especial para agentes](<https://www.rcwtv.com.br/noticia/congresso-promulga-o-fim-da-escala-6x1-e-aposentadoria-especial-para-agentes>) - *16/10/2026*
+- [TSE exige igualdade em inteligência artificial da Meta após falhas](<https://www.rcwtv.com.br/noticia/tse-exige-igualdade-em-inteligencia-artificial-da-meta-apos-falhas>) - *16/10/2026*
+- [Davi Alcolumbre retira PEC da Segurança Pública da pauta do Senado](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-retira-pec-da-seguranca-publica-da-pauta-do-senado>) - *16/10/2026*
+- [Assalto em SP termina com três suspeitos mortos pela polícia militar](<https://www.rcwtv.com.br/noticia/assalto-em-sp-termina-com-tres-suspeitos-mortos-pela-policia-militar>) - *16/10/2026*
+- [Davi Alcolumbre vai promulgar fim da escala 6x1 nesta sexta-feira](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-vai-promulgar-fim-da-escala-6x1-nesta-sexta-feira>) - *16/10/2026*
+
+### Atualização de 16/10/2026
+- [Cristiano Zanin vai relatar novo pedido do PSD sobre segundo turno no Rio](<https://www.rcwtv.com.br/noticia/cristiano-zanin-vai-relatar-novo-pedido-do-psd-sobre-segundo-turno-no-rio>) - *16/10/2026*
+- [Governo planeja crédito para empresas afetadas pelo fim da escala 6x1](<https://www.rcwtv.com.br/noticia/governo-planeja-credito-para-empresas-afetadas-pelo-fim-da-escala-6x1>) - *16/10/2026*
+- [Hugo Motta determina nova jornada de trabalho imediata na Câmara dos Deputados](<https://www.rcwtv.com.br/noticia/hugo-motta-determina-nova-jornada-de-trabalho-imediata-na-camara-dos-deputados>) - *16/10/2026*
+- [Corpo de Bombeiros mobiliza duas viaturas para controlar incêndio em veículo no bairro Bom Clima em Juiz de Fora](<https://www.rcwtv.com.br/noticia/corpo-de-bombeiros-mobiliza-duas-viaturas-para-controlar-incendio-em-veiculo-no-bairro-bom-clima-em-juiz-de-fora>) - *16/10/2026*
+- [Brasil é reeleito para Conselho de Direitos Humanos da ONU com 170 votos](<https://www.rcwtv.com.br/noticia/brasil-e-reeleito-para-conselho-de-direitos-humanos-da-onu-com-170-votos>) - *16/10/2026*
+- [Governo federal monitora impactos das queimadas na saúde do Amazonas](<https://www.rcwtv.com.br/noticia/governo-federal-monitora-impactos-das-queimadas-na-saude-do-amazonas>) - *16/10/2026*
+- [Fim da escala 6x1: Alcolumbre homenageia trajetória de Paulo Paim](<https://www.rcwtv.com.br/noticia/fim-da-escala-6x1-alcolumbre-homenageia-trajetoria-de-paulo-paim>) - *16/10/2026*
+- [TSE rejeita pedido da campanha de Flávio para bloquear posts de sindicatos](<https://www.rcwtv.com.br/noticia/tse-rejeita-pedido-da-campanha-de-flavio-para-bloquear-posts-de-sindicatos>) - *16/10/2026*
+- [Minas Trend abre 36ª edição no BH Shopping em Belo Horizonte no dia 20/10](<https://www.rcwtv.com.br/noticia/minas-trend-abre-36-edicao-no-bh-shopping-em-belo-horizonte-no-dia-20-10>) - *16/10/2026*
+- [Conselho Nacional dos Corregedores-Gerais debate saúde mental e integração em Minas Gerais](<https://www.rcwtv.com.br/noticia/conselho-nacional-dos-corregedores-gerais-debate-saude-mental-e-integracao-em-minas-gerais>) - *16/10/2026*
+
+### Atualização de 17/10/2026
+- [Mirassol vence o Internacional por 2 a 0 e ganha fôlego na luta contra o rebaixamento](<https://www.rcwtv.com.br/noticia/mirassol-vence-o-internacional-por-2-a-0-e-ganha-folego-na-luta-contra-o-rebaixamento>) - *17/10/2026*
+- [Queda na abstenção de eleitores idosos marca o primeiro turno de 2026](<https://www.rcwtv.com.br/noticia/queda-na-abstencao-de-eleitores-idosos-marca-o-primeiro-turno-de-2026>) - *17/10/2026*
+- [Mega-Sena sorteia prêmio acumulado de R$ 170 milhões no domingo](<https://www.rcwtv.com.br/noticia/mega-sena-sorteia-premio-acumulado-de-r-170-milhoes-no-domingo>) - *17/10/2026*
+- [FIEMG alerta para riscos ao emprego e economia com o fim da escala 6x1](<https://www.rcwtv.com.br/noticia/fiemg-alerta-para-riscos-ao-emprego-e-economia-com-o-fim-da-escala-6x1>) - *17/10/2026*
+- [Funalfa divulga resultado da segunda etapa do edital PNAB de fomento à cultura](<https://www.rcwtv.com.br/noticia/funalfa-divulga-resultado-da-segunda-etapa-do-edital-pnab-de-fomento-a-cultura>) - *17/10/2026*
+- [Sabatina de Flávio Bolsonaro na TV Globo é marcada por negações e propostas](<https://www.rcwtv.com.br/noticia/sabatina-de-flavio-bolsonaro-na-tv-globo-e-marcada-por-negacoes-e-propostas>) - *17/10/2026*
+- [Lula comemora fim da escala 6x1 e faz campanha em Minas Gerais](<https://www.rcwtv.com.br/noticia/lula-comemora-fim-da-escala-6x1-e-faz-campanha-em-minas-gerais>) - *17/10/2026*
+- [Anac impõe regras mais rígidas para aviação geral no aeroporto de Congonhas](<https://www.rcwtv.com.br/noticia/anac-impoe-regras-mais-rigidas-para-aviacao-geral-no-aeroporto-de-congonhas>) - *17/10/2026*
+- [Beneficios sociais estagnados podem provocar retracao economica municipal](<https://www.rcwtv.com.br/noticia/beneficios-sociais-estagnados-podem-provocar-retracao-economica-municipal>) - *17/10/2026*
+- [Nova decisão do TSE obriga Meta a garantir isonomia entre candidatos](<https://www.rcwtv.com.br/noticia/nova-decisao-do-tse-obriga-meta-a-garantir-isonomia-entre-candidatos>) - *17/10/2026*
+
+### Atualização de 17/10/2026
+- [Cortes em benefícios sociais podem frear a economia do interior do Brasil](<https://www.rcwtv.com.br/noticia/cortes-em-beneficios-sociais-podem-frear-a-economia-do-interior-do-brasil>) - *17/10/2026*
+- [Justiça Federal ordena que Meta reative contas estudantis no Rio Grande do Sul](<https://www.rcwtv.com.br/noticia/justica-federal-ordena-que-meta-reative-contas-estudantis-no-rio-grande-do-sul>) - *17/10/2026*
+- [Mais de 4 mil eleitores terão mudança no local de votação para o 2º turno](<https://www.rcwtv.com.br/noticia/mais-de-4-mil-eleitores-terao-mudanca-no-local-de-votacao-para-o-2-turno>) - *17/10/2026*
+- [Montes Claros registra abertura de 1.853 empresas em nove meses de 2026](<https://www.rcwtv.com.br/noticia/montes-claros-registra-abertura-de-1-853-empresas-em-nove-meses-de-2026>) - *17/10/2026*
+- [José Sarney recebe alta hospitalar após nove dias de internação](<https://www.rcwtv.com.br/noticia/jose-sarney-recebe-alta-hospitalar-apos-nove-dias-de-internacao>) - *17/10/2026*
+
+### Atualização de 19/10/2026
+- [Anel de noivado: o que observar antes de escolher a joia do pedido](<https://www.rcwtv.com.br/noticia/anel-de-noivado-o-que-observar-antes-de-escolher-a-joia-do-pedido-85082>) - *19/10/2026*
+- [Secult-MG abre eleição para Conselho Estadual de Política Cultural em Minas Gerais](<https://www.rcwtv.com.br/noticia/secult-mg-abre-eleicao-para-conselho-estadual-de-politica-cultural-em-minas-gerais>) - *19/10/2026*
+- [Como melhorar o conforto térmico da sua casa?](<https://www.rcwtv.com.br/noticia/como-melhorar-o-conforto-termico-da-sua-casa>) - *19/10/2026*
+- [Acidentes com trem, caminhão e carro deixam um morto e feridos na Zona da Mata mineira](<https://www.rcwtv.com.br/noticia/acidentes-com-trem-caminhao-e-carro-deixam-um-morto-e-feridos-na-zona-da-mata-mineira>) - *19/10/2026*
+- [Incêndio em casa deixa adolescente de 15 anos com crise de ansiedade em Juiz de Fora](<https://www.rcwtv.com.br/noticia/incendio-em-casa-deixa-adolescente-de-15-anos-com-crise-de-ansiedade-em-juiz-de-fora>) - *19/10/2026*
+- [Privilège Home&amp;Decor acontece nesta semana com quatro dias de programação em Juiz de Fora](<https://www.rcwtv.com.br/noticia/privilege-home-decor-acontece-nesta-semana-com-quatro-dias-de-programacao-em-juiz-de-fora>) - *19/10/2026*
+- [Prazo para escolher idioma da prova do Enem 2026 termina neste domingo](<https://www.rcwtv.com.br/noticia/prazo-para-escolher-idioma-da-prova-do-enem-2026-termina-neste-domingo>) - *19/10/2026*
+- [Empresas de três regiões recebem aporte bilionário para projetos de inovação](<https://www.rcwtv.com.br/noticia/empresas-de-tres-regioes-recebem-aporte-bilionario-para-projetos-de-inovacao>) - *19/10/2026*
+- [Força Nacional vai atuar por 90 dias na região de Belo Monte](<https://www.rcwtv.com.br/noticia/forca-nacional-vai-atuar-por-90-dias-na-regiao-de-belo-monte>) - *19/10/2026*
+- [Ex-balconista de farmácia mobilizou trabalhadores para acabar com a escala 6x1](<https://www.rcwtv.com.br/noticia/ex-balconista-de-farmacia-mobilizou-trabalhadores-para-acabar-com-a-escala-6x1>) - *19/10/2026*
+
+### Atualização de 20/10/2026
+- [André Janones pode receber alta médica em breve, aponta boletim](<https://www.rcwtv.com.br/noticia/andre-janones-pode-receber-alta-medica-em-breve-aponta-boletim>) - *20/10/2026*
+- [DF e quatro estados mantêm os mesmos locais de votação no segundo turno](<https://www.rcwtv.com.br/noticia/df-e-quatro-estados-mantem-os-mesmos-locais-de-votacao-no-segundo-turno>) - *20/10/2026*
+- [Inep divulga resultado de casos logísticos e de saúde do Revalida](<https://www.rcwtv.com.br/noticia/inep-divulga-resultado-de-casos-logisticos-e-de-saude-do-revalida>) - *20/10/2026*
+- [Projeto cria lista tríplice e novas regras para diretores de agências reguladoras](<https://www.rcwtv.com.br/noticia/projeto-cria-lista-triplice-e-novas-regras-para-diretores-de-agencias-reguladoras>) - *20/10/2026*
+- [Emater-MG abre chamada pública para instalação de usinas solares em propriedades atingidas no Rio Doce](<https://www.rcwtv.com.br/noticia/emater-mg-abre-chamada-publica-para-instalacao-de-usinas-solares-em-propriedades-atingidas-no-rio-doce>) - *20/10/2026*
+- [ONU alerta para atraso nas metas globais de biodiversidade e cobra ações até 2030](<https://www.rcwtv.com.br/noticia/onu-alerta-para-atraso-nas-metas-globais-de-biodiversidade-e-cobra-acoes-ate-2030>) - *20/10/2026*
+- [Governo planeja realocar r$ 20 bilhões no orçamento de 2027](<https://www.rcwtv.com.br/noticia/governo-planeja-realocar-r-20-bilhoes-no-orcamento-de-2027>) - *20/10/2026*
+- [Projeto propõe isenção de Imposto de Renda para aposentados com sequelas neurológicas](<https://www.rcwtv.com.br/noticia/projeto-propoe-isencao-de-imposto-de-renda-para-aposentados-com-sequelas-neurologicas>) - *20/10/2026*
+- [Operações da PM terminam em prisões, apreensões de drogas e recuperação de veículos na região](<https://www.rcwtv.com.br/noticia/operacoes-da-pm-terminam-em-prisoes-apreensoes-de-drogas-e-recuperacao-de-veiculos-na-regiao>) - *20/10/2026*
+- [Operações da PM terminam em prisões por tráfico, feminicídio e porte de arma na zona da mata](<https://www.rcwtv.com.br/noticia/operacoes-da-pm-terminam-em-prisoes-por-trafico-feminicidio-e-porte-de-arma-na-zona-da-mata>) - *20/10/2026*
+
+### Atualização de 20/10/2026
+- [Justiça decreta o fim da recuperação judicial do Grupo Americanas](<https://www.rcwtv.com.br/noticia/justica-decreta-o-fim-da-recuperacao-judicial-do-grupo-americanas>) - *20/10/2026*
+- [Como escolher bar de drinks em Juiz de Fora](<https://www.rcwtv.com.br/noticia/como-escolher-bar-de-drinks-em-juiz-de-fora>) - *20/10/2026*
+- [PGR afasta abuso de André Mendonça em apuração sobre Alexandre de Moraes](<https://www.rcwtv.com.br/noticia/pgr-afasta-abuso-de-andre-mendonca-em-apuracao-sobre-alexandre-de-moraes>) - *20/10/2026*
+- [Ato em São Paulo cobra neutralidade da Meta nas eleições após decisão do TSE](<https://www.rcwtv.com.br/noticia/ato-em-sao-paulo-cobra-neutralidade-da-meta-nas-eleicoes-apos-decisao-do-tse>) - *20/10/2026*
+- [Consultas por lesões de colo do útero caem 78% com vacina contra o HPV](<https://www.rcwtv.com.br/noticia/consultas-por-lesoes-de-colo-do-utero-caem-78-com-vacina-contra-o-hpv>) - *20/10/2026*
+- [Projeto de lei criminaliza fraude por desconto indevido em folha de pagamento](<https://www.rcwtv.com.br/noticia/projeto-de-lei-criminaliza-fraude-por-desconto-indevido-em-folha-de-pagamento>) - *20/10/2026*
+- [TRE-RJ altera apenas um local de votação para o segundo turno](<https://www.rcwtv.com.br/noticia/tre-rj-altera-apenas-um-local-de-votacao-para-o-segundo-turno>) - *20/10/2026*
+- [MP cobra TSE por alerta sobre alterações em locais de votação no 2º turno](<https://www.rcwtv.com.br/noticia/mp-cobra-tse-por-alerta-sobre-alteracoes-em-locais-de-votacao-no-2-turno>) - *20/10/2026*
+
+### Atualização de 28/10/2026
+- [As principais novidades para o MEI e pequenas empresas em 2026](<https://www.rcwtv.com.br/noticia/as-principais-novidades-para-o-mei-e-pequenas-empresas-em-2026>) - *28/10/2026*
+- [Câmara aprova acordo do mercosul para proteção de mulheres](<https://www.rcwtv.com.br/noticia/camara-aprova-acordo-do-mercosul-para-protecao-de-mulheres>) - *28/10/2026*
+- [Consumo de alimentos cresce com o avanço do mercado supermercadista no país](<https://www.rcwtv.com.br/noticia/consumo-de-alimentos-cresce-com-o-avanco-do-mercado-supermercadista-no-pais>) - *28/10/2026*
+- [PF apura a fuga de Flávio Bolsonaro do Brasil após ordem do STF](<https://www.rcwtv.com.br/noticia/pf-apura-a-fuga-de-flavio-bolsonaro-do-brasil-apos-ordem-do-stf>) - *28/10/2026*
+- [Kassio Nunes Marques pede parecer da PGR sobre revisão criminal de Bolsonaro](<https://www.rcwtv.com.br/noticia/kassio-nunes-marques-pede-parecer-da-pgr-sobre-revisao-criminal-de-bolsonaro>) - *28/10/2026*
+- [Enem 2026: mulheres e pardos lideram inscrições confirmadas pelo Inep](<https://www.rcwtv.com.br/noticia/enem-2026-mulheres-e-pardos-lideram-inscricoes-confirmadas-pelo-inep>) - *28/10/2026*
+- [Câmara analisa acordo do Mercosul sobre proteção às mulheres em violência](<https://www.rcwtv.com.br/noticia/camara-analisa-acordo-do-mercosul-sobre-protecao-as-mulheres-em-violencia>) - *28/10/2026*
+- [Juiz de Fora e Minas Gerais: Inscrições para Cadastro de Creches em 2027 Começam em Novembro](<https://www.rcwtv.com.br/noticia/juiz-de-fora-e-minas-gerais-inscricoes-para-cadastro-de-creches-em-2027-comecam-em-novembro>) - *28/10/2026*
+- [Juiz de Fora e Minas Gerais: Visita Mediada Caminhos de Mariano Explora Roteiro da Igreja da Glória](<https://www.rcwtv.com.br/noticia/juiz-de-fora-e-minas-gerais-visita-mediada-caminhos-de-mariano-explora-roteiro-da-igreja-da-gloria>) - *28/10/2026*
+- [Bombeiros realizam corte em calçada para libertar gato preso em tubulação no bairro Santa Cruz](<https://www.rcwtv.com.br/noticia/bombeiros-realizam-corte-em-calcada-para-libertar-gato-preso-em-tubulacao-no-bairro-santa-cruz>) - *28/10/2026*
+- [SMU intensifica fiscalização no transporte coletivo de Juiz de Fora com foco na acessibilidade](<https://www.rcwtv.com.br/noticia/smu-intensifica-fiscalizacao-no-transporte-coletivo-de-juiz-de-fora-com-foco-na-acessibilidade>) - *28/10/2026*
+- [Médicos publicam guia para evitar recusa de mamografia digital](<https://www.rcwtv.com.br/noticia/medicos-publicam-guia-para-evitar-recusa-de-mamografia-digital>) - *28/10/2026*
+- [Comissão aprova marco legal das startups com foco em inclusão e bioeconomia](<https://www.rcwtv.com.br/noticia/comissao-aprova-marco-legal-das-startups-com-foco-em-inclusao-e-bioeconomia>) - *28/10/2026*
+- [Cesama executa reparo emergencial em tubulação de água e abastecimento pode oscilar em dois bairros da Zona Norte](<https://www.rcwtv.com.br/noticia/cesama-executa-reparo-emergencial-em-tubulacao-de-agua-e-abastecimento-pode-oscilar-em-dois-bairros-da-zona-norte>) - *28/10/2026*
+- [Marcha para Jesus Altera Trânsito em Juiz de Fora neste Sábado, 31/08](<https://www.rcwtv.com.br/noticia/marcha-para-jesus-altera-transito-em-juiz-de-fora-neste-sabado-31-08>) - *28/10/2026*
+
