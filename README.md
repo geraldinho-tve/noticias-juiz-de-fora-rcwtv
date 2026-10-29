@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Viagem de Flávio Bolsonaro aos EUA e reeleição de Lula geram debate no Plenário](<https://www.rcwtv.com.br/noticia/viagem-de-flavio-bolsonaro-aos-eua-e-reeleicao-de-lula-geram-debate-no-plenario>)
-- 📰 [Flávio Bolsonaro divulga carta de agradecimento a Trump e Milei após fugir](<https://www.rcwtv.com.br/noticia/flavio-bolsonaro-divulga-carta-de-agradecimento-a-trump-e-milei-apos-fugir>)
-- 📰 [Afastamentos por vício em jogos crescem cinco vezes no Brasil](<https://www.rcwtv.com.br/noticia/afastamentos-por-vicio-em-jogos-crescem-cinco-vezes-no-brasil>)
-- 📰 [Justiça bloqueia R$ 327 milhões do Comando Vermelho por venda ilegal de gás](<https://www.rcwtv.com.br/noticia/justica-bloqueia-r-327-milhoes-do-comando-vermelho-por-venda-ilegal-de-gas>)
-- 📰 [As principais novidades para o MEI e pequenas empresas em 2026](<https://www.rcwtv.com.br/noticia/as-principais-novidades-para-o-mei-e-pequenas-empresas-em-2026>)
-- 📰 [Câmara aprova acordo do mercosul para proteção de mulheres](<https://www.rcwtv.com.br/noticia/camara-aprova-acordo-do-mercosul-para-protecao-de-mulheres>)
-- 📰 [Consumo de alimentos cresce com o avanço do mercado supermercadista no país](<https://www.rcwtv.com.br/noticia/consumo-de-alimentos-cresce-com-o-avanco-do-mercado-supermercadista-no-pais>)
-- 📰 [PF apura a fuga de Flávio Bolsonaro do Brasil após ordem do STF](<https://www.rcwtv.com.br/noticia/pf-apura-a-fuga-de-flavio-bolsonaro-do-brasil-apos-ordem-do-stf>)
-- 📰 [Kassio Nunes Marques pede parecer da PGR sobre revisão criminal de Bolsonaro](<https://www.rcwtv.com.br/noticia/kassio-nunes-marques-pede-parecer-da-pgr-sobre-revisao-criminal-de-bolsonaro>)
-- 📰 [Enem 2026: mulheres e pardos lideram inscrições confirmadas pelo Inep](<https://www.rcwtv.com.br/noticia/enem-2026-mulheres-e-pardos-lideram-inscricoes-confirmadas-pelo-inep>)
+- 📰 [Colisão entre dois carros deixa um morto e seis feridos na BR-262 em Abre Campo](<https://www.rcwtv.com.br/noticia/colisao-entre-dois-carros-deixa-um-morto-e-seis-feridos-na-br-262-em-abre-campo-85668>)
+- 📰 [Condenação por lesão corporal contra mulher gera inelegibilidade, define TSE](<https://www.rcwtv.com.br/noticia/condenacao-por-lesao-corporal-contra-mulher-gera-inelegibilidade-define-tse>)
+- 📰 [Governo alerta que cadastramento para o Pix MEI ainda não começou](<https://www.rcwtv.com.br/noticia/governo-alerta-que-cadastramento-para-o-pix-mei-ainda-nao-comecou>)
+- 📰 [Carta golpista e fuga aumentam isolamento político de Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/carta-golpista-e-fuga-aumentam-isolamento-politico-de-flavio-bolsonaro>)
+- 📰 [Palmeiras tropeça na Vila, Botafogo perde para o Remo e arbitragem vira assunto na 33ª rodada](<https://www.rcwtv.com.br/noticia/palmeiras-tropeca-na-vila-botafogo-perde-para-o-remo-e-arbitragem-vira-assunto-na-33-rodada>)
+- 📰 [Operações da Polícia Militar terminam com prisão de foragidos e flagrante de tráfico na região](<https://www.rcwtv.com.br/noticia/operacoes-da-policia-militar-terminam-com-prisao-de-foragidos-e-flagrante-de-trafico-na-regiao>)
+- 📰 [Colisão entre dois carros deixa um morto e seis feridos na BR-262 em Abre Campo](<https://www.rcwtv.com.br/noticia/colisao-entre-dois-carros-deixa-um-morto-e-seis-feridos-na-br-262-em-abre-campo>)
+- 📰 [Triângulo Mineiro recebe R$ 11,2 milhões para tratamento de câncer](<https://www.rcwtv.com.br/noticia/triangulo-mineiro-recebe-r-11-2-milhoes-para-tratamento-de-cancer>)
+- 📰 [Biometria facial será obrigatória para linhas de telefonia móvel](<https://www.rcwtv.com.br/noticia/biometria-facial-sera-obrigatoria-para-linhas-de-telefonia-movel>)
+- 📰 [Comissão aprova expansão do uso do vale-cultura para compras pela internet](<https://www.rcwtv.com.br/noticia/comissao-aprova-expansao-do-uso-do-vale-cultura-para-compras-pela-internet>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
