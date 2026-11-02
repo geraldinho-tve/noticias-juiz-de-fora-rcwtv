@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Anvisa aprova ampliação do uso do implanon para cinco anos](<https://www.rcwtv.com.br/noticia/anvisa-aprova-ampliacao-do-uso-do-implanon-para-cinco-anos>)
-- 📰 [Novas mudanças nos vales-alimentação entram em vigor no dia 7 de novembro](<https://www.rcwtv.com.br/noticia/novas-mudancas-nos-vales-alimentacao-entram-em-vigor-no-dia-7-de-novembro>)
-- 📰 [MEC encaminha denúncias de violência política para investigação da Polícia Federal](<https://www.rcwtv.com.br/noticia/mec-encaminha-denuncias-de-violencia-politica-para-investigacao-da-policia-federal>)
-- 📰 [Operação cumpre mandados contra fraudes em contratos no Sul de Minas](<https://www.rcwtv.com.br/noticia/operacao-cumpre-mandados-contra-fraudes-em-contratos-no-sul-de-minas>)
-- 📰 [Sigma Lithium alcança marco histórico de segurança no trabalho em Minas Gerais](<https://www.rcwtv.com.br/noticia/sigma-lithium-alcanca-marco-historico-de-seguranca-no-trabalho-em-minas-gerais>)
-- 📰 [anvisa suspende propaganda irregular de suplementos alimentares](<https://www.rcwtv.com.br/noticia/anvisa-suspende-propaganda-irregular-de-suplementos-alimentares>)
-- 📰 [Ministério Público aponta avanços e desafios no sistema socioeducativo em Belo Horizonte](<https://www.rcwtv.com.br/noticia/ministerio-publico-aponta-avancos-e-desafios-no-sistema-socioeducativo-em-belo-horizonte>)
-- 📰 [Anvisa detalha simulação de emergência em saúde pública no boletim](<https://www.rcwtv.com.br/noticia/anvisa-detalha-simulacao-de-emergencia-em-saude-publica-no-boletim>)
-- 📰 [Ministério Público de Minas Gerais e governo entregam 70 viaturas para Defesas Civis](<https://www.rcwtv.com.br/noticia/ministerio-publico-de-minas-gerais-e-governo-entregam-70-viaturas-para-defesas-civis>)
-- 📰 [anvisa suspende lotes de medicamentos para câncer e solução](<https://www.rcwtv.com.br/noticia/anvisa-suspende-lotes-de-medicamentos-para-cancer-e-solucao>)
+- 📰 [Cadastro de creches 2027 em Juiz de Fora começa em 9 de novembro; saiba onde fazer](<https://www.rcwtv.com.br/noticia/cadastro-de-creches-2027-em-juiz-de-fora-comeca-em-9-de-novembro-saiba-onde-fazer>)
+- 📰 [Novas regras do SAC passam a valer com exigência de atendimento humano](<https://www.rcwtv.com.br/noticia/novas-regras-do-sac-passam-a-valer-com-exigencia-de-atendimento-humano>)
+- 📰 [Cadastro escolar 2027 em Juiz de Fora termina em 13 de novembro; veja quem deve se inscrever](<https://www.rcwtv.com.br/noticia/cadastro-escolar-2027-em-juiz-de-fora-termina-em-13-de-novembro-veja-quem-deve-se-inscrever>)
+- 📰 [Tribunal de Justiça isenta concessionária por combustível contaminado](<https://www.rcwtv.com.br/noticia/tribunal-de-justica-isenta-concessionaria-por-combustivel-contaminado>)
+- 📰 [André Lara Resende culpa a taxa de juros pelo desequilíbrio fiscal no Brasil](<https://www.rcwtv.com.br/noticia/andre-lara-resende-culpa-a-taxa-de-juros-pelo-desequilibrio-fiscal-no-brasil>)
+- 📰 [Dia de Finados no Rio é marcado por homenagens e soltura de balões](<https://www.rcwtv.com.br/noticia/dia-de-finados-no-rio-e-marcado-por-homenagens-e-soltura-de-baloes>)
+- 📰 [Defesa Civil de Juiz de Fora: como receber alertas de chuva no celular por SMS e WhatsApp](<https://www.rcwtv.com.br/noticia/defesa-civil-de-juiz-de-fora-como-receber-alertas-de-chuva-no-celular-por-sms-e-whatsapp>)
+- 📰 [Vagou JF: como achar vaga de emprego em Juiz de Fora no portal da Prefeitura](<https://www.rcwtv.com.br/noticia/vagou-jf-como-achar-vaga-de-emprego-em-juiz-de-fora-no-portal-da-prefeitura>)
+- 📰 [Visitantes relembram entes queridos no Dia de Finados em cemitério de Brasília](<https://www.rcwtv.com.br/noticia/visitantes-relembram-entes-queridos-no-dia-de-finados-em-cemiterio-de-brasilia>)
+- 📰 [Espiaqui 2026: UFJF abre o campus de Juiz de Fora à comunidade de 5 a 7 de novembro](<https://www.rcwtv.com.br/noticia/espiaqui-2026-ufjf-abre-o-campus-de-juiz-de-fora-a-comunidade-de-5-a-7-de-novembro>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
