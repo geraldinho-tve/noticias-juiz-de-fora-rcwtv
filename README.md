@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Justiça determina plano para assistência social de Frutal em 120 dias](<https://www.rcwtv.com.br/noticia/justica-determina-plano-para-assistencia-social-de-frutal-em-120-dias>)
-- 📰 [São João del-Rei tem 256 vagas em concursos com salários de até R$ 15 mil; inscrições](<https://www.rcwtv.com.br/noticia/sao-joao-del-rei-tem-256-vagas-em-concursos-com-salarios-de-ate-r-15-mil-inscricoes>)
-- 📰 [Fala JOTAEFE - A Câmara estará na Praça Clodesmidt Riani no dia 19](<https://www.rcwtv.com.br/noticia/fala-jotaefe-a-camara-estara-na-praca-clodesmidt-riani-no-dia-19>)
-- 📰 [Segurança no trabalho: Justiça mantém justa causa de trabalhador que usou celular](<https://www.rcwtv.com.br/noticia/seguranca-no-trabalho-justica-mantem-justa-causa-de-trabalhador-que-usou-celular>)
-- 📰 [Vale-refeição e vale-alimentação terão novas regras a partir deste sábado; veja o que muda](<https://www.rcwtv.com.br/noticia/vale-refeicao-e-vale-alimentacao-terao-novas-regras-a-partir-deste-sabado-veja-o-que-muda>)
-- 📰 [Mulher é presa pela PCMG suspeita de extorsão e ameaça em Janaúba](<https://www.rcwtv.com.br/noticia/mulher-e-presa-pela-pcmg-suspeita-de-extorsao-e-ameaca-em-janauba>)
-- 📰 [Defesa Civil realiza 37 demolições em Juiz de Fora nesta semana - Portal PJF | Notícias](<https://www.rcwtv.com.br/noticia/defesa-civil-realiza-37-demolicoes-em-juiz-de-fora-nesta-semana-portal-pjf-noticias>)
-- 📰 [Cleitinho deve ter supersecretários para coordenar o governo](<https://www.rcwtv.com.br/noticia/cleitinho-deve-ter-supersecretarios-para-coordenar-o-governo>)
-- 📰 [Balanço 2023-2026: Governo de Minas amplia presença em áreas vulneráveis com ações](<https://www.rcwtv.com.br/noticia/balanco-2023-2026-governo-de-minas-amplia-presenca-em-areas-vulneraveis-com-acoes>)
-- 📰 [Evento debate o potencial pedagógico das séries com autoras de Vermelho Sangue](<https://www.rcwtv.com.br/noticia/evento-debate-o-potencial-pedagogico-das-series-com-autoras-de-vermelho-sangue>)
+- 📰 [Procon-MPMG multa empresa Expresso Adamantina em mais de R$ 100 mil](<https://www.rcwtv.com.br/noticia/procon-mpmg-multa-empresa-expresso-adamantina-em-mais-de-r-100-mil>)
+- 📰 [Resumo do Dia em Juiz de Fora: Principais notícias e destaques de 07/11/2026](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-principais-noticias-e-destaques-de-07-11-2026>)
+- 📰 [MP Itinerante realiza 1.446 atendimentos no Triângulo Mineiro](<https://www.rcwtv.com.br/noticia/mp-itinerante-realiza-1-446-atendimentos-no-triangulo-mineiro>)
+- 📰 [TV MP reúne especialistas em série de entrevistas sobre direito penal](<https://www.rcwtv.com.br/noticia/tv-mp-reune-especialistas-em-serie-de-entrevistas-sobre-direito-penal>)
+- 📰 [Frente fria avança com risco de tempestades e queda de temperatura](<https://www.rcwtv.com.br/noticia/frente-fria-avanca-com-risco-de-tempestades-e-queda-de-temperatura>)
+- 📰 [Salvador Boat Show teve desfile de moda pela primeira vez com coleção apresentada na São Paulo Fashion Week](<https://www.rcwtv.com.br/noticia/salvador-boat-show-teve-desfile-de-moda-pela-primeira-vez-com-colecao-apresentada-na-sao-paulo-fashion-week>)
+- 📰 [Rio de Janeiro enfrenta chuva intensa e rajadas de vento neste fim de semana](<https://www.rcwtv.com.br/noticia/rio-de-janeiro-enfrenta-chuva-intensa-e-rajadas-de-vento-neste-fim-de-semana>)
+- 📰 [Anvisa vai certificar insumos farmacêuticos ativos produzidos no Brasil](<https://www.rcwtv.com.br/noticia/anvisa-vai-certificar-insumos-farmaceuticos-ativos-produzidos-no-brasil>)
+- 📰 [MPMG destina recursos para projetos em Ouro Preto](<https://www.rcwtv.com.br/noticia/mpmg-destina-recursos-para-projetos-em-ouro-preto>)
+- 📰 [Minas Gerais forma maior turma de oficiais da Polícia Militar com 203 cadetes](<https://www.rcwtv.com.br/noticia/minas-gerais-forma-maior-turma-de-oficiais-da-policia-militar-com-203-cadetes>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

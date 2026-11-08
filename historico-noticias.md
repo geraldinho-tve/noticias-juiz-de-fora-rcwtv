@@ -1228,3 +1228,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Anvisa determina apreensão de suplementos alimentares irregulares em todo o país](<https://www.rcwtv.com.br/noticia/anvisa-determina-apreensao-de-suplementos-alimentares-irregulares-em-todo-o-pais>) - *07/11/2026*
 - [Prefeitura de Juiz de Fora desmente informações falsas sobre a UPA Norte](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-desmente-informacoes-falsas-sobre-a-upa-norte>) - *07/11/2026*
 
+### Atualização de 07/11/2026
+- [Procon-MPMG multa empresa Expresso Adamantina em mais de R$ 100 mil](<https://www.rcwtv.com.br/noticia/procon-mpmg-multa-empresa-expresso-adamantina-em-mais-de-r-100-mil>) - *07/11/2026*
+- [Resumo do Dia em Juiz de Fora: Principais notícias e destaques de 07/11/2026](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-principais-noticias-e-destaques-de-07-11-2026>) - *07/11/2026*
+- [MP Itinerante realiza 1.446 atendimentos no Triângulo Mineiro](<https://www.rcwtv.com.br/noticia/mp-itinerante-realiza-1-446-atendimentos-no-triangulo-mineiro>) - *07/11/2026*
+- [TV MP reúne especialistas em série de entrevistas sobre direito penal](<https://www.rcwtv.com.br/noticia/tv-mp-reune-especialistas-em-serie-de-entrevistas-sobre-direito-penal>) - *07/11/2026*
+- [Frente fria avança com risco de tempestades e queda de temperatura](<https://www.rcwtv.com.br/noticia/frente-fria-avanca-com-risco-de-tempestades-e-queda-de-temperatura>) - *07/11/2026*
+- [Salvador Boat Show teve desfile de moda pela primeira vez com coleção apresentada na São Paulo Fashion Week](<https://www.rcwtv.com.br/noticia/salvador-boat-show-teve-desfile-de-moda-pela-primeira-vez-com-colecao-apresentada-na-sao-paulo-fashion-week>) - *07/11/2026*
+- [Rio de Janeiro enfrenta chuva intensa e rajadas de vento neste fim de semana](<https://www.rcwtv.com.br/noticia/rio-de-janeiro-enfrenta-chuva-intensa-e-rajadas-de-vento-neste-fim-de-semana>) - *07/11/2026*
+- [Anvisa vai certificar insumos farmacêuticos ativos produzidos no Brasil](<https://www.rcwtv.com.br/noticia/anvisa-vai-certificar-insumos-farmaceuticos-ativos-produzidos-no-brasil>) - *07/11/2026*
+- [MPMG destina recursos para projetos em Ouro Preto](<https://www.rcwtv.com.br/noticia/mpmg-destina-recursos-para-projetos-em-ouro-preto>) - *07/11/2026*
+- [Minas Gerais forma maior turma de oficiais da Polícia Militar com 203 cadetes](<https://www.rcwtv.com.br/noticia/minas-gerais-forma-maior-turma-de-oficiais-da-policia-militar-com-203-cadetes>) - *07/11/2026*
+- [Copasa participa de evento de educação ambiental na Pampulha](<https://www.rcwtv.com.br/noticia/copasa-participa-de-evento-de-educacao-ambiental-na-pampulha>) - *07/11/2026*
+- [“Salvador pode se tornar a maior potência náutica do país”: prefeitura projeta alta de 15% nos empregos da Economia do Mar em 2027](<https://www.rcwtv.com.br/noticia/salvador-pode-se-tornar-a-maior-potencia-nautica-do-pais-prefeitura-projeta-alta-de-15-nos-empregos-da-economia-do-mar-em-2027>) - *07/11/2026*
+- [Justiça anula contratação de assessoria jurídica pela Câmara de Cipotânea](<https://www.rcwtv.com.br/noticia/justica-anula-contratacao-de-assessoria-juridica-pela-camara-de-cipotanea>) - *07/11/2026*
+- [MPMG realiza visita técnica ao Instituto de Criminalística em Belo Horizonte](<https://www.rcwtv.com.br/noticia/mpmg-realiza-visita-tecnica-ao-instituto-de-criminalistica-em-belo-horizonte-86539>) - *07/11/2026*
+- [MPMG realiza visita técnica ao Instituto de Criminalística em Belo Horizonte](<https://www.rcwtv.com.br/noticia/mpmg-realiza-visita-tecnica-ao-instituto-de-criminalistica-em-belo-horizonte>) - *07/11/2026*
+
