@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Procon-MPMG multa empresa Expresso Adamantina em mais de R$ 100 mil](<https://www.rcwtv.com.br/noticia/procon-mpmg-multa-empresa-expresso-adamantina-em-mais-de-r-100-mil>)
+- 📰 [Aposta de Goiânia fatura prêmio de R$ 59,5 milhões na Mega-Sena](<https://www.rcwtv.com.br/noticia/aposta-de-goiania-fatura-premio-de-r-59-5-milhoes-na-mega-sena>)
+- 📰 [Enem 2026 garante cão de apoio emocional e novas regras de acessibilidade](<https://www.rcwtv.com.br/noticia/enem-2026-garante-cao-de-apoio-emocional-e-novas-regras-de-acessibilidade>)
+- 📰 [MPMG localiza e prende foragido conhecido como Rei da Sucata em SP](<https://www.rcwtv.com.br/noticia/mpmg-localiza-e-prende-foragido-conhecido-como-rei-da-sucata-em-sp>)
+- 📰 [Abastecimento de água entra em recuperação em Belo Horizonte, Contagem e Ibirité](<https://www.rcwtv.com.br/noticia/abastecimento-de-agua-entra-em-recuperacao-em-belo-horizonte-contagem-e-ibirite>)
+- 📰 [Defesa Civil alerta para tempestades no Enem em Minas Gerais](<https://www.rcwtv.com.br/noticia/defesa-civil-alerta-para-tempestades-no-enem-em-minas-gerais>)
+- 📰 [Herdeiros não respondem por dívidas do falecido com patrimônio próprio](<https://www.rcwtv.com.br/noticia/herdeiros-nao-respondem-por-dividas-do-falecido-com-patrimonio-proprio>)
+- 📰 [Enem 2026: participantes devem chegar antes das 13h para realizar a prova](<https://www.rcwtv.com.br/noticia/enem-2026-participantes-devem-chegar-antes-das-13h-para-realizar-a-prova>)
+- 📰 [Investimento em minerais críticos pode render até 25 vezes em impostos](<https://www.rcwtv.com.br/noticia/investimento-em-minerais-criticos-pode-render-ate-25-vezes-em-impostos>)
 - 📰 [Resumo do Dia em Juiz de Fora: Principais notícias e destaques de 07/11/2026](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-principais-noticias-e-destaques-de-07-11-2026>)
-- 📰 [MP Itinerante realiza 1.446 atendimentos no Triângulo Mineiro](<https://www.rcwtv.com.br/noticia/mp-itinerante-realiza-1-446-atendimentos-no-triangulo-mineiro>)
-- 📰 [TV MP reúne especialistas em série de entrevistas sobre direito penal](<https://www.rcwtv.com.br/noticia/tv-mp-reune-especialistas-em-serie-de-entrevistas-sobre-direito-penal>)
-- 📰 [Frente fria avança com risco de tempestades e queda de temperatura](<https://www.rcwtv.com.br/noticia/frente-fria-avanca-com-risco-de-tempestades-e-queda-de-temperatura>)
-- 📰 [Salvador Boat Show teve desfile de moda pela primeira vez com coleção apresentada na São Paulo Fashion Week](<https://www.rcwtv.com.br/noticia/salvador-boat-show-teve-desfile-de-moda-pela-primeira-vez-com-colecao-apresentada-na-sao-paulo-fashion-week>)
-- 📰 [Rio de Janeiro enfrenta chuva intensa e rajadas de vento neste fim de semana](<https://www.rcwtv.com.br/noticia/rio-de-janeiro-enfrenta-chuva-intensa-e-rajadas-de-vento-neste-fim-de-semana>)
-- 📰 [Anvisa vai certificar insumos farmacêuticos ativos produzidos no Brasil](<https://www.rcwtv.com.br/noticia/anvisa-vai-certificar-insumos-farmaceuticos-ativos-produzidos-no-brasil>)
-- 📰 [MPMG destina recursos para projetos em Ouro Preto](<https://www.rcwtv.com.br/noticia/mpmg-destina-recursos-para-projetos-em-ouro-preto>)
-- 📰 [Minas Gerais forma maior turma de oficiais da Polícia Militar com 203 cadetes](<https://www.rcwtv.com.br/noticia/minas-gerais-forma-maior-turma-de-oficiais-da-policia-militar-com-203-cadetes>)
+- 📰 [Procon-MPMG multa empresa Expresso Adamantina em mais de R$ 100 mil](<https://www.rcwtv.com.br/noticia/procon-mpmg-multa-empresa-expresso-adamantina-em-mais-de-r-100-mil>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

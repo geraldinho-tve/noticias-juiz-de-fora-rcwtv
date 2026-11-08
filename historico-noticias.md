@@ -1245,3 +1245,13 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [MPMG realiza visita técnica ao Instituto de Criminalística em Belo Horizonte](<https://www.rcwtv.com.br/noticia/mpmg-realiza-visita-tecnica-ao-instituto-de-criminalistica-em-belo-horizonte-86539>) - *07/11/2026*
 - [MPMG realiza visita técnica ao Instituto de Criminalística em Belo Horizonte](<https://www.rcwtv.com.br/noticia/mpmg-realiza-visita-tecnica-ao-instituto-de-criminalistica-em-belo-horizonte>) - *07/11/2026*
 
+### Atualização de 08/11/2026
+- [Aposta de Goiânia fatura prêmio de R$ 59,5 milhões na Mega-Sena](<https://www.rcwtv.com.br/noticia/aposta-de-goiania-fatura-premio-de-r-59-5-milhoes-na-mega-sena>) - *08/11/2026*
+- [Enem 2026 garante cão de apoio emocional e novas regras de acessibilidade](<https://www.rcwtv.com.br/noticia/enem-2026-garante-cao-de-apoio-emocional-e-novas-regras-de-acessibilidade>) - *08/11/2026*
+- [MPMG localiza e prende foragido conhecido como Rei da Sucata em SP](<https://www.rcwtv.com.br/noticia/mpmg-localiza-e-prende-foragido-conhecido-como-rei-da-sucata-em-sp>) - *08/11/2026*
+- [Abastecimento de água entra em recuperação em Belo Horizonte, Contagem e Ibirité](<https://www.rcwtv.com.br/noticia/abastecimento-de-agua-entra-em-recuperacao-em-belo-horizonte-contagem-e-ibirite>) - *08/11/2026*
+- [Defesa Civil alerta para tempestades no Enem em Minas Gerais](<https://www.rcwtv.com.br/noticia/defesa-civil-alerta-para-tempestades-no-enem-em-minas-gerais>) - *08/11/2026*
+- [Herdeiros não respondem por dívidas do falecido com patrimônio próprio](<https://www.rcwtv.com.br/noticia/herdeiros-nao-respondem-por-dividas-do-falecido-com-patrimonio-proprio>) - *08/11/2026*
+- [Enem 2026: participantes devem chegar antes das 13h para realizar a prova](<https://www.rcwtv.com.br/noticia/enem-2026-participantes-devem-chegar-antes-das-13h-para-realizar-a-prova>) - *08/11/2026*
+- [Investimento em minerais críticos pode render até 25 vezes em impostos](<https://www.rcwtv.com.br/noticia/investimento-em-minerais-criticos-pode-render-ate-25-vezes-em-impostos>) - *08/11/2026*
+
