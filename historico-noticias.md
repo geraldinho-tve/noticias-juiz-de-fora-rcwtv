@@ -1255,3 +1255,9 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Enem 2026: participantes devem chegar antes das 13h para realizar a prova](<https://www.rcwtv.com.br/noticia/enem-2026-participantes-devem-chegar-antes-das-13h-para-realizar-a-prova>) - *08/11/2026*
 - [Investimento em minerais críticos pode render até 25 vezes em impostos](<https://www.rcwtv.com.br/noticia/investimento-em-minerais-criticos-pode-render-ate-25-vezes-em-impostos>) - *08/11/2026*
 
+### Atualização de 08/11/2026
+- [Resenha do Enem traz análise de professores ao vivo neste domingo](<https://www.rcwtv.com.br/noticia/resenha-do-enem-traz-analise-de-professores-ao-vivo-neste-domingo>) - *08/11/2026*
+- [Redação do Enem aborda a valorização do SUS como direito universal](<https://www.rcwtv.com.br/noticia/redacao-do-enem-aborda-a-valorizacao-do-sus-como-direito-universal>) - *08/11/2026*
+- [Candidatos enfrentam o primeiro dia de provas do Enem 2026 em todo o país](<https://www.rcwtv.com.br/noticia/candidatos-enfrentam-o-primeiro-dia-de-provas-do-enem-2026-em-todo-o-pais>) - *08/11/2026*
+- [Lula classifica a aplicação do Enem como uma guerra a favor da educação](<https://www.rcwtv.com.br/noticia/lula-classifica-a-aplicacao-do-enem-como-uma-guerra-a-favor-da-educacao>) - *08/11/2026*
+
