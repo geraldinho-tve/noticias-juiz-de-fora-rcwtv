@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Projeto propõe novas regras de segurança para traves de gol em Juiz de Fora](<https://www.rcwtv.com.br/noticia/projeto-propoe-novas-regras-de-seguranca-para-traves-de-gol-em-juiz-de-fora>)
-- 📰 [Homem vai a júri popular após estrangular ex-noiva em Belo Horizonte](<https://www.rcwtv.com.br/noticia/homem-vai-a-juri-popular-apos-estrangular-ex-noiva-em-belo-horizonte>)
-- 📰 [Câmara dos Deputados votará proposta de ajuste fiscal na próxima segunda-feira](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-votara-proposta-de-ajuste-fiscal-na-proxima-segunda-feira>)
-- 📰 [Andrei Rodrigues entrega a Edson Fachin relatórios sobre o Banco Master](<https://www.rcwtv.com.br/noticia/andrei-rodrigues-entrega-a-edson-fachin-relatorios-sobre-o-banco-master>)
-- 📰 [Estatuto da Igualdade Racial em Minas avança, mas cobra mais recursos](<https://www.rcwtv.com.br/noticia/estatuto-da-igualdade-racial-em-minas-avanca-mas-cobra-mais-recursos>)
-- 📰 [Flamengo vence Athletico-PR, Palmeiras perde para o Cruzeiro e fica muito perto do título brasileiro](<https://www.rcwtv.com.br/noticia/flamengo-vence-athletico-pr-palmeiras-perde-para-o-cruzeiro-e-fica-muito-perto-do-titulo-brasileiro>)
-- 📰 [Prefeitura suspende o atendimento externo da PGM em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prefeitura-suspende-o-atendimento-externo-da-pgm-em-juiz-de-fora>)
-- 📰 [Justiça proíbe contratações temporárias irregulares em Tupaciguara](<https://www.rcwtv.com.br/noticia/justica-proibe-contratacoes-temporarias-irregulares-em-tupaciguara>)
-- 📰 [Treinador de futebol é preso por estupro de vulnerável em Itacarambi](<https://www.rcwtv.com.br/noticia/treinador-de-futebol-e-preso-por-estupro-de-vulneravel-em-itacarambi>)
-- 📰 [UFJF adota nova estratégia para organizar locais de prova do Pism](<https://www.rcwtv.com.br/noticia/ufjf-adota-nova-estrategia-para-organizar-locais-de-prova-do-pism>)
+- 📰 [Sindicato cobra participação nas regras do quadro escolar em Minas](<https://www.rcwtv.com.br/noticia/sindicato-cobra-participacao-nas-regras-do-quadro-escolar-em-minas>)
+- 📰 [Novas diretrizes para pesquisa científica em hematologia e seres humanos](<https://www.rcwtv.com.br/noticia/novas-diretrizes-para-pesquisa-cientifica-em-hematologia-e-seres-humanos>)
+- 📰 [Comitiva da Etiópia conhece tecnologias de pecuária leiteira na Embrapa](<https://www.rcwtv.com.br/noticia/comitiva-da-etiopia-conhece-tecnologias-de-pecuaria-leiteira-na-embrapa>)
+- 📰 [Saúde de Minas Gerais reforça cuidados contra a transmissão de sarna humana](<https://www.rcwtv.com.br/noticia/saude-de-minas-gerais-reforca-cuidados-contra-a-transmissao-de-sarna-humana>)
+- 📰 [UFV registra pontuação científica de 70 em laboratórios e núcleos](<https://www.rcwtv.com.br/noticia/ufv-registra-pontuacao-cientifica-de-70-em-laboratorios-e-nucleos>)
+- 📰 [Xi Jinping,Trump e Putin finalizam reunião trilateral histórica com 'declaração de paz' sobre armas nucleares](<https://www.rcwtv.com.br/noticia/xi-jinping-trump-e-putin-finalizam-reuniao-trilateral-historica-com-declaracao-de-paz-sobre-armas-nucleares>)
+- 📰 [Simpósio de Pesquisa em Educação Matemática debate IA e ensino na UFJF](<https://www.rcwtv.com.br/noticia/simposio-de-pesquisa-em-educacao-matematica-debate-ia-e-ensino-na-ufjf>)
+- 📰 [UFJF abre vagas para professor substituto com editais publicados](<https://www.rcwtv.com.br/noticia/ufjf-abre-vagas-para-professor-substituto-com-editais-publicados>)
+- 📰 [Cruzeiro vira em três minutos e deixa Palmeiras à beira do adeus ao título do Brasileirão 2026](<https://www.rcwtv.com.br/noticia/cruzeiro-vira-em-tres-minutos-e-deixa-palmeiras-a-beira-do-adeus-ao-titulo-do-brasileirao-2026>)
+- 📰 [MPMG exige fim de irregularidades no pagamento de diárias em Baependi](<https://www.rcwtv.com.br/noticia/mpmg-exige-fim-de-irregularidades-no-pagamento-de-diarias-em-baependi>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

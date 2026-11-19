@@ -1532,3 +1532,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Atingidos exigem retomada de auxílio da Vale pago a famílias em Minas Gerais](<https://www.rcwtv.com.br/noticia/atingidos-exigem-retomada-de-auxilio-da-vale-pago-a-familias-em-minas-gerais>) - *18/11/2026*
 - [Senado Federal aprova ajuste fiscal do governo após rejeitar mudanças no texto](<https://www.rcwtv.com.br/noticia/senado-federal-aprova-ajuste-fiscal-do-governo-apos-rejeitar-mudancas-no-texto>) - *18/11/2026*
 
+### Atualização de 19/11/2026
+- [Sindicato cobra participação nas regras do quadro escolar em Minas](<https://www.rcwtv.com.br/noticia/sindicato-cobra-participacao-nas-regras-do-quadro-escolar-em-minas>) - *19/11/2026*
+- [Novas diretrizes para pesquisa científica em hematologia e seres humanos](<https://www.rcwtv.com.br/noticia/novas-diretrizes-para-pesquisa-cientifica-em-hematologia-e-seres-humanos>) - *19/11/2026*
+- [Comitiva da Etiópia conhece tecnologias de pecuária leiteira na Embrapa](<https://www.rcwtv.com.br/noticia/comitiva-da-etiopia-conhece-tecnologias-de-pecuaria-leiteira-na-embrapa>) - *19/11/2026*
+- [Saúde de Minas Gerais reforça cuidados contra a transmissão de sarna humana](<https://www.rcwtv.com.br/noticia/saude-de-minas-gerais-reforca-cuidados-contra-a-transmissao-de-sarna-humana>) - *19/11/2026*
+- [UFV registra pontuação científica de 70 em laboratórios e núcleos](<https://www.rcwtv.com.br/noticia/ufv-registra-pontuacao-cientifica-de-70-em-laboratorios-e-nucleos>) - *19/11/2026*
+- [Xi Jinping,Trump e Putin finalizam reunião trilateral histórica com 'declaração de paz' sobre armas nucleares](<https://www.rcwtv.com.br/noticia/xi-jinping-trump-e-putin-finalizam-reuniao-trilateral-historica-com-declaracao-de-paz-sobre-armas-nucleares>) - *19/11/2026*
+- [Simpósio de Pesquisa em Educação Matemática debate IA e ensino na UFJF](<https://www.rcwtv.com.br/noticia/simposio-de-pesquisa-em-educacao-matematica-debate-ia-e-ensino-na-ufjf>) - *19/11/2026*
+- [UFJF abre vagas para professor substituto com editais publicados](<https://www.rcwtv.com.br/noticia/ufjf-abre-vagas-para-professor-substituto-com-editais-publicados>) - *19/11/2026*
+- [Cruzeiro vira em três minutos e deixa Palmeiras à beira do adeus ao título do Brasileirão 2026](<https://www.rcwtv.com.br/noticia/cruzeiro-vira-em-tres-minutos-e-deixa-palmeiras-a-beira-do-adeus-ao-titulo-do-brasileirao-2026>) - *19/11/2026*
+- [MPMG exige fim de irregularidades no pagamento de diárias em Baependi](<https://www.rcwtv.com.br/noticia/mpmg-exige-fim-de-irregularidades-no-pagamento-de-diarias-em-baependi>) - *19/11/2026*
+- [Câmara dos Deputados aprova projeto que garante acessibilidade a idosos no esporte](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-aprova-projeto-que-garante-acessibilidade-a-idosos-no-esporte>) - *19/11/2026*
+- [Transporte gratuito no fim de semana é defendido por Luiz Inácio Lula da Silva](<https://www.rcwtv.com.br/noticia/transporte-gratuito-no-fim-de-semana-e-defendido-por-luiz-inacio-lula-da-silva>) - *19/11/2026*
+- [Kits de feiras livres impulsionam agricultura familiar em Minas Gerais](<https://www.rcwtv.com.br/noticia/kits-de-feiras-livres-impulsionam-agricultura-familiar-em-minas-gerais>) - *19/11/2026*
+- [Minas Gerais conclui descaracterização de barragens em 18 estruturas desde 2023](<https://www.rcwtv.com.br/noticia/minas-gerais-conclui-descaracterizacao-de-barragens-em-18-estruturas-desde-2023>) - *19/11/2026*
+- [Ratos e escorpiões preocupam vizinhos de casa que desabou no Mundo Novo, em Juiz de Fora](<https://www.rcwtv.com.br/noticia/ratos-e-escorpioes-preocupam-vizinhos-de-casa-que-desabou-no-mundo-novo-em-juiz-de-fora>) - *19/11/2026*
+
