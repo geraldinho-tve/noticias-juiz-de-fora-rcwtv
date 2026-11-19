@@ -1515,3 +1515,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [CCJ aprova prioridade na restituição do Imposto de Renda para áreas em calamidade](<https://www.rcwtv.com.br/noticia/ccj-aprova-prioridade-na-restituicao-do-imposto-de-renda-para-areas-em-calamidade>) - *18/11/2026*
 - [Polícia Civil prende suspeito de tentativa de homicídio contra pai](<https://www.rcwtv.com.br/noticia/policia-civil-prende-suspeito-de-tentativa-de-homicidio-contra-pai>) - *18/11/2026*
 
+### Atualização de 18/11/2026
+- [Projeto propõe novas regras de segurança para traves de gol em Juiz de Fora](<https://www.rcwtv.com.br/noticia/projeto-propoe-novas-regras-de-seguranca-para-traves-de-gol-em-juiz-de-fora>) - *18/11/2026*
+- [Homem vai a júri popular após estrangular ex-noiva em Belo Horizonte](<https://www.rcwtv.com.br/noticia/homem-vai-a-juri-popular-apos-estrangular-ex-noiva-em-belo-horizonte>) - *18/11/2026*
+- [Câmara dos Deputados votará proposta de ajuste fiscal na próxima segunda-feira](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-votara-proposta-de-ajuste-fiscal-na-proxima-segunda-feira>) - *18/11/2026*
+- [Andrei Rodrigues entrega a Edson Fachin relatórios sobre o Banco Master](<https://www.rcwtv.com.br/noticia/andrei-rodrigues-entrega-a-edson-fachin-relatorios-sobre-o-banco-master>) - *18/11/2026*
+- [Estatuto da Igualdade Racial em Minas avança, mas cobra mais recursos](<https://www.rcwtv.com.br/noticia/estatuto-da-igualdade-racial-em-minas-avanca-mas-cobra-mais-recursos>) - *18/11/2026*
+- [Flamengo vence Athletico-PR, Palmeiras perde para o Cruzeiro e fica muito perto do título brasileiro](<https://www.rcwtv.com.br/noticia/flamengo-vence-athletico-pr-palmeiras-perde-para-o-cruzeiro-e-fica-muito-perto-do-titulo-brasileiro>) - *18/11/2026*
+- [Prefeitura suspende o atendimento externo da PGM em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prefeitura-suspende-o-atendimento-externo-da-pgm-em-juiz-de-fora>) - *18/11/2026*
+- [Justiça proíbe contratações temporárias irregulares em Tupaciguara](<https://www.rcwtv.com.br/noticia/justica-proibe-contratacoes-temporarias-irregulares-em-tupaciguara>) - *18/11/2026*
+- [Treinador de futebol é preso por estupro de vulnerável em Itacarambi](<https://www.rcwtv.com.br/noticia/treinador-de-futebol-e-preso-por-estupro-de-vulneravel-em-itacarambi>) - *18/11/2026*
+- [UFJF adota nova estratégia para organizar locais de prova do Pism](<https://www.rcwtv.com.br/noticia/ufjf-adota-nova-estrategia-para-organizar-locais-de-prova-do-pism>) - *18/11/2026*
+- [Câmara analisa projeto que cria carteira de identificação para mãe atípica em Juiz](<https://www.rcwtv.com.br/noticia/camara-analisa-projeto-que-cria-carteira-de-identificacao-para-mae-atipica-em-juiz>) - *18/11/2026*
+- [Passaporte Mineiro do Conhecimento reúne 400 alunos em formação](<https://www.rcwtv.com.br/noticia/passaporte-mineiro-do-conhecimento-reune-400-alunos-em-formacao>) - *18/11/2026*
+- [Prefeitura de Juiz de Fora lamenta falecimento de Juliana Perpétua](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-lamenta-falecimento-de-juliana-perpetua>) - *18/11/2026*
+- [Atingidos exigem retomada de auxílio da Vale pago a famílias em Minas Gerais](<https://www.rcwtv.com.br/noticia/atingidos-exigem-retomada-de-auxilio-da-vale-pago-a-familias-em-minas-gerais>) - *18/11/2026*
+- [Senado Federal aprova ajuste fiscal do governo após rejeitar mudanças no texto](<https://www.rcwtv.com.br/noticia/senado-federal-aprova-ajuste-fiscal-do-governo-apos-rejeitar-mudancas-no-texto>) - *18/11/2026*
+

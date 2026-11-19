@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Tribunal encerra fórum com aprovação da Carta de Prerrogativas em Minas](<https://www.rcwtv.com.br/noticia/tribunal-encerra-forum-com-aprovacao-da-carta-de-prerrogativas-em-minas>)
-- 📰 [UBS Torreões promove atividades sobre o Dia da Consciência Negra](<https://www.rcwtv.com.br/noticia/ubs-torreoes-promove-atividades-sobre-o-dia-da-consciencia-negra>)
-- 📰 [Receita diz que não punirá erros de boa-fé na Reforma Tributária em 2027](<https://www.rcwtv.com.br/noticia/receita-diz-que-nao-punira-erros-de-boa-fe-na-reforma-tributaria-em-2027>)
-- 📰 [Assembleia rejeita veto parcial à LDO e mantém regras de saúde e educação](<https://www.rcwtv.com.br/noticia/assembleia-rejeita-veto-parcial-a-ldo-e-mantem-regras-de-saude-e-educacao>)
-- 📰 [Prefeitura recua e garante estrutura para blocos no Carnaval 2027 em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prefeitura-recua-e-garante-estrutura-para-blocos-no-carnaval-2027-em-juiz-de-fora>)
-- 📰 [Dedetização em Campos dos Goytacazes: contato, serviços](<https://www.rcwtv.com.br/noticia/dedetizacao-em-campos-dos-goytacazes-contato-servicos>)
-- 📰 [Juiz de Fora inaugura ponto de apoio para trabalhadores de aplicativo na Zona](<https://www.rcwtv.com.br/noticia/juiz-de-fora-inaugura-ponto-de-apoio-para-trabalhadores-de-aplicativo-na-zona>)
-- 📰 [Comissão Externa de Combate à Pirataria debate avanço do crime no setor produtivo](<https://www.rcwtv.com.br/noticia/comissao-externa-de-combate-a-pirataria-debate-avanco-do-crime-no-setor-produtivo>)
-- 📰 [MEC prorroga adesão ao Selo Nacional Compromisso com a Alfabetização até o dia 23](<https://www.rcwtv.com.br/noticia/mec-prorroga-adesao-ao-selo-nacional-compromisso-com-a-alfabetizacao-ate-o-dia-23>)
-- 📰 [Jogos Escolares de Minas Gerais selecionam entidade com repasse de R$ 56,9 milhões](<https://www.rcwtv.com.br/noticia/jogos-escolares-de-minas-gerais-selecionam-entidade-com-repasse-de-r-56-9-milhoes>)
+- 📰 [Projeto propõe novas regras de segurança para traves de gol em Juiz de Fora](<https://www.rcwtv.com.br/noticia/projeto-propoe-novas-regras-de-seguranca-para-traves-de-gol-em-juiz-de-fora>)
+- 📰 [Homem vai a júri popular após estrangular ex-noiva em Belo Horizonte](<https://www.rcwtv.com.br/noticia/homem-vai-a-juri-popular-apos-estrangular-ex-noiva-em-belo-horizonte>)
+- 📰 [Câmara dos Deputados votará proposta de ajuste fiscal na próxima segunda-feira](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-votara-proposta-de-ajuste-fiscal-na-proxima-segunda-feira>)
+- 📰 [Andrei Rodrigues entrega a Edson Fachin relatórios sobre o Banco Master](<https://www.rcwtv.com.br/noticia/andrei-rodrigues-entrega-a-edson-fachin-relatorios-sobre-o-banco-master>)
+- 📰 [Estatuto da Igualdade Racial em Minas avança, mas cobra mais recursos](<https://www.rcwtv.com.br/noticia/estatuto-da-igualdade-racial-em-minas-avanca-mas-cobra-mais-recursos>)
+- 📰 [Flamengo vence Athletico-PR, Palmeiras perde para o Cruzeiro e fica muito perto do título brasileiro](<https://www.rcwtv.com.br/noticia/flamengo-vence-athletico-pr-palmeiras-perde-para-o-cruzeiro-e-fica-muito-perto-do-titulo-brasileiro>)
+- 📰 [Prefeitura suspende o atendimento externo da PGM em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prefeitura-suspende-o-atendimento-externo-da-pgm-em-juiz-de-fora>)
+- 📰 [Justiça proíbe contratações temporárias irregulares em Tupaciguara](<https://www.rcwtv.com.br/noticia/justica-proibe-contratacoes-temporarias-irregulares-em-tupaciguara>)
+- 📰 [Treinador de futebol é preso por estupro de vulnerável em Itacarambi](<https://www.rcwtv.com.br/noticia/treinador-de-futebol-e-preso-por-estupro-de-vulneravel-em-itacarambi>)
+- 📰 [UFJF adota nova estratégia para organizar locais de prova do Pism](<https://www.rcwtv.com.br/noticia/ufjf-adota-nova-estrategia-para-organizar-locais-de-prova-do-pism>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
