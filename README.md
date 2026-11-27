@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Vaivém: Professora da UFPE tem nomeação por cotas suspensa pela segunda vez](<https://www.rcwtv.com.br/noticia/vaivem-professora-da-ufpe-tem-nomeacao-por-cotas-suspensa-pela-segunda-vez>)
-- 📰 [Prêmio Mulheres Inovadoras reconhece dez pesquisadoras nesta quarta-feira](<https://www.rcwtv.com.br/noticia/premio-mulheres-inovadoras-reconhece-dez-pesquisadoras-nesta-quarta-feira>)
-- 📰 [STF decide que ações trabalhistas devem indicar valor estimado da indenização](<https://www.rcwtv.com.br/noticia/stf-decide-que-acoes-trabalhistas-devem-indicar-valor-estimado-da-indenizacao>)
-- 📰 [Banco Central e CMN anunciam novas regras para conter endividamento no Brasil](<https://www.rcwtv.com.br/noticia/banco-central-e-cmn-anunciam-novas-regras-para-conter-endividamento-no-brasil>)
-- 📰 [Funasa aponta déficit de 110 mil cisternas e 1,3 milhão de banheiros no Brasil](<https://www.rcwtv.com.br/noticia/funasa-aponta-deficit-de-110-mil-cisternas-e-1-3-milhao-de-banheiros-no-brasil>)
-- 📰 [Justiça do Rio de Janeiro torna réu acusado de agredir o professor André Aires](<https://www.rcwtv.com.br/noticia/justica-do-rio-de-janeiro-torna-reu-acusado-de-agredir-o-professor-andre-aires>)
-- 📰 [Resumo do Dia em Juiz de Fora (25/11): 6 mil doses na saúde, vagas e temporais](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-25-11-6-mil-doses-na-saude-vagas-e-temporais>)
-- 📰 [Tribunal de Contas da União afasta multas a Dilma e ex-integrantes da equipe](<https://www.rcwtv.com.br/noticia/tribunal-de-contas-da-uniao-afasta-multas-a-dilma-e-ex-integrantes-da-equipe>)
-- 📰 [O dólar comercial registrou forte queda nesta quarta-feira (25) no Brasil](<https://www.rcwtv.com.br/noticia/o-dolar-comercial-registrou-forte-queda-nesta-quarta-feira-25-no-brasil>)
-- 📰 [Governo do Rio de Janeiro suspende aulas na rede pública devido a chuvas fortes](<https://www.rcwtv.com.br/noticia/governo-do-rio-de-janeiro-suspende-aulas-na-rede-publica-devido-a-chuvas-fortes>)
+- 📰 [Bears viram sobre os Lions nos segundos finais e Rams batem Packers](<https://www.rcwtv.com.br/noticia/bears-viram-sobre-os-lions-nos-segundos-finais-e-rams-batem-packers>)
+- 📰 [Eagles conseguem virada histórica sobre Cowboys em jogo de 77 pontos](<https://www.rcwtv.com.br/noticia/eagles-conseguem-virada-historica-sobre-cowboys-em-jogo-de-77-pontos>)
+- 📰 [Prêmio da Mega-Sena acumula em R$ 82 milhões após sorteio sem acertadores](<https://www.rcwtv.com.br/noticia/premio-da-mega-sena-acumula-em-r-82-milhoes-apos-sorteio-sem-acertadores>)
+- 📰 [20 de novembro, o ano inteiro: O mês da Consciência Negra e o Cenário Mineiro](<https://www.rcwtv.com.br/noticia/20-de-novembro-o-ano-inteiro-o-mes-da-consciencia-negra-e-o-cenario-mineiro>)
+- 📰 [Educadores ambientais cobram mais orçamento na Comissão de Meio Ambiente](<https://www.rcwtv.com.br/noticia/educadores-ambientais-cobram-mais-orcamento-na-comissao-de-meio-ambiente>)
+- 📰 [Luiz Carlos Trabuco Cappi aceita convite para assumir o Ministério da Fazenda](<https://www.rcwtv.com.br/noticia/luiz-carlos-trabuco-cappi-aceita-convite-para-assumir-o-ministerio-da-fazenda>)
+- 📰 [Vacina contra câncer Brasil: testes clínicos no SUS avançam com Oxford e Fiocruz](<https://www.rcwtv.com.br/noticia/vacina-contra-cancer-brasil-testes-clinicos-no-sus-avancam-com-oxford-e-fiocruz>)
+- 📰 [Resumo do Dia em Juiz de Fora (26/11): MPMG aciona PJF e Senai abre 500 vagas](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-26-11-mpmg-aciona-pjf-e-senai-abre-500-vagas>)
+- 📰 [Comissão de Cultura aprova projeto sobre energia e eventos climáticos](<https://www.rcwtv.com.br/noticia/comissao-de-cultura-aprova-projeto-sobre-energia-e-eventos-climaticos>)
+- 📰 [Pix terá novas regras de segurança e melhorias anunciadas pelo Banco Central](<https://www.rcwtv.com.br/noticia/pix-tera-novas-regras-de-seguranca-e-melhorias-anunciadas-pelo-banco-central>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
