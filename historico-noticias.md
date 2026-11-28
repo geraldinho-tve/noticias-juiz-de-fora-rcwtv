@@ -1749,3 +1749,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Comissão de Finanças e Tributação aprova projeto sobre taxas para PF e Exército](<https://www.rcwtv.com.br/noticia/comissao-de-financas-e-tributacao-aprova-projeto-sobre-taxas-para-pf-e-exercito>) - *27/11/2026*
 - [Fundagres Inovar participa do Fórum da ONU sobre Direitos Humanos em Genebra](<https://www.rcwtv.com.br/noticia/fundagres-inovar-participa-do-forum-da-onu-sobre-direitos-humanos-em-genebra>) - *27/11/2026*
 
+### Atualização de 27/11/2026
+- [TJMG e AGU firmam acordo para cobrar despesas previdenciárias de agressores](<https://www.rcwtv.com.br/noticia/tjmg-e-agu-firmam-acordo-para-cobrar-despesas-previdenciarias-de-agressores>) - *27/11/2026*
+- [Comissão finaliza visitas a 52 escolas leiloadas em Minas Gerais](<https://www.rcwtv.com.br/noticia/comissao-finaliza-visitas-a-52-escolas-leiloadas-em-minas-gerais>) - *27/11/2026*
+- [Câmara Municipal de Juiz de Fora conquista Selo Ouro de Transparência Pública](<https://www.rcwtv.com.br/noticia/camara-municipal-de-juiz-de-fora-conquista-selo-ouro-de-transparencia-publica>) - *27/11/2026*
+- [Minas Gerais atinge meta do Juros por Educação para o exercício de 2026](<https://www.rcwtv.com.br/noticia/minas-gerais-atinge-meta-do-juros-por-educacao-para-o-exercicio-de-2026>) - *27/11/2026*
+- [Ministério Público promove encontro com movimentos sociais no Sul de Minas](<https://www.rcwtv.com.br/noticia/ministerio-publico-promove-encontro-com-movimentos-sociais-no-sul-de-minas>) - *27/11/2026*
+- [Artesãos selecionados pelo Governo de Minas participam de festival no Rio](<https://www.rcwtv.com.br/noticia/artesaos-selecionados-pelo-governo-de-minas-participam-de-festival-no-rio>) - *27/11/2026*
+- [CPI das Emendas da Saúde analisa ofício da Prefeitura e cobra documentos](<https://www.rcwtv.com.br/noticia/cpi-das-emendas-da-saude-analisa-oficio-da-prefeitura-e-cobra-documentos>) - *27/11/2026*
+- [Procon-MPMG capacita agentes fiscais para fortalecer defesa do consumidor no Norte](<https://www.rcwtv.com.br/noticia/procon-mpmg-capacita-agentes-fiscais-para-fortalecer-defesa-do-consumidor-no-norte>) - *27/11/2026*
+- [Unidade Regional do Ipsemg em Curvelo muda para a UAI na próxima terça-feira](<https://www.rcwtv.com.br/noticia/unidade-regional-do-ipsemg-em-curvelo-muda-para-a-uai-na-proxima-terca-feira>) - *27/11/2026*
+- [Câmara Municipal de Juiz de Fora debate uso de ponto eletrônico para professores](<https://www.rcwtv.com.br/noticia/camara-municipal-de-juiz-de-fora-debate-uso-de-ponto-eletronico-para-professores>) - *27/11/2026*
+- [Polícia Militar do Rio de Janeiro ocupa comunidades de Jacarepaguá](<https://www.rcwtv.com.br/noticia/policia-militar-do-rio-de-janeiro-ocupa-comunidades-de-jacarepagua>) - *27/11/2026*
+- [Cemig encerra leilão de imóveis urbanos e rurais com lances na Superbid](<https://www.rcwtv.com.br/noticia/cemig-encerra-leilao-de-imoveis-urbanos-e-rurais-com-lances-na-superbid>) - *27/11/2026*
+- [TJMG debate inteligência institucional e atendimento humanizado na Paraíba](<https://www.rcwtv.com.br/noticia/tjmg-debate-inteligencia-institucional-e-atendimento-humanizado-na-paraiba>) - *27/11/2026*
+- [Aneel mantém bandeira verde e conta de luz não terá custo extra em dezembro](<https://www.rcwtv.com.br/noticia/aneel-mantem-bandeira-verde-e-conta-de-luz-nao-tera-custo-extra-em-dezembro>) - *27/11/2026*
+- [Copese atualiza endereço de escola municipal em Petrópolis para provas](<https://www.rcwtv.com.br/noticia/copese-atualiza-endereco-de-escola-municipal-em-petropolis-para-provas>) - *27/11/2026*
+
